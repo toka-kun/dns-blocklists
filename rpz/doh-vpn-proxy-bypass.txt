@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780312680 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780336500 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 01 Jun 2026 11:18 UTC
-; Version: 2026.0601.1118.25
+; Last modified: 01 Jun 2026 17:55 UTC
+; Version: 2026.0601.1755.59
 ; Syntax: RPZ
-; Number of entries: 34634
+; Number of entries: 34624
 ;
 bebra.ac CNAME .
 *.bebra.ac CNAME .
@@ -3651,18 +3651,12 @@ ejlkjsdfks.xklvjdsf.1000pizzas.com CNAME .
 *.1145145.com CNAME .
 123anonymous.com CNAME .
 *.123anonymous.com CNAME .
-123goproxy.com CNAME .
-*.123goproxy.com CNAME .
 123hideip.com CNAME .
 *.123hideip.com CNAME .
 123roms.com CNAME .
 *.123roms.com CNAME .
-123superproxy.com CNAME .
-*.123superproxy.com CNAME .
 123torr.com CNAME .
 *.123torr.com CNAME .
-123ultraproxy.com CNAME .
-*.123ultraproxy.com CNAME .
 123unblocked.com CNAME .
 *.123unblocked.com CNAME .
 123xhj.com CNAME .
@@ -16049,8 +16043,6 @@ vpn-professional.company CNAME .
 *.vpn-professional.company CNAME .
 dns1.luan.contact CNAME .
 *.dns1.luan.contact CNAME .
-123proxy.cool CNAME .
-*.123proxy.cool CNAME .
 cv2.cool CNAME .
 *.cv2.cool CNAME .
 dreaming.is-not.cool CNAME .
@@ -33377,8 +33369,6 @@ dns.010812.xyz CNAME .
 *.dns.010812.xyz CNAME .
 041ad0cfb636.xyz CNAME .
 *.041ad0cfb636.xyz CNAME .
-069538.xyz CNAME .
-*.069538.xyz CNAME .
 dns.080590.xyz CNAME .
 *.dns.080590.xyz CNAME .
 adguardhome.0x4min.xyz CNAME .

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Jun 2026 10:26 UTC
-# Version: 2026.0601.1026.56
+# Last modified: 01 Jun 2026 18:54 UTC
+# Version: 2026.0601.1854.24
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 921
+# Number of entries: 907
 #
 local=/one4u.0lx.net/
 local=/free.bizhat.com/
@@ -31,7 +31,6 @@ local=/ishg.za.com/
 local=/000.pe/
 local=/000a.de/
 local=/000free.us/
-local=/000nethost.com/
 local=/000webhost.com/
 local=/000webhost.fr/
 local=/000webhostapp.com/
@@ -301,7 +300,6 @@ local=/creatorlink.net/
 local=/cs-clan.org/
 local=/ct.ws/
 local=/ct8.pl/
-local=/ctempurl.com/
 local=/cut.vin/
 local=/cwqso.net/
 local=/cyberbree.com/
@@ -455,7 +453,6 @@ local=/fun5.de/
 local=/fw.bz/
 local=/fwh.is/
 local=/game.lc/
-local=/gamer.gd/
 local=/gaming.lc/
 local=/gerentebr.com/
 local=/getenjoyment.net/
@@ -506,7 +503,6 @@ local=/hyderabadadda.com/
 local=/hyip.com/
 local=/i.gp/
 local=/ibiz.cc/
-local=/iblogger.org/
 local=/ic0.app/
 local=/iceiy.com/
 local=/id.gp/
@@ -522,7 +518,6 @@ local=/in24.de/
 local=/inbox24.eu/
 local=/inbox24.net/
 local=/inbox24.org/
-local=/infinityfree.me/
 local=/infinityfreeapp.com/
 local=/info.cm/
 local=/info.nu/
@@ -541,8 +536,6 @@ local=/iptime.org/
 local=/ir.gp/
 local=/is-alive.de/
 local=/is-best.net/
-local=/is-great.net/
-local=/is-great.org/
 local=/ispot.cc/
 local=/ist-ok.de/
 local=/it.gp/
@@ -620,7 +613,6 @@ local=/musik.cx/
 local=/musik.lc/
 local=/mx.gp/
 local=/my.gp/
-local=/my-board.org/
 local=/my-free.website/
 local=/my-place.us/
 local=/myartsonline.com/
@@ -629,7 +621,6 @@ local=/mybluehost.me/
 local=/mybluehostin.me/
 local=/myclickfunnels.com/
 local=/mycpanel.rs/
-local=/mydiscussion.net/
 local=/myeweb.net/
 local=/myfoolmoon.com/
 local=/myfreesites.net/
@@ -676,7 +667,6 @@ local=/online.gp/
 local=/online.ly/
 local=/online.tc/
 local=/online-net.de/
-local=/onlineweb.shop/
 local=/onlinewebshop.net/
 local=/only4u.eu/
 local=/onmbl.com/
@@ -730,7 +720,6 @@ local=/ql4h.net/
 local=/qu.am/
 local=/r.gp/
 local=/r-e.kr/
-local=/rapidshare.se/
 local=/re2.de/
 local=/reco.ws/
 local=/regruhosting.ru/
@@ -751,7 +740,6 @@ local=/se.gp/
 local=/search.gp/
 local=/securebankinggroup.com/
 local=/securebankinggroup.org/
-local=/secureonline.store/
 local=/seite.com/
 local=/seite.info/
 local=/seite.ru/
@@ -800,7 +788,6 @@ local=/te4m.de/
 local=/team.cx/
 local=/team.tl/
 local=/teamzonesports.com/
-local=/tehno-politen.ru/
 local=/tempisite.com/
 local=/temporary.site/
 local=/temporary-demo.site/
@@ -826,7 +813,6 @@ local=/tripod.com/
 local=/turkish.lc/
 local=/tw.gp/
 local=/tw1.ru/
-local=/twc1.net/
 local=/u.gp/
 local=/ua.gp/
 local=/ubpages.com/

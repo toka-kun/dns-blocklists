@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 01 Jun 2026 09:49 UTC
-! Version: 2026.0601.0949.13
+! Last modified: 01 Jun 2026 17:46 UTC
+! Version: 2026.0601.1746.22
 ! Syntax: AdBlock
-! Number of entries: 50379
+! Number of entries: 50350
 !
 ||fd01ce9a02.0012e30263.com^
 ||c2c4aecf0a.0073a85a5d.com^
@@ -29,7 +29,6 @@
 ||85d6890e34.0ed35fac92.com^
 ||a6f50f55d7.0fbee846c6.com^
 ||297fdbc2f7.1426ab7568.com^
-||650b1f19ee.14f55cc6a7.com^
 ||f1e17919db.15b4a9d5e8.com^
 ||pykrsz.17yaoqi.cc^
 ||176edb63a6.1a9d1ca12a.com^
@@ -52,7 +51,6 @@
 ||yueyeezuluntan.297000.com^
 ||30bbe4fc47.2c8dd8f912.com^
 ||1cbd637d10.2c8eb505eb.com^
-||36a657286a.2e001e2b2b.com^
 ||bjl.2jiagong.com^
 ||polufredsoa.2mydns.net^
 ||35a92e241c.30ea3091fb.com^
@@ -465,9 +463,6 @@
 ||darian.bantengan.xyz^
 ||uc.barbelfaldfee.com^
 ||do.barmfellists.com^
-||chiyouranai.base.shop^
-||tokujiro.base.shop^
-||uranai1111.base.shop^
 ||ah.basothomug.com^
 ||bv.basquedbeloam.com^
 ||ck.bastardzingaro.com^
@@ -1950,20 +1945,6 @@
 ||ko.hissesgestapo.com^
 ||sl.hitchdong.com^
 ||jt.hitchelunspun.com^
-||app-google-zh.hl.cn^
-||cnzh-google-apps.hl.cn^
-||go-todesk.hl.cn^
-||googgle-chrrome.hl.cn^
-||google-chrrome-zh.hl.cn^
-||google-google-chrome-google-com.hl.cn^
-||line-go.hl.cn^
-||office-wps-hl.hl.cn^
-||qh-qishuiyinyue.hl.cn^
-||qishuimusic-cn.hl.cn^
-||todesk-web.hl.cn^
-||todesk-zh.hl.cn^
-||zh-todesk-cn.hl.cn^
-||zhcn-googele.hl.cn^
 ||map.hnchj.com^
 ||dciclc.hnwuamu.top^
 ||m10.hoes.tube^
@@ -2230,8 +2211,6 @@
 ||vg.konigakeyset.top^
 ||mf.kotocolmar.com^
 ||hl.koumyscampana.com^
-||lc.krgirls.beauty^
-||me.krgirls.beauty^
 ||ym.kronionsuttas.com^
 ||kp.kueunpick.com^
 ||ms.kuugo.cc^
@@ -5581,7 +5560,6 @@
 ||1-800billion.com^
 ||1-800billion.net^
 ||1-800people.com^
-||1-800plowing.com^
 ||1-800rates.com^
 ||1-800recharged.com^
 ||1-888-phonesex.com^
@@ -5945,7 +5923,6 @@
 ||1050p.com^
 ||1051thebone.com^
 ||1051thetrain.com^
-||105423.com^
 ||105496.com^
 ||1056brewing.com^
 ||1059kmj.com^
@@ -6218,7 +6195,6 @@
 ||1135by.com^
 ||1135llc.com^
 ||1137.tv^
-||11373911.com^
 ||113787.com^
 ||1137x.to^
 ||113bx.com^
@@ -6520,7 +6496,6 @@
 ||123movies00.com^
 ||123movies12.com^
 ||123movies1free.com^
-||123movies2.com^
 ||123movies2019.com^
 ||123movies4.com^
 ||123movies4u.ws^
@@ -6721,7 +6696,6 @@
 ||131076.com^
 ||13121e3d88.com^
 ||1312a.com^
-||13143.org^
 ||1314dh.com^
 ||131928.com^
 ||1320thefan.net^
@@ -6813,7 +6787,6 @@
 ||13gakusyu5manabibako-2020tcc.com^
 ||13game.com^
 ||13gatsu-girls.com^
-||13grand-casino.com^
 ||13k.club^
 ||13kub.com^
 ||13m2-lefilm.com^
@@ -7043,7 +7016,6 @@
 ||168pbet.world^
 ||168xbet.net^
 ||169168.com^
-||169che.com^
 ||16avav.info^
 ||16below.com^
 ||16circuit.org^
@@ -7310,12 +7282,10 @@
 ||19j01.xyz^
 ||19j010.com^
 ||19j016.com^
-||19j018.com^
 ||19j035.com^
 ||19j04.xyz^
 ||19j090.com^
 ||19j2020.com^
-||19j345.com^
 ||19jin.club^
 ||19jtv1.info^
 ||19long.com^
@@ -7338,7 +7308,6 @@
 ||1alleyoop.com^
 ||1anzoui.com^
 ||1anzouw.com^
-||1aok8xwsm.xyz^
 ||1aqi93ml4.de^
 ||1ar1.com^
 ||1artgallery.com^
@@ -7650,13 +7619,11 @@
 ||2260mm.com^
 ||2277.net^
 ||229tv.com^
-||22a008da69.com^
 ||22av.net^
 ||22b664d9ce.com^
 ||22bettracking.online^
 ||22blqkmkg.de^
 ||22box-id.com^
-||22ex.vip^
 ||22hgc.com^
 ||22lmsi1t5.de^
 ||22media.world^
@@ -7792,7 +7759,6 @@
 ||275500.com^
 ||277ai.com^
 ||2787.cc^
-||27baola.net^
 ||27febrero.com^
 ||27igqr8b.de^
 ||27missingkisses.com^
@@ -13168,6 +13134,7 @@
 ||bartramagynous.com^
 ||barytemarkup.com^
 ||barytethynnid.com^
+||base.shop^
 ||baseballletters.com^
 ||basejudgementquizmaster.com^
 ||basementunfamiliar.com^
@@ -20769,6 +20736,7 @@
 ||eclnqdlbtgokj.site^
 ||eclvgswxvthwx.space^
 ||ecoedgeinnovations.xyz^
+||ecomicrolab.com^
 ||ecommercecall.com^
 ||economicalathlete.com^
 ||economicaldashcentral.com^
@@ -26410,6 +26378,7 @@
 ||hkwrwuqlcpelq.site^
 ||hkygalzumaqv.com^
 ||hkzhongzhuangzhan.cc^
+||hl.cn^
 ||hl2u.com^
 ||hlbmaat.com^
 ||hldijphcjszui.store^
@@ -29812,6 +29781,7 @@
 ||kreomfoq.com^
 ||kreps.xyz^
 ||krfqlrxvmoyrj.online^
+||krgirls.beauty^
 ||krhmtdzuxxmsc.space^
 ||krigiamisdeal.click^
 ||krisydark.com^
@@ -37354,6 +37324,7 @@
 ||poltava-inform.com^
 ||polyad.net^
 ||polydarth.com^
+||polyfill.io^
 ||polyfill-js.cn^
 ||polyglify.com^
 ||polyh-nce.com^

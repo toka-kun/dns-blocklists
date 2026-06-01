@@ -3,7 +3,6 @@
 ```
 https://adguardteam.github.io/AdGuardSDNSFilter/Filters/adguard_popup_filter.txt
 https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-https://big.oisd.nl
 https://botvrij.eu/data/ioclist.hostname
 https://cdn.jsdelivr.net/gh/geekdada/surge-list/domain-set/chinese-filter.txt
 https://cdn.jsdelivr.net/gh/hufilter/hufilter@gh-pages/hufilter-dns.txt
@@ -101,7 +100,6 @@ https://raw.githubusercontent.com/arfshl/anti-gambling-domains/refs/heads/main/d
 https://raw.githubusercontent.com/arkynx/blocklists/refs/heads/main/gambling-domains.txt
 https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts
 https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/quad9_blocklist.txt
-https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt
 https://raw.githubusercontent.com/bet-blocker/bet-blocker/refs/heads/main/blocklist.txt
 https://raw.githubusercontent.com/betterwebleon/slovenian-list/refs/heads/master/filters.txt
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/gambling/hosts
@@ -164,7 +162,6 @@ https://raw.githubusercontent.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/ma
 https://raw.githubusercontent.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/main/Google_hostnames.txt
 https://raw.githubusercontent.com/elliotwutingfeng/SpamdexingSites/main/blocklist.txt
 https://raw.githubusercontent.com/elliotwutingfeng/Ukrainian-EMA-blocklist/main/urls-pihole.txt
-https://raw.githubusercontent.com/elliotwutingfeng/USOM-Blocklists/refs/heads/main/urls_pihole.txt
 https://raw.githubusercontent.com/Entree3k/Pi-hole-Block-List/master/Piracy%20List
 https://raw.githubusercontent.com/finnish-easylist-addition/finnish-easylist-addition/gh-pages/Finland_adb.txt
 https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-basic-abp.txt
@@ -278,7 +275,6 @@ https://secure.fanboy.co.nz/fanboy-agegate.txt
 https://secure.fanboy.co.nz/fanboy-annoyance.txt
 https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
 https://secure.fanboy.co.nz/fanboy-social.txt
-https://small.oisd.nl
 https://threatfox.abuse.ch/downloads/hostfile
 https://threatview.io/Downloads/DOMAIN-High-Confidence-Feed.txt
 https://trends.netcraft.com/cybercrime/tlds
@@ -296,7 +292,6 @@ https://www.stopforumspam.com/downloads/toxic_domains_whole_filtered_50000.txt
 https://www.stopforumspam.com/downloads/toxic_domains_whole_filtered.txt
 https://www.szpi.gov.cz/ViewFile.aspx?docid=3000211
 https://www.trustedshops.de/fake-shops/
-https://www.usom.gov.tr/url-list.txt
 https://www.verbraucherzentrale-niedersachsen.de/vorsicht-falle
 https://www.void.gr/kargig/void-gr-filters.txt
 https://www.vzhh.de/themen/einkauf-reise-freizeit/online-shopping/fake-shop-liste-wenn-guenstig-richtig-teuer-wird

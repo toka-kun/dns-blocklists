@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Jun 2026 11:08 UTC
-# Version: 2026.0601.1108.09
+# Last modified: 01 Jun 2026 19:09 UTC
+# Version: 2026.0601.1909.02
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 22222
+# Number of entries: 22211
 #
 local=/hichemtigsetorgy.0fees.net/
 local=/tracker.0x7c0.com/
@@ -1518,7 +1518,6 @@ local=/123movies.watch/
 local=/123movies.website/
 local=/123movies.wine/
 local=/123movies.work/
-local=/123movies-apk.com/
 local=/123movies-app.net/
 local=/123movies-app.xyz/
 local=/123movies-official.lol/
@@ -1535,8 +1534,6 @@ local=/123movies4u.life/
 local=/123movies4u.net/
 local=/123movies4us.online/
 local=/123movies9.fun/
-local=/123movies9.life/
-local=/123movies9.lol/
 local=/123movies9.mom/
 local=/123movies9.surf/
 local=/123moviesad.com/
@@ -1563,7 +1560,6 @@ local=/123moviesfree.net/
 local=/123moviesfree.store/
 local=/123moviesfree.uk/
 local=/123moviesfree.website/
-local=/123moviesfree9.digital/
 local=/123moviesfree9.monster/
 local=/123moviesfree9.pro/
 local=/123moviesfree9.tattoo/
@@ -1670,7 +1666,6 @@ local=/1flix.to/
 local=/1gabba.net/
 local=/1gabba.pw/
 local=/1hd.to/
-local=/1jour1film.online/
 local=/1jour1film.website/
 local=/1jour1film0226.site/
 local=/1jour1film0326.site/
@@ -1982,7 +1977,6 @@ local=/9kmovies.info/
 local=/9kmovies.irish/
 local=/9kmovies.legal/
 local=/9kmovies.life/
-local=/9kmovies.lol/
 local=/9kmovies.makeup/
 local=/9kmovies.mov/
 local=/9kmovies.pet/
@@ -2533,6 +2527,7 @@ local=/animepahe.org/
 local=/animepahe.pw/
 local=/animepahe.ru/
 local=/animepahetv.to/
+local=/animepictures.top/
 local=/animepill.com/
 local=/animeplex.fun/
 local=/animeram.cc/
@@ -19222,12 +19217,6 @@ local=/tayna-koko-lordfilms.ru/
 local=/tazz.tv/
 local=/tazz-tv.net/
 local=/tazz-tv.sx/
-local=/tb-cdn.cx/
-local=/tb-cdn.io/
-local=/tb-cdn.pw/
-local=/tb-cdn.sh/
-local=/tb-cdn.st/
-local=/tb-cdn.to/
 local=/tb7.pl/
 local=/tc-boxing.com/
 local=/tcbscans3.com/
@@ -19645,6 +19634,7 @@ local=/tiraz.net/
 local=/titaniki-lordfilm.ru/
 local=/titaniumstresser.net/
 local=/titany-lordfilm3.ru/
+local=/tivioneiptv.live/
 local=/tixati.com/
 local=/tiz-cycling.tv/
 local=/tjrksciow.pro/
@@ -19734,7 +19724,6 @@ local=/topstreams.me/
 local=/topstressers.com/
 local=/topwarez.fr/
 local=/tor-lordfilm3.ru/
-local=/torbox.app/
 local=/tordj.com/
 local=/torentcrestin.net/
 local=/torfinder.net/

@@ -326,11 +326,13 @@ sunveil63.live
 
 # https://github.com/hagezi/dns-blocklists/issues/7316
 ct.ddc.paypal.com
+geo.ddc.paypal.com
 ct.ddc.paypal.com.fpc.datadome.co
 ddc.paypal.com.fpc.datadome.co
 geo.ddc.paypal.com.fpc.datadome.co
 prod.ddc.paypal.com.fpc.datadome.co
 static.ddc.paypal.com.fpc.datadome.co
+api-eu-central-1.datadome.co
 
 # https://github.com/hagezi/dns-blocklists/issues/7304
 external-preview.redd.it

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 May 2026 06:25 UTC
-# Version: 2026.0528.0625.34
+# Last modified: 01 Jun 2026 18:10 UTC
+# Version: 2026.0601.1810.39
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 388
+# Number of entries: 389
 #
 0.0.0.0 ads-sg.business-tiktok.com
 0.0.0.0 ads-va.business-tiktok.com
@@ -134,6 +134,7 @@
 0.0.0.0 ads-api.tiktok.com
 0.0.0.0 ads-frontier.tiktok.com
 0.0.0.0 ads-ru.tiktok.com
+0.0.0.0 url4077.ads-service.tiktok.com
 0.0.0.0 ads-sg.tiktok.com
 0.0.0.0 analytics.tiktok.com
 0.0.0.0 analytics-attribution.tiktok.com

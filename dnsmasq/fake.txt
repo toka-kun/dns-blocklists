@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Jun 2026 09:51 UTC
-# Version: 2026.0601.0951.48
+# Last modified: 01 Jun 2026 18:18 UTC
+# Version: 2026.0601.1818.40
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 15971
+# Number of entries: 15978
 #
 local=/trader.212group.de/
 local=/eu.2bagsvalley.cn/
@@ -1129,6 +1129,7 @@ local=/alunaclo.de/
 local=/alureva.de/
 local=/aluvea.de/
 local=/alvaxi.com/
+local=/alvexo.io/
 local=/alvinegroup.com/
 local=/alwansolarhq.shop/
 local=/alyatransports.com/
@@ -3949,6 +3950,7 @@ local=/devicesair.com/
 local=/devoteonese.com/
 local=/deweins.com/
 local=/dewohntraum.com/
+local=/dexcpt.com/
 local=/dexer-handel.de/
 local=/dexoraoutlet.com/
 local=/dezcmoi.com/
@@ -4515,6 +4517,7 @@ local=/elektrotop-shop.com/
 local=/elektrozone24.com/
 local=/elementaryfinancial.com/
 local=/elementaryt.com/
+local=/elementcapitall.org/
 local=/elementiporta.com/
 local=/elenawelpen.de/
 local=/elencoco.com/
@@ -6207,6 +6210,7 @@ local=/goldman-capital.com/
 local=/goldofficemaster.com/
 local=/goldpromocoes.com/
 local=/goldreward.io/
+local=/goldridgepartners.com/
 local=/goldscheideanstalt-seit1970.de/
 local=/goldschmiede-alpenglanz.at/
 local=/goldshopsejahtera.com/
@@ -6292,6 +6296,7 @@ local=/gratis-produkttests.de/
 local=/grauwindgarten.de/
 local=/gravelbikede.com/
 local=/gravitonprofit.com/
+local=/gray-summit-group.com/
 local=/graycanyon.com/
 local=/grazapotheke.com/
 local=/grazmodehaus.at/
@@ -12351,6 +12356,7 @@ local=/routinefashiones.com/
 local=/roxyaustria.com/
 local=/roxydubai.com/
 local=/roxyski.de/
+local=/royalasset.org/
 local=/royaldebank.com/
 local=/royaldiam.com/
 local=/royalinspire.com/
@@ -13181,6 +13187,7 @@ local=/softelektro.com/
 local=/softritualsco.shop/
 local=/software-onsale.com/
 local=/softwarebilliger1.de/
+local=/sogoinvest.com/
 local=/sohoohair.de/
 local=/soideverteilung.com/
 local=/sola-mode.de/

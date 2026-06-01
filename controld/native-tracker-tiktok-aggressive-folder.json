@@ -3641,6 +3641,13 @@
       }
     },
     {
+      "PK": "url4077.ads-service.tiktok.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "v16-ad.byteoversea.com",
       "action": {
         "do": 0,

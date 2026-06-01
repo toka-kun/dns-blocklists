@@ -29,13 +29,6 @@
       }
     },
     {
-      "PK": "000nethost.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "000webhost.com",
       "action": {
         "do": 0,
@@ -1961,13 +1954,6 @@
       }
     },
     {
-      "PK": "ctempurl.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "cut.vin",
       "action": {
         "do": 0,
@@ -3060,13 +3046,6 @@
       }
     },
     {
-      "PK": "gamer.gd",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "gaming.lc",
       "action": {
         "do": 0,
@@ -3424,13 +3403,6 @@
       }
     },
     {
-      "PK": "iblogger.org",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "ic0.app",
       "action": {
         "do": 0,
@@ -3530,13 +3502,6 @@
     },
     {
       "PK": "inbox24.org",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "infinityfree.me",
       "action": {
         "do": 0,
         "status": 1
@@ -3663,20 +3628,6 @@
     },
     {
       "PK": "is-best.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "is-great.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "is-great.org",
       "action": {
         "do": 0,
         "status": 1
@@ -4243,13 +4194,6 @@
       }
     },
     {
-      "PK": "my-board.org",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "my-free.website",
       "action": {
         "do": 0,
@@ -4307,13 +4251,6 @@
     },
     {
       "PK": "mycpanel.rs",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "mydiscussion.net",
       "action": {
         "do": 0,
         "status": 1
@@ -4643,13 +4580,6 @@
     },
     {
       "PK": "online.tc",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "onlineweb.shop",
       "action": {
         "do": 0,
         "status": 1
@@ -5027,13 +4957,6 @@
       }
     },
     {
-      "PK": "rapidshare.se",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "re2.de",
       "action": {
         "do": 0,
@@ -5168,13 +5091,6 @@
     },
     {
       "PK": "securebankinggroup.org",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "secureonline.store",
       "action": {
         "do": 0,
         "status": 1
@@ -5524,13 +5440,6 @@
       }
     },
     {
-      "PK": "tehno-politen.ru",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "tempisite.com",
       "action": {
         "do": 0,
@@ -5707,13 +5616,6 @@
     },
     {
       "PK": "tw1.ru",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "twc1.net",
       "action": {
         "do": 0,
         "status": 1

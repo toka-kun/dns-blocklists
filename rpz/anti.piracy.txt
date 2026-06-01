@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780312080 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780340940 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 01 Jun 2026 11:08 UTC
-; Version: 2026.0601.1108.09
+; Last modified: 01 Jun 2026 19:09 UTC
+; Version: 2026.0601.1909.02
 ; Syntax: RPZ
-; Number of entries: 44444
+; Number of entries: 44422
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -362,8 +362,6 @@ viprow.theproxy.app CNAME .
 *.viprow.theproxy.app CNAME .
 threadster.app CNAME .
 *.threadster.app CNAME .
-torbox.app CNAME .
-*.torbox.app CNAME .
 torrentkitty.app CNAME .
 *.torrentkitty.app CNAME .
 torrentmac.app CNAME .
@@ -3804,8 +3802,6 @@ tracker.0x7c0.com CNAME .
 *.123moviefree4u.com CNAME .
 123movies.com CNAME .
 *.123movies.com CNAME .
-123movies-apk.com CNAME .
-*.123movies-apk.com CNAME .
 123movies101.com CNAME .
 *.123movies101.com CNAME .
 123movies247.com CNAME .
@@ -11072,8 +11068,6 @@ streamcloud.cx CNAME .
 *.streamcloud.cx CNAME .
 streamingcommunity.cx CNAME .
 *.streamingcommunity.cx CNAME .
-tb-cdn.cx CNAME .
-*.tb-cdn.cx CNAME .
 thepiratebay.cx CNAME .
 *.thepiratebay.cx CNAME .
 vide.cx CNAME .
@@ -11672,8 +11666,6 @@ vegamovies.diamonds CNAME .
 *.vegamovies.diamonds CNAME .
 123movies.digital CNAME .
 *.123movies.digital CNAME .
-123moviesfree9.digital CNAME .
-*.123moviesfree9.digital CNAME .
 9anime.digital CNAME .
 *.9anime.digital CNAME .
 cineblog001.digital CNAME .
@@ -16008,8 +16000,6 @@ strem.io CNAME .
 *.strem.io CNAME .
 t411.io CNAME .
 *.t411.io CNAME .
-tb-cdn.io CNAME .
-*.tb-cdn.io CNAME .
 torrentproxy.io CNAME .
 *.torrentproxy.io CNAME .
 torrentz.io CNAME .
@@ -19466,8 +19456,6 @@ z-lib.li CNAME .
 *.z-lib.li CNAME .
 123movies4u.life CNAME .
 *.123movies4u.life CNAME .
-123movies9.life CNAME .
-*.123movies9.life CNAME .
 1movierulzhd.life CNAME .
 *.1movierulzhd.life CNAME .
 1movies.life CNAME .
@@ -21226,6 +21214,8 @@ thesport.live CNAME .
 *.thesport.live CNAME .
 timepassbd.live CNAME .
 *.timepassbd.live CNAME .
+tivioneiptv.live CNAME .
+*.tivioneiptv.live CNAME .
 torlock.live CNAME .
 *.torlock.live CNAME .
 trackerstatus.live CNAME .
@@ -21304,8 +21294,6 @@ vegamovies.locker CNAME .
 *.1-lordfilmy.lol CNAME .
 123movies-official.lol CNAME .
 *.123movies-official.lol CNAME .
-123movies9.lol CNAME .
-*.123movies9.lol CNAME .
 123moviesfreehd.lol CNAME .
 *.123moviesfreehd.lol CNAME .
 123movieshub.lol CNAME .
@@ -21320,8 +21308,6 @@ vegamovies.locker CNAME .
 *.321movies.lol CNAME .
 4400-lordfilm.lol CNAME .
 *.4400-lordfilm.lol CNAME .
-9kmovies.lol CNAME .
-*.9kmovies.lol CNAME .
 ad-nakolesakh-lordfilm.lol CNAME .
 *.ad-nakolesakh-lordfilm.lol CNAME .
 agent-terr-lordfilm.lol CNAME .
@@ -27936,8 +27922,6 @@ vegamovies.onl CNAME .
 *.123moviesme.online CNAME .
 191954.online CNAME .
 *.191954.online CNAME .
-1jour1film.online CNAME .
-*.1jour1film.online CNAME .
 1movierulzhd.online CNAME .
 *.1movierulzhd.online CNAME .
 3rabgames.online CNAME .
@@ -31344,8 +31328,6 @@ stressed.pw CNAME .
 *.stressed.pw CNAME .
 tabula-rasa.pw CNAME .
 *.tabula-rasa.pw CNAME .
-tb-cdn.pw CNAME .
-*.tb-cdn.pw CNAME .
 tsundere.pw CNAME .
 *.tsundere.pw CNAME .
 open.u-p.pw CNAME .
@@ -38276,8 +38258,6 @@ soap2day.sh CNAME .
 *.soap2day.sh CNAME .
 streamex.sh CNAME .
 *.streamex.sh CNAME .
-tb-cdn.sh CNAME .
-*.tb-cdn.sh CNAME .
 bvarf.tracker.sh CNAME .
 *.bvarf.tracker.sh CNAME .
 uploda.sh CNAME .
@@ -39152,8 +39132,6 @@ free.open.tracker.0.starka.st CNAME .
 *.free.open.tracker.0.starka.st CNAME .
 streamed.st CNAME .
 *.streamed.st CNAME .
-tb-cdn.st CNAME .
-*.tb-cdn.st CNAME .
 wz-team.team.st CNAME .
 *.wz-team.team.st CNAME .
 thestreameast.st CNAME .
@@ -40330,8 +40308,6 @@ swefilmer.to CNAME .
 *.swefilmer.to CNAME .
 tata.to CNAME .
 *.tata.to CNAME .
-tb-cdn.to CNAME .
-*.tb-cdn.to CNAME .
 tfpdl.to CNAME .
 *.tfpdl.to CNAME .
 thedaddy.to CNAME .
@@ -40534,6 +40510,8 @@ amerikanskaya-istoriya-uzhasov-lordfilm.top CNAME .
 *.amerikanskaya-istoriya-uzhasov-lordfilm.top CNAME .
 andor-lordfilm.top CNAME .
 *.andor-lordfilm.top CNAME .
+animepictures.top CNAME .
+*.animepictures.top CNAME .
 annas-archive.top CNAME .
 *.annas-archive.top CNAME .
 autoeq.top CNAME .

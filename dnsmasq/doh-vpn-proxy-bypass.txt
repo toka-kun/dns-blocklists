@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Jun 2026 11:18 UTC
-# Version: 2026.0601.1118.25
+# Last modified: 01 Jun 2026 17:55 UTC
+# Version: 2026.0601.1755.59
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 17317
+# Number of entries: 17312
 #
 local=/ss.0001.xyz/
 local=/ilovethiswebsite.001-lab.space/
@@ -7408,7 +7408,6 @@ local=/02akgaayi2fi3xkdi13s0jtxj.online/
 local=/041ad0cfb636.xyz/
 local=/04a0f262f2f391ead91af1f0ecc6ef3a.top/
 local=/0538c3060b94774da3ee011552255739.top/
-local=/069538.xyz/
 local=/06f7d4f2f41cbff183fa241167a3c7444b3cf00c.com/
 local=/0815cloud.de/
 local=/084899.cn/
@@ -7435,7 +7434,6 @@ local=/123book.org/
 local=/123down.org/
 local=/123fr.info/
 local=/123free.info/
-local=/123goproxy.com/
 local=/123hideip.com/
 local=/123inside.net/
 local=/123jsq.top/
@@ -7443,15 +7441,12 @@ local=/123li.me/
 local=/123music.app/
 local=/123proxy.app/
 local=/123proxy.biz/
-local=/123proxy.cool/
 local=/123roms.com/
 local=/123rooms.net/
 local=/123sports.org/
 local=/123streaming.org/
 local=/123sumo.net/
-local=/123superproxy.com/
 local=/123torr.com/
-local=/123ultraproxy.com/
 local=/123unblocked.com/
 local=/123xhj.com/
 local=/12vpn.help/

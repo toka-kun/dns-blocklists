@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780307340 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780335960 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Pop-Up Ads DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 01 Jun 2026 09:49 UTC
-; Version: 2026.0601.0949.13
+; Last modified: 01 Jun 2026 17:46 UTC
+; Version: 2026.0601.1746.22
 ; Syntax: RPZ
-; Number of entries: 100758
+; Number of entries: 100700
 ;
 bonzai.ad CNAME .
 *.bonzai.ad CNAME .
@@ -572,10 +572,8 @@ account.beauty CNAME .
 *.account.beauty CNAME .
 gvfejsk.beauty CNAME .
 *.gvfejsk.beauty CNAME .
-lc.krgirls.beauty CNAME .
-*.lc.krgirls.beauty CNAME .
-me.krgirls.beauty CNAME .
-*.me.krgirls.beauty CNAME .
+krgirls.beauty CNAME .
+*.krgirls.beauty CNAME .
 go1.sildenafi.beauty CNAME .
 *.go1.sildenafi.beauty CNAME .
 0.beer CNAME .
@@ -2880,34 +2878,8 @@ hengde.cn CNAME .
 *.hengde.cn CNAME .
 qiejushuo.hirz.cn CNAME .
 *.qiejushuo.hirz.cn CNAME .
-app-google-zh.hl.cn CNAME .
-*.app-google-zh.hl.cn CNAME .
-cnzh-google-apps.hl.cn CNAME .
-*.cnzh-google-apps.hl.cn CNAME .
-go-todesk.hl.cn CNAME .
-*.go-todesk.hl.cn CNAME .
-googgle-chrrome.hl.cn CNAME .
-*.googgle-chrrome.hl.cn CNAME .
-google-chrrome-zh.hl.cn CNAME .
-*.google-chrrome-zh.hl.cn CNAME .
-google-google-chrome-google-com.hl.cn CNAME .
-*.google-google-chrome-google-com.hl.cn CNAME .
-line-go.hl.cn CNAME .
-*.line-go.hl.cn CNAME .
-office-wps-hl.hl.cn CNAME .
-*.office-wps-hl.hl.cn CNAME .
-qh-qishuiyinyue.hl.cn CNAME .
-*.qh-qishuiyinyue.hl.cn CNAME .
-qishuimusic-cn.hl.cn CNAME .
-*.qishuimusic-cn.hl.cn CNAME .
-todesk-web.hl.cn CNAME .
-*.todesk-web.hl.cn CNAME .
-todesk-zh.hl.cn CNAME .
-*.todesk-zh.hl.cn CNAME .
-zh-todesk-cn.hl.cn CNAME .
-*.zh-todesk-cn.hl.cn CNAME .
-zhcn-googele.hl.cn CNAME .
-*.zhcn-googele.hl.cn CNAME .
+hl.cn CNAME .
+*.hl.cn CNAME .
 ho521.cn CNAME .
 *.ho521.cn CNAME .
 hologramid.cn CNAME .
@@ -5816,8 +5788,6 @@ a6f50f55d7.0fbee846c6.com CNAME .
 *.1-800billion.com CNAME .
 1-800people.com CNAME .
 *.1-800people.com CNAME .
-1-800plowing.com CNAME .
-*.1-800plowing.com CNAME .
 1-800rates.com CNAME .
 *.1-800rates.com CNAME .
 1-800recharged.com CNAME .
@@ -6350,8 +6320,6 @@ a6f50f55d7.0fbee846c6.com CNAME .
 *.1051thebone.com CNAME .
 1051thetrain.com CNAME .
 *.1051thetrain.com CNAME .
-105423.com CNAME .
-*.105423.com CNAME .
 105496.com CNAME .
 *.105496.com CNAME .
 1056brewing.com CNAME .
@@ -6780,8 +6748,6 @@ a6f50f55d7.0fbee846c6.com CNAME .
 *.1135by.com CNAME .
 1135llc.com CNAME .
 *.1135llc.com CNAME .
-11373911.com CNAME .
-*.11373911.com CNAME .
 113787.com CNAME .
 *.113787.com CNAME .
 113bx.com CNAME .
@@ -7200,8 +7166,6 @@ a6f50f55d7.0fbee846c6.com CNAME .
 *.123movies12.com CNAME .
 123movies1free.com CNAME .
 *.123movies1free.com CNAME .
-123movies2.com CNAME .
-*.123movies2.com CNAME .
 123movies2019.com CNAME .
 *.123movies2019.com CNAME .
 123movies4.com CNAME .
@@ -7620,8 +7584,6 @@ a6f50f55d7.0fbee846c6.com CNAME .
 *.13game.com CNAME .
 13gatsu-girls.com CNAME .
 *.13gatsu-girls.com CNAME .
-13grand-casino.com CNAME .
-*.13grand-casino.com CNAME .
 13kub.com CNAME .
 *.13kub.com CNAME .
 13m2-lefilm.com CNAME .
@@ -7732,8 +7694,6 @@ a6f50f55d7.0fbee846c6.com CNAME .
 *.14dgfg.com CNAME .
 14dk.com CNAME .
 *.14dk.com CNAME .
-650b1f19ee.14f55cc6a7.com CNAME .
-*.650b1f19ee.14f55cc6a7.com CNAME .
 14five.com CNAME .
 *.14five.com CNAME .
 14i8trbbx4.com CNAME .
@@ -7956,8 +7916,6 @@ f1e17919db.15b4a9d5e8.com CNAME .
 *.168logger.com CNAME .
 169168.com CNAME .
 *.169168.com CNAME .
-169che.com CNAME .
-*.169che.com CNAME .
 16below.com CNAME .
 *.16below.com CNAME .
 16gang.com CNAME .
@@ -8366,16 +8324,12 @@ f1e17919db.15b4a9d5e8.com CNAME .
 *.19j010.com CNAME .
 19j016.com CNAME .
 *.19j016.com CNAME .
-19j018.com CNAME .
-*.19j018.com CNAME .
 19j035.com CNAME .
 *.19j035.com CNAME .
 19j090.com CNAME .
 *.19j090.com CNAME .
 19j2020.com CNAME .
 *.19j2020.com CNAME .
-19j345.com CNAME .
-*.19j345.com CNAME .
 19long.com CNAME .
 *.19long.com CNAME .
 19maoee.com CNAME .
@@ -8792,8 +8746,6 @@ ff97d1d2da.20590def33.com CNAME .
 *.2260mm.com CNAME .
 229tv.com CNAME .
 *.229tv.com CNAME .
-22a008da69.com CNAME .
-*.22a008da69.com CNAME .
 22b664d9ce.com CNAME .
 *.22b664d9ce.com CNAME .
 ad.22betpartners.com CNAME .
@@ -9112,8 +9064,6 @@ yueyeezuluntan.297000.com CNAME .
 *.2docstock.com CNAME .
 2e-bureau.com CNAME .
 *.2e-bureau.com CNAME .
-36a657286a.2e001e2b2b.com CNAME .
-*.36a657286a.2e001e2b2b.com CNAME .
 2explore.com CNAME .
 *.2explore.com CNAME .
 2f2d60b8b5.com CNAME .
@@ -29714,6 +29664,8 @@ eclkmpbn.com CNAME .
 *.eclkmpbn.com CNAME .
 eclkmpsa.com CNAME .
 *.eclkmpsa.com CNAME .
+ecomicrolab.com CNAME .
+*.ecomicrolab.com CNAME .
 ecommercecall.com CNAME .
 *.ecommercecall.com CNAME .
 economicalathlete.com CNAME .
@@ -74474,6 +74426,8 @@ pizza.io CNAME .
 *.pizza.io CNAME .
 polisnetwork.io CNAME .
 *.polisnetwork.io CNAME .
+polyfill.io CNAME .
+*.polyfill.io CNAME .
 proper.io CNAME .
 *.proper.io CNAME .
 prvc.io CNAME .
@@ -76792,8 +76746,6 @@ unix789.name CNAME .
 *.22pay.net CNAME .
 24hmedia.net CNAME .
 *.24hmedia.net CNAME .
-27baola.net CNAME .
-*.27baola.net CNAME .
 2agency.net CNAME .
 *.2agency.net CNAME .
 2celsius.net CNAME .
@@ -83308,8 +83260,6 @@ o-oo.ooo CNAME .
 *.12ici.org CNAME .
 12xelagua.org CNAME .
 *.12xelagua.org CNAME .
-13143.org CNAME .
-*.13143.org CNAME .
 135aero.org CNAME .
 *.135aero.org CNAME .
 135air.org CNAME .
@@ -88168,12 +88118,8 @@ barmanonymity.shop CNAME .
 *.barmanonymity.shop CNAME .
 barmingorrhoid.shop CNAME .
 *.barmingorrhoid.shop CNAME .
-chiyouranai.base.shop CNAME .
-*.chiyouranai.base.shop CNAME .
-tokujiro.base.shop CNAME .
-*.tokujiro.base.shop CNAME .
-uranai1111.base.shop CNAME .
-*.uranai1111.base.shop CNAME .
+base.shop CNAME .
+*.base.shop CNAME .
 basiscopyright.shop CNAME .
 *.basiscopyright.shop CNAME .
 battuelevered.shop CNAME .
@@ -97268,8 +97214,6 @@ playmatic.video CNAME .
 *.18acg12.vip CNAME .
 22456.vip CNAME .
 *.22456.vip CNAME .
-22ex.vip CNAME .
-*.22ex.vip CNAME .
 3131.vip CNAME .
 *.3131.vip CNAME .
 40999.vip CNAME .
@@ -99418,8 +99362,6 @@ sk.rainblow.xxx CNAME .
 *.19j01.xyz CNAME .
 19j04.xyz CNAME .
 *.19j04.xyz CNAME .
-1aok8xwsm.xyz CNAME .
-*.1aok8xwsm.xyz CNAME .
 1funbola88.xyz CNAME .
 *.1funbola88.xyz CNAME .
 1j5syuz0.xyz CNAME .

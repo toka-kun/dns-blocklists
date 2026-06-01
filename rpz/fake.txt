@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780307460 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780337880 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 01 Jun 2026 09:51 UTC
-; Version: 2026.0601.0951.48
+; Last modified: 01 Jun 2026 18:18 UTC
+; Version: 2026.0601.1818.40
 ; Syntax: RPZ
-; Number of entries: 31942
+; Number of entries: 31956
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -5698,6 +5698,8 @@ deweins.com CNAME .
 *.deweins.com CNAME .
 dewohntraum.com CNAME .
 *.dewohntraum.com CNAME .
+dexcpt.com CNAME .
+*.dexcpt.com CNAME .
 dexoraoutlet.com CNAME .
 *.dexoraoutlet.com CNAME .
 dezcmoi.com CNAME .
@@ -8324,6 +8326,8 @@ goldofficemaster.com CNAME .
 *.goldofficemaster.com CNAME .
 goldpromocoes.com CNAME .
 *.goldpromocoes.com CNAME .
+goldridgepartners.com CNAME .
+*.goldridgepartners.com CNAME .
 goldshopsejahtera.com CNAME .
 *.goldshopsejahtera.com CNAME .
 golfapparelsale.com CNAME .
@@ -8430,6 +8434,8 @@ gravelbikede.com CNAME .
 *.gravelbikede.com CNAME .
 gravitonprofit.com CNAME .
 *.gravitonprofit.com CNAME .
+gray-summit-group.com CNAME .
+*.gray-summit-group.com CNAME .
 graycanyon.com CNAME .
 *.graycanyon.com CNAME .
 grazapotheke.com CNAME .
@@ -16330,6 +16336,8 @@ softelektro.com CNAME .
 *.softelektro.com CNAME .
 software-onsale.com CNAME .
 *.software-onsale.com CNAME .
+sogoinvest.com CNAME .
+*.sogoinvest.com CNAME .
 soideverteilung.com CNAME .
 *.soideverteilung.com CNAME .
 solancie.com CNAME .
@@ -28248,6 +28256,8 @@ airnext.io CNAME .
 *.airnext.io CNAME .
 altior-capital.io CNAME .
 *.altior-capital.io CNAME .
+alvexo.io CNAME .
+*.alvexo.io CNAME .
 arlequininvest.io CNAME .
 *.arlequininvest.io CNAME .
 autoalpha.io CNAME .
@@ -29466,6 +29476,8 @@ drugsline.org CNAME .
 *.drugsline.org CNAME .
 easy-software.org CNAME .
 *.easy-software.org CNAME .
+elementcapitall.org CNAME .
+*.elementcapitall.org CNAME .
 essayplanet.org CNAME .
 *.essayplanet.org CNAME .
 us.nl.eu.org CNAME .
@@ -29630,6 +29642,8 @@ riptidesoccer.org CNAME .
 *.riptidesoccer.org CNAME .
 rngonline.org CNAME .
 *.rngonline.org CNAME .
+royalasset.org CNAME .
+*.royalasset.org CNAME .
 safefin.org CNAME .
 *.safefin.org CNAME .
 sagenevada.org CNAME .
