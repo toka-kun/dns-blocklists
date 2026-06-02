@@ -12,8 +12,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Jun 2026 09:53 UTC
-# Version: 2026.0601.0953.39
+# Last modified: 02 Jun 2026 11:08 UTC
+# Version: 2026.0602.1108.41
 # Syntax: Domains (without subdomains)
 # Number of entries: 9881
 #
@@ -1145,10 +1145,8 @@ go.zordo.net
 3name.com
 3q3.de
 3ra.be
-3tj.cc
 3v3.run
 3w.pm
-3words.link
 3x.si
 3xs.live
 4.gg
@@ -1380,7 +1378,6 @@ adaymag.co
 adbaw.com
 adbl.co
 adbly.co
-add.lat
 add-l.ink
 add2wallet.link
 addtr.ee
@@ -1638,7 +1635,6 @@ appscross.com
 appsfly.co
 appsko.ca
 appurl.io
-appw.me
 appwhats.in
 apsense.cc
 aptg.tw
@@ -2675,6 +2671,7 @@ curlm.in
 curlmin.com
 curriculumsystem.org
 curryfielddistribution.com
+curts.me
 curturl.net
 curty.in
 cus.bio
@@ -2796,6 +2793,7 @@ dataurbia.com
 datayi.cn
 dausel.co
 davidbombal.wiki
+davidepuzzo.cloud
 davidheardmemorialhardheadyderby.com
 daviesscountyrepublicans.org
 davisonbarker.pro
@@ -6422,6 +6420,7 @@ prgress.co
 prhdispatch.com
 primagazine.com
 prime-link.net
+princessproms.com
 priolink.com
 prjsi.co
 prn.to
@@ -9323,6 +9322,7 @@ wal.ee
 walk.sc
 walkjc.org
 wall.sh
+waltersauto.net
 wangzhanzhubo.com
 wapicome.site
 wapo.st

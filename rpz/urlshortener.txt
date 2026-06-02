@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780307580 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780398480 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,8 +16,8 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 01 Jun 2026 09:53 UTC
-; Version: 2026.0601.0953.39
+; Last modified: 02 Jun 2026 11:08 UTC
+; Version: 2026.0602.1108.41
 ; Syntax: RPZ
 ; Number of entries: 19762
 ;
@@ -1561,8 +1561,6 @@ small.cat CNAME .
 *.0rl.cc CNAME .
 2link.cc CNAME .
 *.2link.cc CNAME .
-3tj.cc CNAME .
-*.3tj.cc CNAME .
 4bio.cc CNAME .
 *.4bio.cc CNAME .
 4url.cc CNAME .
@@ -2105,6 +2103,8 @@ cutzlnk.cloud CNAME .
 *.cutzlnk.cloud CNAME .
 dafire.cloud CNAME .
 *.dafire.cloud CNAME .
+davidepuzzo.cloud CNAME .
+*.davidepuzzo.cloud CNAME .
 golinks.cloud CNAME .
 *.golinks.cloud CNAME .
 help-ua.cloud CNAME .
@@ -5855,6 +5855,8 @@ prhdispatch.com CNAME .
 *.prhdispatch.com CNAME .
 primagazine.com CNAME .
 *.primagazine.com CNAME .
+princessproms.com CNAME .
+*.princessproms.com CNAME .
 priolink.com CNAME .
 *.priolink.com CNAME .
 pro-url.com CNAME .
@@ -11933,8 +11935,6 @@ yayin.la CNAME .
 *.yayin.la CNAME .
 thelegends.land CNAME .
 *.thelegends.land CNAME .
-add.lat CNAME .
-*.add.lat CNAME .
 buu.lat CNAME .
 *.buu.lat CNAME .
 kua.lat CNAME .
@@ -12285,8 +12285,6 @@ e.lilly CNAME .
 *.301.link CNAME .
 3ly.link CNAME .
 *.3ly.link CNAME .
-3words.link CNAME .
-*.3words.link CNAME .
 4-bio.link CNAME .
 *.4-bio.link CNAME .
 4d2.link CNAME .
@@ -13639,8 +13637,6 @@ aply.me CNAME .
 *.aply.me CNAME .
 appna.me CNAME .
 *.appna.me CNAME .
-appw.me CNAME .
-*.appw.me CNAME .
 ardchk.me CNAME .
 *.ardchk.me CNAME .
 ashiap.me CNAME .
@@ -13753,6 +13749,8 @@ csvip.me CNAME .
 *.csvip.me CNAME .
 cturl.me CNAME .
 *.cturl.me CNAME .
+curts.me CNAME .
+*.curts.me CNAME .
 cutly.me CNAME .
 *.cutly.me CNAME .
 cutx.me CNAME .
@@ -15413,6 +15411,8 @@ vtred.net CNAME .
 *.vtred.net CNAME .
 wahoowa.net CNAME .
 *.wahoowa.net CNAME .
+waltersauto.net CNAME .
+*.waltersauto.net CNAME .
 waveurl.net CNAME .
 *.waveurl.net CNAME .
 webcut.net CNAME .

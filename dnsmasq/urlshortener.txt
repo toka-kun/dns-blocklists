@@ -12,8 +12,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Jun 2026 09:53 UTC
-# Version: 2026.0601.0953.39
+# Last modified: 02 Jun 2026 11:08 UTC
+# Version: 2026.0602.1108.41
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 9881
 #
@@ -1145,10 +1145,8 @@ local=/3mm.li/
 local=/3name.com/
 local=/3q3.de/
 local=/3ra.be/
-local=/3tj.cc/
 local=/3v3.run/
 local=/3w.pm/
-local=/3words.link/
 local=/3x.si/
 local=/3xs.live/
 local=/4.gg/
@@ -1380,7 +1378,6 @@ local=/adaymag.co/
 local=/adbaw.com/
 local=/adbl.co/
 local=/adbly.co/
-local=/add.lat/
 local=/add-l.ink/
 local=/add2wallet.link/
 local=/addtr.ee/
@@ -1638,7 +1635,6 @@ local=/appscross.com/
 local=/appsfly.co/
 local=/appsko.ca/
 local=/appurl.io/
-local=/appw.me/
 local=/appwhats.in/
 local=/apsense.cc/
 local=/aptg.tw/
@@ -2675,6 +2671,7 @@ local=/curlm.in/
 local=/curlmin.com/
 local=/curriculumsystem.org/
 local=/curryfielddistribution.com/
+local=/curts.me/
 local=/curturl.net/
 local=/curty.in/
 local=/cus.bio/
@@ -2796,6 +2793,7 @@ local=/dataurbia.com/
 local=/datayi.cn/
 local=/dausel.co/
 local=/davidbombal.wiki/
+local=/davidepuzzo.cloud/
 local=/davidheardmemorialhardheadyderby.com/
 local=/daviesscountyrepublicans.org/
 local=/davisonbarker.pro/
@@ -6422,6 +6420,7 @@ local=/prgress.co/
 local=/prhdispatch.com/
 local=/primagazine.com/
 local=/prime-link.net/
+local=/princessproms.com/
 local=/priolink.com/
 local=/prjsi.co/
 local=/prn.to/
@@ -9323,6 +9322,7 @@ local=/wal.ee/
 local=/walk.sc/
 local=/walkjc.org/
 local=/wall.sh/
+local=/waltersauto.net/
 local=/wangzhanzhubo.com/
 local=/wapicome.site/
 local=/wapo.st/

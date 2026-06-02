@@ -4474,6 +4474,13 @@
       }
     },
     {
+      "PK": "nxcli.io",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "o-f.com",
       "action": {
         "do": 0,
@@ -5210,6 +5217,13 @@
     },
     {
       "PK": "shopping.hn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "shortenerword.com",
       "action": {
         "do": 0,
         "status": 1

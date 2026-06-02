@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 01 Jun 2026 09:53 UTC
-! Version: 2026.0601.0953.39
+! Last modified: 02 Jun 2026 11:08 UTC
+! Version: 2026.0602.1108.41
 ! Syntax: AdBlock
 !
 @@||a.189.cn^
@@ -917,11 +917,9 @@
 @@||02faq.com^
 @@||03.wf^
 @@||072.sh^
-@@||078.me^
 @@||08url.com^
 @@||0a.sk^
 @@||0a0.uk^
-@@||0bs.de^
 @@||0i.is^
 @@||0ln.eu^
 @@||0ln.io^
@@ -1134,10 +1132,8 @@
 @@||3name.com^
 @@||3q3.de^
 @@||3ra.be^
-@@||3tj.cc^
 @@||3v3.run^
 @@||3w.pm^
-@@||3words.link^
 @@||3x.si^
 @@||3xs.live^
 @@||4.gg^
@@ -1182,7 +1178,6 @@
 @@||4ty.me^
 @@||4uid.com^
 @@||4url.cc^
-@@||4x.si^
 @@||5.gp^
 @@||5-starevents.com^
 @@||51tu.lol^
@@ -1368,7 +1363,6 @@
 @@||adbaw.com^
 @@||adbl.co^
 @@||adbly.co^
-@@||add.lat^
 @@||add-l.ink^
 @@||add2wallet.link^
 @@||addtr.ee^
@@ -1613,7 +1607,6 @@
 @@||apne.ws^
 @@||aporasal.net^
 @@||app.link^
-@@||appbitly.com^
 @@||appcurt.com^
 @@||apple.co^
 @@||appliansys.com^
@@ -1625,7 +1618,6 @@
 @@||appsfly.co^
 @@||appsko.ca^
 @@||appurl.io^
-@@||appw.me^
 @@||appwhats.in^
 @@||apsense.cc^
 @@||aptg.tw^
@@ -2651,6 +2643,7 @@
 @@||curlmin.com^
 @@||curriculumsystem.org^
 @@||curryfielddistribution.com^
+@@||curts.me^
 @@||curturl.net^
 @@||curty.in^
 @@||cus.bio^
@@ -2771,6 +2764,7 @@
 @@||datayi.cn^
 @@||dausel.co^
 @@||davidbombal.wiki^
+@@||davidepuzzo.cloud^
 @@||davidheardmemorialhardheadyderby.com^
 @@||daviesscountyrepublicans.org^
 @@||davisonbarker.pro^
@@ -5164,11 +5158,9 @@
 @@||lou.ly^
 @@||love-url.com^
 @@||loveer.win^
-@@||lovelocals.us^
 @@||lovinlit.co^
 @@||low.es^
 @@||low-5.com^
-@@||lowrihouston.pro^
 @@||lowx.de^
 @@||loy.ro^
 @@||lpc.ca^
@@ -5374,7 +5366,6 @@
 @@||me-short-link.com^
 @@||me-url.com^
 @@||me2.do^
-@@||me2.kr^
 @@||me9.in^
 @@||mebioo.com^
 @@||mecaca.com^
@@ -5747,7 +5738,6 @@
 @@||narilyhukelpfulin.com^
 @@||narrowurl.com^
 @@||nashcapernaum.org^
-@@||nathanaeldan.pro^
 @@||natsbee.link^
 @@||nature.ly^
 @@||naturl.io^
@@ -6363,6 +6353,7 @@
 @@||prhdispatch.com^
 @@||primagazine.com^
 @@||prime-link.net^
+@@||princessproms.com^
 @@||priolink.com^
 @@||prjsi.co^
 @@||prn.to^
@@ -7213,7 +7204,6 @@
 @@||shortenerlink.xyz^
 @@||shortenerreviews.com^
 @@||shorteners.net^
-@@||shortenerword.com^
 @@||shortenfor.me^
 @@||shortengine.dev^
 @@||shortenlab.com^
@@ -7239,7 +7229,6 @@
 @@||shorterit.com^
 @@||shorterlink.app^
 @@||shorterurl.net^
-@@||shortest.link^
 @@||shortet.com^
 @@||shortezy.com^
 @@||shortfake.com^
@@ -8812,7 +8801,6 @@
 @@||urldeclic.com^
 @@||urldirect21-1.org^
 @@||urldn.com^
-@@||urle.me^
 @@||urlenco.de^
 @@||urlers.com^
 @@||urles.us^
@@ -9235,6 +9223,7 @@
 @@||walk.sc^
 @@||walkjc.org^
 @@||wall.sh^
+@@||waltersauto.net^
 @@||wangzhanzhubo.com^
 @@||wapicome.site^
 @@||wapo.st^

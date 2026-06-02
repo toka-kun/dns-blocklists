@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780336500 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780402500 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 01 Jun 2026 17:55 UTC
-; Version: 2026.0601.1755.59
+; Last modified: 02 Jun 2026 12:15 UTC
+; Version: 2026.0602.1215.55
 ; Syntax: RPZ
-; Number of entries: 34624
+; Number of entries: 34610
 ;
 bebra.ac CNAME .
 *.bebra.ac CNAME .
@@ -4269,8 +4269,6 @@ unfiltered.adguarddns.com CNAME .
 *.unfiltered.adguarddns.com CNAME .
 dashboard.adidasnmdcitysock.com CNAME .
 *.dashboard.adidasnmdcitysock.com CNAME .
-petezahbare.adidasnmdcitysock.com CNAME .
-*.petezahbare.adidasnmdcitysock.com CNAME .
 dns.adnull.com CNAME .
 *.dns.adnull.com CNAME .
 adresseip.com CNAME .
@@ -20787,14 +20785,6 @@ dns-gcp.aaflalo.me CNAME .
 *.dns-gcp.aaflalo.me CNAME .
 dns-nyc.aaflalo.me CNAME .
 *.dns-nyc.aaflalo.me CNAME .
-ayden-poop.aitask.me CNAME .
-*.ayden-poop.aitask.me CNAME .
-keep-it-to-yourself.aitask.me CNAME .
-*.keep-it-to-yourself.aitask.me CNAME .
-seli-megaknight.aitask.me CNAME .
-*.seli-megaknight.aitask.me CNAME .
-spread-the-gospel.aitask.me CNAME .
-*.spread-the-gospel.aitask.me CNAME .
 dns2.anuar.me CNAME .
 *.dns2.anuar.me CNAME .
 secure.anudeep.me CNAME .
@@ -26145,8 +26135,6 @@ vapor.onl CNAME .
 *.4vtw3ktojjadh0xlr.online CNAME .
 55aktnolkvuoctxitm.online CNAME .
 *.55aktnolkvuoctxitm.online CNAME .
-5cojvd8ge.online CNAME .
-*.5cojvd8ge.online CNAME .
 5fvfofc9f.online CNAME .
 *.5fvfofc9f.online CNAME .
 6ifodhb2vbm0jyf1fhcowag.online CNAME .
@@ -26731,8 +26719,6 @@ fern3.allisons.org CNAME .
 *.fern3.allisons.org CNAME .
 fern4.allisons.org CNAME .
 *.fern4.allisons.org CNAME .
-gofundme.allisons.org CNAME .
-*.gofundme.allisons.org CNAME .
 jeffreyepstien.allisons.org CNAME .
 *.jeffreyepstien.allisons.org CNAME .
 nomore67its-2026-boi.allisons.org CNAME .

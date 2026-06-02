@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Jun 2026 09:38 UTC
-# Version: 2026.0601.0938.48
+# Last modified: 02 Jun 2026 10:54 UTC
+# Version: 2026.0602.1054.19
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2113
+# Number of entries: 2124
 #
 1-aclk.net
 1aurl.io
@@ -232,6 +232,7 @@ static-mobile.cleverpush.com
 seu.cleverreach.com
 10319.seu.cleverreach.com
 10818.seu.cleverreach.com
+12053.seu.cleverreach.com
 14632.seu.cleverreach.com
 149654.17729.seu.cleverreach.com
 181780.seu.cleverreach.com
@@ -360,6 +361,7 @@ seu2.cleverreach.com
 199744.seu2.cleverreach.com
 200787.seu2.cleverreach.com
 206577.seu2.cleverreach.com
+207620.seu2.cleverreach.com
 214020.seu2.cleverreach.com
 214747.seu2.cleverreach.com
 219699.seu2.cleverreach.com
@@ -367,6 +369,7 @@ seu2.cleverreach.com
 226547.seu2.cleverreach.com
 227873.seu2.cleverreach.com
 228530.seu2.cleverreach.com
+229388.seu2.cleverreach.com
 230480.seu2.cleverreach.com
 234207.seu2.cleverreach.com
 236265.seu2.cleverreach.com
@@ -453,11 +456,13 @@ seu2.cleverreach.com
 359752.seu2.cleverreach.com
 361290.seu2.cleverreach.com
 363224.seu2.cleverreach.com
+369476.seu2.cleverreach.com
 369713.seu2.cleverreach.com
 372230.seu2.cleverreach.com
 374108.seu2.cleverreach.com
 374768.seu2.cleverreach.com
 374956.seu2.cleverreach.com
+379879.seu2.cleverreach.com
 382058.seu2.cleverreach.com
 393609.seu2.cleverreach.com
 394092.seu2.cleverreach.com
@@ -645,6 +650,7 @@ click.convertkit-mail4.com
 06dea2c1.click.convertkit-mail4.com
 104ffb11.click.convertkit-mail4.com
 28d3c607.click.convertkit-mail4.com
+3ae84dcb.click.convertkit-mail4.com
 3c5984bd.click.convertkit-mail4.com
 5e38c6c1.click.convertkit-mail4.com
 985c544d.click.convertkit-mail4.com
@@ -663,6 +669,7 @@ open.convertkit-mail4.com
 021ccec7.open.convertkit-mail4.com
 035df47c.open.convertkit-mail4.com
 042705c9.open.convertkit-mail4.com
+07494aa4.open.convertkit-mail4.com
 088a5f37.open.convertkit-mail4.com
 0c7d4f8e.open.convertkit-mail4.com
 104ffb11.open.convertkit-mail4.com
@@ -749,6 +756,7 @@ m-tcg.custobar.com
 m-tfe.custobar.com
 m-tmsif.custobar.com
 m-va.custobar.com
+m-vek.custobar.com
 m-zwhsc.custobar.com
 track.customer.io
 track-eu.customer.io
@@ -964,6 +972,7 @@ view.s6.exacttarget.com
 click.virt.s6.exacttarget.com
 s7.exacttarget.com
 bounce.s7.exacttarget.com
+click-sms.s7.exacttarget.com
 image.s7.exacttarget.com
 inbound.s7.exacttarget.com
 inbound-reply.s7.exacttarget.com
@@ -1103,6 +1112,7 @@ sites.hscoscdn-eu1.net
 143329282.sites.hscoscdn-eu1.net
 143334866.sites.hscoscdn-eu1.net
 143456969.sites.hscoscdn-eu1.net
+143596093.sites.hscoscdn-eu1.net
 143649436.sites.hscoscdn-eu1.net
 143715022.sites.hscoscdn-eu1.net
 143821590.sites.hscoscdn-eu1.net
@@ -1621,6 +1631,7 @@ mkto-sj200186.com
 mkto-sj200191.com
 mkto-sj200201.com
 mkto-sj210057.com
+mkto-sj210170.com
 mkto-sj220006.com
 mkto-sj230006.com
 mkto-sj240021.com
