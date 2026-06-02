@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 02 Jun 2026 11:08 UTC
-! Version: 2026.0602.1108.41
+! Last modified: 02 Jun 2026 18:37 UTC
+! Version: 2026.0602.1837.56
 ! Syntax: AdBlock
 !
 @@||a.189.cn^
@@ -1647,7 +1647,6 @@
 @@||arpressllc.com^
 @@||arpy.in^
 @@||arrabet.link^
-@@||arshorten.com^
 @@||arsn.al^
 @@||artmo.app^
 @@||arurl.us^
@@ -1683,7 +1682,6 @@
 @@||athena168.vip^
 @@||athm.cn^
 @@||ativo.online^
-@@||atlantisgit.com^
 @@||atm.tk^
 @@||atmilb.com^
 @@||atmlb.com^
@@ -1735,7 +1733,6 @@
 @@||axoni.us^
 @@||ay.gy^
 @@||aylink.co^
-@@||ayohajar.info^
 @@||ayokale.me^
 @@||ayt.fr^
 @@||ayuk.link^
@@ -1767,7 +1764,6 @@
 @@||b33.fr^
 @@||b4y.net^
 @@||b51.tw^
-@@||b6e.cn^
 @@||b7.tel^
 @@||b808.bet^
 @@||b9d.me^
@@ -1884,7 +1880,6 @@
 @@||bigfi.sh^
 @@||biggiris.link^
 @@||biggo.tw^
-@@||bigolink.com^
 @@||bigurl.io^
 @@||bigwinjiliwin63.online^
 @@||biibly.com^
@@ -1912,7 +1907,6 @@
 @@||biolinkpro.com^
 @@||biolinkr.app^
 @@||biolinks.link^
-@@||biolinks.ma^
 @@||biolinksplus.com^
 @@||biolinky.co^
 @@||biolnk.in^
@@ -1947,7 +1941,6 @@
 @@||bitl.to^
 @@||bitlee.site^
 @@||bitley.in^
-@@||bitli.li^
 @@||bitli.pro^
 @@||bitlink.one^
 @@||bitlnx.com^
@@ -2012,7 +2005,6 @@
 @@||blap.net^
 @@||blbrd.cm^
 @@||blck.by^
-@@||blddd.com^
 @@||ble.pl^
 @@||bleenk.co^
 @@||blinkbio.me^

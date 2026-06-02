@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 02 Jun 2026 11:07 UTC
-! Version: 2026.0602.1107.20
+! Last modified: 02 Jun 2026 18:54 UTC
+! Version: 2026.0602.1854.15
 ! Syntax: AdBlock
-! Number of entries: 16000
+! Number of entries: 15952
 !
 ||trader.212group.de^
 ||eu.2bagsvalley.cn^
@@ -1370,7 +1370,6 @@
 ||aquariumzubehor24.com^
 ||aquascapers-galerie.com^
 ||aquavibespro.com^
-||arabian-oud-sa-store.com^
 ||arabues.de^
 ||araschuheoutlet.de^
 ||araujopecas.online^
@@ -1394,7 +1393,6 @@
 ||area-trustwallet.com^
 ||aredpoook.com^
 ||aresc.de^
-||aretephoenix.com^
 ||arialscompany.at^
 ||ariat-osterreich.at^
 ||ariatde.de^
@@ -1407,7 +1405,6 @@
 ||arkcoin.cc^
 ||arketrabatt.de^
 ||arkload.com^
-||arl-handel.de^
 ||arlbergatelier.at^
 ||arlequininvest.io^
 ||arlodesire.com^
@@ -1423,7 +1420,6 @@
 ||aroma-tec.com^
 ||aromaleben.com^
 ||aromascent.club^
-||aroundying.de^
 ||aroxcapital.com^
 ||arptrade.com^
 ||arredamenti-italia.de^
@@ -1463,7 +1459,6 @@
 ||ashibellebeauty.com^
 ||ashvillecustomsaunas.com^
 ||asiaingeschaft.com^
-||asics-outlet.de^
 ||asics-schweiz.com^
 ||asicsale.com^
 ||asicsat.at^
@@ -1471,7 +1466,6 @@
 ||asicsshoe.net^
 ||asolousoutlet.com^
 ||aspacommerce.shop^
-||asphaltgoldde.live^
 ||aspierhireworksde.com^
 ||aspierhireworksde.works^
 ||asse-groupe.com^
@@ -1486,7 +1480,6 @@
 ||asta-barka.com^
 ||astaattacco.com^
 ||astelia.de^
-||astfingrat.de^
 ||astonforex.com^
 ||astonmarkets.com^
 ||astorytoys.com^
@@ -1509,7 +1502,6 @@
 ||athletpharma.com^
 ||atikisoi.com^
 ||atinylitshop.com^
-||atlanticeseagrillfishmarketandbar.com^
 ||atlantictrikot.de^
 ||atlas--schuhe.com^
 ||aton-invest.com^
@@ -1527,7 +1519,6 @@
 ||audazza.com^
 ||audelion.de^
 ||audery.de^
-||audi-services.com^
 ||audiencabee.com^
 ||audienceg.com^
 ||audientce.com^
@@ -1565,7 +1556,6 @@
 ||aurorahikari.com^
 ||aurorastore.pro^
 ||aurum-fix-corp.com^
-||aus-gelassen.de^
 ||ausgewalhtheim.de^
 ||auspitz-shop.com^
 ||aussiecarsupplies.com^
@@ -1627,7 +1617,6 @@
 ||autoteilepreisvergleich.org^
 ||autoteilerabatt.com^
 ||autoteilewerkzeug.com^
-||autoteilex.com^
 ||autotoolmaster24.com^
 ||autozubehorde.com^
 ||autozubehormarkt.com^
@@ -1656,7 +1645,6 @@
 ||avenor-hamburg.com^
 ||avenuebeautystudio.com^
 ||avex-group.co^
-||avezzanofahrrad.de^
 ||avidwholesale.org^
 ||avorino.com^
 ||avoros.de^
@@ -1718,7 +1706,6 @@
 ||babygea.com^
 ||babyglueckshop.com^
 ||babylissde.de^
-||babymarkt-deshop.com^
 ||babymodepur.com^
 ||babynippon.com^
 ||babyproduce.com^
@@ -1728,7 +1715,6 @@
 ||babyshark88h.com^
 ||babywarepromo.com^
 ||babyweltde.com^
-||babywojak-rewards.top^
 ||bachelorm.com^
 ||bachmann-handel.de^
 ||bachmann-kanzlei.de^
@@ -1739,7 +1725,6 @@
 ||backformen-shop.com^
 ||backformensale.com^
 ||backontrackus.com^
-||backpacksschritte.com^
 ||badartikelsupply.com^
 ||badduschkopf.com^
 ||badeanzugeneu.com^
@@ -1802,17 +1787,9 @@
 ||banxso.com^
 ||bape.at^
 ||bapeberlin.de^
-||bapedanmark.net^
 ||bapedeutschland.de^
-||bapeeesti.com^
-||bapeisrael.com^
-||bapejapanonline.com^
-||bapelietuva.com^
 ||bapenederland.net^
-||bapenorgeoutlet.com^
 ||bapeparisshop.fr^
-||bapeportugal.net^
-||bapesuisse.com^
 ||baquehottinguer.com^
 ||bar-experte.com^
 ||barbara-taschen.com^
@@ -1863,13 +1840,11 @@
 ||baubali.com^
 ||bauen-shop-de.com^
 ||bauer-parndorf.at^
-||bauer-wien.at^
 ||bauergraz.com^
 ||bauerngarten-fuehrungen.de^
 ||bauernhofspiele.com^
 ||baugerateprofi.com^
 ||bauhobby.com^
-||bauknoten.com^
 ||baukomps.com^
 ||baumantransporte.com^
 ||baumarktverkauf.de^
@@ -1922,19 +1897,16 @@
 ||beatusbikes.com^
 ||beautifyshop.de^
 ||beauty-begins-here.com^
-||beauty365.site^
 ||beautyaftercare.com^
 ||beautyasianpron.shop^
 ||beautycare-press.com^
 ||beautyclam.de^
-||beautyfromjapan.com^
 ||beautygids.net^
 ||beautyhaarshop.com^
 ||beautyhabitps.shop^
 ||beautyhausberlin.de^
 ||beautyketten.com^
 ||beautykoopje.com^
-||beautyonstage.com^
 ||beautyonthebrink.com^
 ||beautyonthebrink.net^
 ||beautypassword.com^
@@ -1944,7 +1916,6 @@
 ||beautytuoch.com^
 ||beautyunnie.com^
 ||bebeautiful.club^
-||bebeautyaustralia.com^
 ||bechic.club^
 ||beckenfit.net^
 ||becker-boutique.com^
@@ -1981,7 +1952,6 @@
 ||belenkawien.at^
 ||beleuchtungprada.com^
 ||belezapreventiva.com^
-||belgicainvest.ltd^
 ||beliora.de^
 ||belizal.com^
 ||bella-balu.de^
@@ -1994,9 +1964,6 @@
 ||belleepoqueapparel.com^
 ||bellelora.com^
 ||bellenini.com^
-||bellesfloraldesign.com^
-||bellesofie.de^
-||bellfumo-tech.de^
 ||bellinsongroup.com^
 ||belliora.it^
 ||bellissimoo.de^
@@ -2043,8 +2010,6 @@
 ||bergwerkpunk.com^
 ||bergxperten.com^
 ||bergxperten.de^
-||berichtkfz.de^
-||berichtprofi.de^
 ||berk-designs.de^
 ||berkfurnitureoutlet.com^
 ||berkler-anhanger.com^
@@ -2211,8 +2176,6 @@
 ||bicicletemagazin.com^
 ||bicycleair-pumpde.com^
 ||bicyclearea.com^
-||bicycledamsperde.com^
-||bicyclegodshop.com^
 ||bicyclehandlebarde.com^
 ||bicycleimpellerde.com^
 ||bicyclelightsde.com^
@@ -2253,17 +2216,13 @@
 ||bikecomponentsde.com^
 ||bikeconcepto.shop^
 ||bikeeinnertubede.com^
-||bikeersatzteile.com^
 ||bikefactoryplus.shop^
-||bikeframesde.com^
 ||bikegadgetde.com^
-||bikehubde.com^
 ||bikelight.de^
 ||bikelightneu.com^
 ||bikelovershop.com^
 ||bikemarket.com^
 ||bikenabende.com^
-||bikenetz.de^
 ||bikepartonline.com^
 ||bikepartsale.com^
 ||bikepartsneu.com^
@@ -2395,12 +2354,10 @@
 ||bkaffee.de^
 ||bl-heizoel.de^
 ||black-shepp-gastroservice.com^
-||blackdiamond-schweiz.com^
 ||blackfridaymegastore.com^
 ||blackgurlzsmagickloset.com^
 ||blacktridentpop.shop^
 ||bladebasics.com^
-||blagabo.com^
 ||blattberlin.com^
 ||blattverkauf.com^
 ||blaudonau.com^
@@ -2420,8 +2377,6 @@
 ||blitzgeld.at^
 ||blizzak.de^
 ||blm-whisky.com^
-||blockshape.eu^
-||bloemker-holz.de^
 ||bloodid.xyz^
 ||bloom-pharma-eg.com^
 ||bloombergnewstoday.com^
@@ -2429,7 +2384,6 @@
 ||bloomplot.com^
 ||bloomszone.com^
 ||bludexe.com^
-||bluebellalingerie.com^
 ||bluebike2.com^
 ||bluebikes8.com^
 ||blueblom.com^
@@ -2452,7 +2406,6 @@
 ||blumenkstenzorn.com^
 ||blumenladen.de^
 ||blumenrose.de^
-||blumenshopdeutschland.de^
 ||blumenstore.com^
 ||blumira.shop^
 ||blyss-shop.de^
@@ -6642,7 +6595,6 @@
 ||haustierbedarfshop.com^
 ||haustiererabatt.com^
 ||haustiereshop.com^
-||haustierstolz.de^
 ||haustirwelten.de^
 ||hausture.com^
 ||hausundgarten.haus^

@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 26 May 2026 10:35 UTC
-! Version: 2026.0526.1035.58
+! Last modified: 02 Jun 2026 18:36 UTC
+! Version: 2026.0602.1836.39
 ! Syntax: AdBlock
-! Number of entries: 3353
+! Number of entries: 3347
 !
 ||ss.0001.xyz^
 ||ns.00dani.me^
@@ -271,10 +271,6 @@
 ||dns.auapi.fun^
 ||dns.audet.cloud^
 ||dns.auffray.org^
-||africa.avastdns.com^
-||europe.avastdns.com^
-||europe-west.avastdns.com^
-||secure.avastdns.com^
 ||adguard.avavd.ru^
 ||vps.avc.cx^
 ||dnstx.axhy.cc^
@@ -2931,9 +2927,7 @@
 ||aridia.ru^
 ||atris.cyou^
 ||atsilva.link^
-||atsssgo.xyz^
 ||auberge78.site^
-||axaxa.fun^
 ||axistechsupport.com^
 ||b9c7dc4e-7dde-4903-935b-fd6ea59ca4fb.space^
 ||bancuh.com^

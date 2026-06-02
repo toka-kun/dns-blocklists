@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Jun 2026 11:08 UTC
-# Version: 2026.0602.1108.41
+# Last modified: 02 Jun 2026 18:37 UTC
+# Version: 2026.0602.1837.56
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9881
+# Number of entries: 9873
 #
 local=/a.189.cn/
 local=/t.2merkato.com/
@@ -1664,7 +1664,6 @@ local=/arolinks.com/
 local=/arpressllc.com/
 local=/arpy.in/
 local=/arrabet.link/
-local=/arshorten.com/
 local=/arsn.al/
 local=/artmo.app/
 local=/arurl.us/
@@ -1700,7 +1699,6 @@ local=/athe.re/
 local=/athena168.vip/
 local=/athm.cn/
 local=/ativo.online/
-local=/atlantisgit.com/
 local=/atm.tk/
 local=/atmilb.com/
 local=/atmlb.com/
@@ -1752,7 +1750,6 @@ local=/axo.li/
 local=/axoni.us/
 local=/ay.gy/
 local=/aylink.co/
-local=/ayohajar.info/
 local=/ayokale.me/
 local=/ayt.fr/
 local=/ayuk.link/
@@ -1784,7 +1781,6 @@ local=/b2u.io/
 local=/b33.fr/
 local=/b4y.net/
 local=/b51.tw/
-local=/b6e.cn/
 local=/b7.tel/
 local=/b808.bet/
 local=/b9d.me/
@@ -1902,7 +1898,6 @@ local=/bigcc.cc/
 local=/bigfi.sh/
 local=/biggiris.link/
 local=/biggo.tw/
-local=/bigolink.com/
 local=/bigurl.io/
 local=/bigwinjiliwin63.online/
 local=/biibly.com/
@@ -1930,7 +1925,6 @@ local=/biolinkplus.com/
 local=/biolinkpro.com/
 local=/biolinkr.app/
 local=/biolinks.link/
-local=/biolinks.ma/
 local=/biolinksplus.com/
 local=/biolinky.co/
 local=/biolnk.in/
@@ -1965,7 +1959,6 @@ local=/bitl.app/
 local=/bitl.to/
 local=/bitlee.site/
 local=/bitley.in/
-local=/bitli.li/
 local=/bitli.pro/
 local=/bitlink.one/
 local=/bitlnx.com/
@@ -2034,7 +2027,6 @@ local=/bladisnel.com/
 local=/blap.net/
 local=/blbrd.cm/
 local=/blck.by/
-local=/blddd.com/
 local=/ble.pl/
 local=/bleenk.co/
 local=/blinkbio.me/

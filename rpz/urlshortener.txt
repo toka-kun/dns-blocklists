@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780398480 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780425420 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 Jun 2026 11:08 UTC
-; Version: 2026.0602.1108.41
+; Last modified: 02 Jun 2026 18:37 UTC
+; Version: 2026.0602.1837.56
 ; Syntax: RPZ
-; Number of entries: 19762
+; Number of entries: 19746
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -2191,8 +2191,6 @@ a.189.cn CNAME .
 *.3.cn CNAME .
 athm.cn CNAME .
 *.athm.cn CNAME .
-b6e.cn CNAME .
-*.b6e.cn CNAME .
 c24.cn CNAME .
 *.c24.cn CNAME .
 cnkf.cn CNAME .
@@ -3397,8 +3395,6 @@ arolinks.com CNAME .
 *.arolinks.com CNAME .
 arpressllc.com CNAME .
 *.arpressllc.com CNAME .
-arshorten.com CNAME .
-*.arshorten.com CNAME .
 asiagacor-77.com CNAME .
 *.asiagacor-77.com CNAME .
 asmoah.com CNAME .
@@ -3407,8 +3403,6 @@ atglinks.com CNAME .
 *.atglinks.com CNAME .
 ath-web.com CNAME .
 *.ath-web.com CNAME .
-atlantisgit.com CNAME .
-*.atlantisgit.com CNAME .
 atmilb.com CNAME .
 *.atmilb.com CNAME .
 atmlb.com CNAME .
@@ -3509,8 +3503,6 @@ biastonu.com CNAME .
 *.biastonu.com CNAME .
 bidiurl.com CNAME .
 *.bidiurl.com CNAME .
-bigolink.com CNAME .
-*.bigolink.com CNAME .
 biibly.com CNAME .
 *.biibly.com CNAME .
 biltiy.com CNAME .
@@ -3599,8 +3591,6 @@ bladisnel.com CNAME .
 *.bladisnel.com CNAME .
 artist.blanchtrap.com CNAME .
 *.artist.blanchtrap.com CNAME .
-blddd.com CNAME .
-*.blddd.com CNAME .
 ai.blendnow.com CNAME .
 *.ai.blendnow.com CNAME .
 blinkbreeze.com CNAME .
@@ -10213,8 +10203,6 @@ go.appsscript.info CNAME .
 *.go.appsscript.info CNAME .
 aresgacor.info CNAME .
 *.aresgacor.info CNAME .
-ayohajar.info CNAME .
-*.ayohajar.info CNAME .
 bbva.info CNAME .
 *.bbva.info CNAME .
 r.bioinfweb.info CNAME .
@@ -11987,8 +11975,6 @@ awc.li CNAME .
 *.awc.li CNAME .
 axo.li CNAME .
 *.axo.li CNAME .
-bitli.li CNAME .
-*.bitli.li CNAME .
 bmr.li CNAME .
 *.bmr.li CNAME .
 btm.li CNAME .
@@ -13523,8 +13509,6 @@ zizi.ly CNAME .
 *.30na.ma CNAME .
 abe.ma CNAME .
 *.abe.ma CNAME .
-biolinks.ma CNAME .
-*.biolinks.ma CNAME .
 cr.ma CNAME .
 *.cr.ma CNAME .
 dd.ma CNAME .

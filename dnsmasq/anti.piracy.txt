@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Jun 2026 12:08 UTC
-# Version: 2026.0602.1208.10
+# Last modified: 02 Jun 2026 18:38 UTC
+# Version: 2026.0602.1838.25
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 22463
+# Number of entries: 22457
 #
 local=/hichemtigsetorgy.0fees.net/
 local=/tracker.0x7c0.com/
@@ -2754,7 +2754,6 @@ local=/arena-tr.com/
 local=/arenabg.ch/
 local=/arenabg.com/
 local=/arenahd.com/
-local=/arenascanscomic.com/
 local=/argenteam.net/
 local=/argentinawarez.com/
 local=/argontv.nl/
@@ -2807,7 +2806,6 @@ local=/astroddl.com/
 local=/astroeggs.com/
 local=/astrostress.com/
 local=/astrotheque.net/
-local=/astrr.ru/
 local=/asttrral-lordfilms.ru/
 local=/at123movies.com/
 local=/at4re.com/
@@ -2877,7 +2875,6 @@ local=/avstrallia-lordfilm.ru/
 local=/avvatar-lordfilms.ru/
 local=/avxhm.se/
 local=/awesome-hd.me/
-local=/awtdg.site/
 local=/awtsport.com/
 local=/axxo.me/
 local=/axxomovies.org/
@@ -3042,7 +3039,6 @@ local=/best-movies.watch/
 local=/best-moviez.ws/
 local=/best-series.me/
 local=/best-soft.net/
-local=/best-v1deos-and-m0vies.best/
 local=/best123movies.com/
 local=/best4stremio.space/
 local=/bestdjmix.com/
@@ -3292,7 +3288,6 @@ local=/bollyflix.frl/
 local=/bollyflix.ist/
 local=/bollyflix.miami/
 local=/bollyflix.online/
-local=/bollyflix.party/
 local=/bollyflix.pet/
 local=/bollyflix.promo/
 local=/bollyflix.pub/
@@ -14918,7 +14913,6 @@ local=/motchillc.net/
 local=/motchillc.one/
 local=/motchillc.onl/
 local=/motchillc.xyz/
-local=/motchillco.mom/
 local=/motchillco.net/
 local=/motchillcs.net/
 local=/motchilldn.net/

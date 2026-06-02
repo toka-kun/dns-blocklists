@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 31 May 2026 18:04 UTC
-# Version: 2026.0531.1804.26
+# Last modified: 02 Jun 2026 18:46 UTC
+# Version: 2026.0602.1846.03
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 703
+# Number of entries: 711
 #
 0.0.0.0 3px.axp.amazon-adsystem.com
 0.0.0.0 aan.amazon.co.jp
@@ -214,6 +214,7 @@
 0.0.0.0 aviary.amazon.de
 0.0.0.0 axp.amazon-adsystem.com
 0.0.0.0 banner-iad.web.bid-na.ads.aps.amazon-adsystem.com
+0.0.0.0 banner-pdx.web.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 banner.web.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 beta-ara.paa-reporting-advertising.amazon
 0.0.0.0 beta-c.aps.amazon-adsystem.com
@@ -277,6 +278,7 @@
 0.0.0.0 cell8002.pdx.spp.event-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8002.pdx.stv.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8002.pdx.stv.event-na.ads.aps.amazon-adsystem.com
+0.0.0.0 cell8002.pdx.web.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8003.iad.mobile.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8003.iad.mobile.event-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8004.pdx.stv.bid-na.ads.aps.amazon-adsystem.com
@@ -284,10 +286,13 @@
 0.0.0.0 cell8005.iad.mobile.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8005.iad.mobile.event-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8005.iad.web.bid-na.ads.aps.amazon-adsystem.com
+0.0.0.0 cell8006.pdx.web.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8011.fra.mobile.bid-eu.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8011.fra.mobile.event-eu.ads.aps.amazon-adsystem.com
+0.0.0.0 cell8011.fra.web.bid-eu.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8012.fra.mobile.bid-eu.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8012.fra.mobile.event-eu.ads.aps.amazon-adsystem.com
+0.0.0.0 cell8012.fra.web.bid-eu.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8013.fra.mobile.bid-eu.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8013.fra.mobile.event-eu.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8021.sin.mobile.bid-fe.ads.aps.amazon-adsystem.com
@@ -379,6 +384,7 @@
 0.0.0.0 fls-na.amazon.com.br
 0.0.0.0 fls-na.amazon.com.mx
 0.0.0.0 forester.a2z.com
+0.0.0.0 fra.web.bid-eu.ads.aps.amazon-adsystem.com
 0.0.0.0 ftv.bugsnag.appstore.a2z.com
 0.0.0.0 gamma-config.aps.amazon-adsystem.com
 0.0.0.0 gamma-toolbox.aps.amazon-adsystem.com
@@ -462,6 +468,7 @@
 0.0.0.0 ott.us-east.aps.axp.amazon-adsystem.com
 0.0.0.0 ott.us-west.aps.axp.amazon-adsystem.com
 0.0.0.0 paa-reporting-advertising.amazon
+0.0.0.0 pdx.web.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 pg.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 pg.event-na.ads.aps.amazon-adsystem.com
 0.0.0.0 pins-test.spp.bid-na.ads.aps.amazon-adsystem.com
@@ -680,6 +687,7 @@
 0.0.0.0 web-video.ads.aps.amazon-adsystem.com
 0.0.0.0 web.ads.aps.amazon-adsystem.com
 0.0.0.0 web.ap-southeast.aps.axp.amazon-adsystem.com
+0.0.0.0 web.bid-eu.ads.aps.amazon-adsystem.com
 0.0.0.0 web.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 web.eu-west.aps.axp.amazon-adsystem.com
 0.0.0.0 web.us-east.aps.axp.amazon-adsystem.com

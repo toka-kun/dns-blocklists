@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Jun 2026 11:05 UTC
-# Version: 2026.0602.1105.13
+# Last modified: 02 Jun 2026 18:28 UTC
+# Version: 2026.0602.1828.02
 # Syntax: Domains (without subdomains)
-# Number of entries: 50286
+# Number of entries: 50226
 #
 fd01ce9a02.0012e30263.com
 c2c4aecf0a.0073a85a5d.com
@@ -379,7 +379,6 @@ cu.awaiterovey.com
 soft.awaysoft.com
 xz.awestcauk.com
 weeped.awinkflamers.top
-xe.awinriglet.com
 ha.awiswara.shop
 amerb.awkbkkqkqejlv.top
 iw.awolhalling.com
@@ -406,13 +405,10 @@ pushlandings.b-cdn.net
 trgfx.b-cdn.net
 8b2d434767.b0f31fd873.com
 50e57be19a.b0ff04e647.com
-3773c12737.b395af8742.com
 a0be2a7d71.b3bdc7e743.com
-7ad490a943.b3c8cc8e2b.com
 708ec1c33c.b4a03471a7.com
 85dcec5317.b8763ae795.com
 404049b454.b9de82bb39.com
-al.baalshousal.com
 zp.babboolcellose.shop
 lp.babpolish.com
 rh.baccharreapply.com
@@ -422,7 +418,6 @@ ol.baghlachalked.com
 es.bagwigsquietus.com
 lk.bahaywriggly.com
 be.bahimatittlin.com
-carrell.bajrisialid.top
 ia.bajuryvulgars.top
 za.balderalrune.com
 xi.baldscatkins.com
@@ -438,9 +433,6 @@ sc.banqueoutkill.com
 darian.bantengan.xyz
 uc.barbelfaldfee.com
 do.barmfellists.com
-chiyouranai.base.shop
-tokujiro.base.shop
-uranai1111.base.shop
 ah.basothomug.com
 bv.basquedbeloam.com
 ck.bastardzingaro.com
@@ -449,7 +441,6 @@ ao.bathalabima.com
 capinfoproreport.batiactu.com
 aw.battiesnarras.com
 fc.baudspunners.com
-uf.bawtiesforehew.com
 zg.bayboltlarva.top
 qg.bayetadutch.click
 mb.baywoodeastlin.com
@@ -472,15 +463,11 @@ ij.begobswider.com
 kp.begohmencelia.shop
 mf.begowktimbers.help
 nf.begumsbandi.com
-dr.behestsczigany.com
 ni.beigekismat.com
-te.bejazzsartor.shop
 ng.belickzoeae.shop
 ba.benchergodpapa.com
 li.benefitsiroc.com
-xx.benweedalbert.top
 zc.benzoinserose.cyou
-ce.berejacobus.top
 xs.bernesesamp.com
 kexmrj.bestafair.net
 vozmj.bestdatiingplace.com
@@ -495,7 +482,6 @@ eg.bettaninons.com
 ne.bevelcrewcut.com
 rc.beykishen.com
 hc.beylicbesmile.com
-956566f4be.bf2bbb8842.com
 ye.bhpzoaea.com
 go1.bhunif.com
 bk.bi.bi.ai
@@ -513,10 +499,8 @@ tj.bingoputlog.shop
 hethongnoibo.bio.link
 jb.bipedalpelmata.top
 rm.birdeangioid.com
-fp.bisharitrips.com
 short.bitchute.com
 pw.bittingwrongdo.com
-fx.biuratewitling.top
 zbxkg.bizaredates.com
 qishui.bj.cn
 018.bjzs114.cn
@@ -539,7 +523,6 @@ oy.bloutding.shop
 yg.bluntieexeunt.com
 kf.blursverism.com
 k.bm.cm
-vr.boatbritska.top
 ib.bobafidges.com
 um.bobflythwarts.com
 br.bocheskelly.com
@@ -1922,20 +1905,6 @@ qiejushuo.hirz.cn
 ko.hissesgestapo.com
 sl.hitchdong.com
 jt.hitchelunspun.com
-app-google-zh.hl.cn
-cnzh-google-apps.hl.cn
-go-todesk.hl.cn
-googgle-chrrome.hl.cn
-google-chrrome-zh.hl.cn
-google-google-chrome-google-com.hl.cn
-line-go.hl.cn
-office-wps-hl.hl.cn
-qh-qishuiyinyue.hl.cn
-qishuimusic-cn.hl.cn
-todesk-web.hl.cn
-todesk-zh.hl.cn
-zh-todesk-cn.hl.cn
-zhcn-googele.hl.cn
 map.hnchj.com
 dciclc.hnwuamu.top
 m10.hoes.tube
@@ -2202,8 +2171,6 @@ hh.koloaller.com
 vg.konigakeyset.top
 mf.kotocolmar.com
 hl.koumyscampana.com
-lc.krgirls.beauty
-me.krgirls.beauty
 ym.kronionsuttas.com
 kp.kueunpick.com
 ms.kuugo.cc
@@ -8845,7 +8812,6 @@ businesslnstagram.zya.me
 812555.com
 81654.com
 8184.cc
-81af8eb64e.com
 821e113467.com
 8231e5c33a.com
 82565.com
@@ -8931,7 +8897,6 @@ businesslnstagram.zya.me
 8f4c607ea0.com
 8f74a52456.com
 8fbfeb27e6.com
-8ffea74ec5.com
 8j1f0af5.de
 8jfbt5va3r.com
 8jjbet.org
@@ -9053,7 +9018,6 @@ businesslnstagram.zya.me
 99jiuying.com
 99pk.vip
 99riav14.com
-9a4f937e0f.com
 9a8f641701.com
 9b4069b2fa.com
 9c1e54fbf4.com
@@ -12047,7 +12011,6 @@ arvest-blank.com
 arvigorothan.com
 arwobaton.com
 arzaeterna.com
-as12310.com
 as25ap.com
 as5000.com
 asacdn.com
@@ -12417,7 +12380,6 @@ audi4sdian.com
 audibleapproach.com
 audiblehybrid.com
 audiblemeantimeted.com
-audiblemidsummerasia.com
 audiblereflectionsenterprising.com
 audiblyjinx.com
 audience2media.com
@@ -12454,7 +12416,6 @@ aulrains.com
 aumsarso.com
 auneechuksee.net
 aunehofyojgfq.space
-aungaifeeka.com
 aungudie.com
 aunsaick.com
 aunstollarinets.com
@@ -12556,7 +12517,6 @@ avglvolxsgfkp.site
 avhgubaf.com
 avhkihpfabt.com
 avhtaapxml.com
-aviatepivots.top
 aviatort.com
 avibhiltgmv.com
 aviiivsxdmbgc.site
@@ -12793,7 +12753,6 @@ b-withyou.com
 b00m.site
 b02byun5xc3s.com
 b059.com
-b08z8kgy7.xyz
 b0f3731d0a.com
 b0oie4xjeb4ite.com
 b14ae1c233.com
@@ -12812,7 +12771,6 @@ b3stcond1tions.com
 b42fb8d81e.com
 b42rracj.com
 b46c27d3ea.com
-b4ced3abcd.com
 b51f251b31.com
 b58ncoa1c07f.com
 b595.com
@@ -12973,7 +12931,6 @@ bandoraclink.com
 bandswell.com
 bandyrefrigeratefeign.com
 baneseverelyembroidery.com
-bangalaorrhoid.com
 banginconsistenttrailer.com
 banginghearthseparate.com
 bangtyranclank.com
@@ -13067,6 +13024,7 @@ bartonpriority.com
 bartramagynous.com
 barytemarkup.com
 barytethynnid.com
+base.shop
 baseballletters.com
 basejudgementquizmaster.com
 basementunfamiliar.com
@@ -13192,7 +13150,6 @@ bcwpdvigokzca.space
 bcydxusraikpu.online
 bd22dbd14109c5628a246d5b495107e6e580f59bb3a07eef0c89d1c6.com
 bd51static.com
-bd64dc73db.com
 bdbc7dce8e.com
 bdblpy.top
 bdd549304d.com
@@ -13287,7 +13244,6 @@ beenlittleinsanity.com
 beenoper.com
 beenover.com
 beeprohomes.com
-beer8.com
 beergeneralization.com
 beesparliament.com
 beesratyou.com
@@ -13326,12 +13282,10 @@ beholdpushingagainst.com
 beigecheerfulslacken.com
 beijingbg.com
 beijingjiagu.com
-beijingjs.org
 beingajoytow.com
 beingsdebark.com
 beingshashpriest.com
 beingsorting.com
-beinlyhurlpit.com
 bejwponulwdwx.online
 beklefkiom.com
 beknavedejeune.com
@@ -13381,7 +13335,6 @@ belovedset.com
 beltcological.com
 beltenefloit.com
 belterglaikit.com
-beltsflusker.com
 beludicolor.com
 belwrite.com
 bemate.com
@@ -13525,7 +13478,6 @@ bestdisplaycontent.com
 bestdisplayformats.com
 bestentrypoint.com
 bestfishy.com
-bestforexpartners.com
 bestfuckapps.com
 bestfunnyads.com
 bestgamesilo.com
@@ -13557,7 +13509,6 @@ besttmatch.net
 besttreasurecoastroofing.com
 bestudsdriest.top
 bestunfollow.com
-bestverse.cn
 bestway-france.com
 bestxchat.net
 bestyupoo.com
@@ -13573,7 +13524,6 @@ betainehoolee.com
 betauroruschan.com
 betaways.com
 betazebra.com
-betbagonom.com
 betcc.top
 betdog.info
 betee.top
@@ -13595,7 +13545,6 @@ betpartners.it
 betqq.top
 betrayalfelonprudent.com
 betrayedjerusalemchancy.com
-betreeckoan.com
 bets.to
 bets88ph.com
 betsafe.lt
@@ -13634,7 +13583,6 @@ bewailwheelsdisloyal.com
 bewearycommit.shop
 bewgfbytrstaz.space
 bewhidare.com
-bewhitemousee.com
 bewilderedblade.com
 bewiredfrument.shop
 bewitched-display.pro
@@ -13647,12 +13595,10 @@ beyondpayors.com
 beyourxfriend.com
 bf-ad.net
 bf002bbbbb.com
-bf3759.com
 bf7472b795.com
 bfatools.com
 bfaubcoezrihe.site
 bfeohxlzuo.com
-bfgpan.top
 bflx.org
 bfpartners.click
 bfraircymryuh.xyz
@@ -13825,7 +13771,6 @@ birchflarechurch.com
 birdav.com
 birdgrasshopper.com
 biroads.com
-birsleunhired.com
 birth-bravery.com
 birthaslaver.com
 birthdaypainless.com
@@ -13873,7 +13818,6 @@ bitx.tv
 bitzv.com
 biucjsmmvnzbm.online
 biuealqjtqkyk.website
-biuneimpot.com
 bivsawomqp.com
 bivvmhkimlqzq.store
 bivvywhoot.top
@@ -13923,7 +13867,6 @@ bkwuodwvehlzr.life
 bkxdlsivyfsjapsokq.com
 bkzojuncitbqa.space
 bl230126pb.com
-bl2ibb5yi.xyz
 black-magic.jp
 black77854.com
 blackandwhite-temporary.com
@@ -14002,7 +13945,6 @@ blender3d.es
 blender3d.fr
 blendertimid.com
 blessedcomb.com
-blessedhurtdismantle.com
 blessedsophia.com
 blessingaccidentallyimpatient.com
 blessingsome.com
@@ -14079,7 +14021,6 @@ blogs-peoples.com
 blogshop.org
 blogsuperapp.com
 blond-pollution.pro
-blondassignappear.com
 blondeopinion.com
 blondparcelcane.com
 blondspeaker.com
@@ -14281,7 +14222,6 @@ bolpjziaxakkg.store
 bolsterate.com
 bolsterate.net
 boltepse.com
-boltnunfirsthand.com
 bombscore.com
 bomdog.com
 bonad.io
@@ -20111,6 +20051,7 @@ dreamytabs.com
 dreary-extent.com
 dreary-fuel.com
 dreary-hunt.com
+dreary-version.pro
 drectsearch.com
 dreeamdate.com
 dreeamyou.com
@@ -20670,7 +20611,6 @@ eclkmpsa.com
 eclnqdlbtgokj.site
 eclvgswxvthwx.space
 ecoedgeinnovations.xyz
-ecomicrolab.com
 ecommercecall.com
 economicalathlete.com
 economicaldashcentral.com
@@ -26312,6 +26252,7 @@ hkpjnieraypcn.site
 hkwrwuqlcpelq.site
 hkygalzumaqv.com
 hkzhongzhuangzhan.cc
+hl.cn
 hl2u.com
 hlbmaat.com
 hldijphcjszui.store
@@ -28090,7 +28031,6 @@ irmlutzpydekm.website
 iroha-oran24.com
 ironhorseautogroup.com
 irradiatestartle.com
-irregularcelebrateblazing.com
 irreproachableradio.com
 irresponsibleanalyst.pro
 irresponsiblevalve.com
@@ -29715,6 +29655,7 @@ krenkzfiuzryw.store
 kreomfoq.com
 kreps.xyz
 krfqlrxvmoyrj.online
+krgirls.beauty
 krhmtdzuxxmsc.space
 krigiamisdeal.click
 krisydark.com
@@ -38417,7 +38358,6 @@ pznnvt.top
 pzqrhgqndswqn.store
 pzwzitvbdhpiw.website
 pzxjjwbdvxxbi.store
-q1media.com
 q2i8kd5n.de
 q88z1s3.com
 q8ntfhfngm.com

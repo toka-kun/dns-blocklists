@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780138980 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780427820 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 30 May 2026 11:03 UTC
-; Version: 2026.0530.1103.17
+; Last modified: 02 Jun 2026 19:17 UTC
+; Version: 2026.0602.1917.25
 ; Syntax: RPZ
-; Number of entries: 6834
+; Number of entries: 6824
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -711,14 +711,6 @@ dns.asysec.com CNAME .
 *.dns.asysec.com CNAME .
 adguardhome.atakorah.com CNAME .
 *.adguardhome.atakorah.com CNAME .
-africa.avastdns.com CNAME .
-*.africa.avastdns.com CNAME .
-europe.avastdns.com CNAME .
-*.europe.avastdns.com CNAME .
-europe-west.avastdns.com CNAME .
-*.europe-west.avastdns.com CNAME .
-secure.avastdns.com CNAME .
-*.secure.avastdns.com CNAME .
 axistechsupport.com CNAME .
 *.axistechsupport.com CNAME .
 vdsn-nl-2.azatmutq.com CNAME .
@@ -1865,6 +1857,8 @@ httpdns.yunxindns.com CNAME .
 *.httpdns.yunxindns.com CNAME .
 s1.yushuncompany.com CNAME .
 *.s1.yushuncompany.com CNAME .
+doh.ywhost.com CNAME .
+*.doh.ywhost.com CNAME .
 httpdns.gslb.yy.com CNAME .
 *.httpdns.gslb.yy.com CNAME .
 dns.yyaan.com CNAME .
@@ -2669,8 +2663,6 @@ adfiltro.fun CNAME .
 *.adfiltro.fun CNAME .
 dns.auapi.fun CNAME .
 *.dns.auapi.fun CNAME .
-axaxa.fun CNAME .
-*.axaxa.fun CNAME .
 cloudbenders.fun CNAME .
 *.cloudbenders.fun CNAME .
 cynntex.fun CNAME .
@@ -6675,8 +6667,6 @@ andrewnw.xyz CNAME .
 *.andrewnw.xyz CNAME .
 andy123123.xyz CNAME .
 *.andy123123.xyz CNAME .
-atsssgo.xyz CNAME .
-*.atsssgo.xyz CNAME .
 filter.badbotdev.xyz CNAME .
 *.filter.badbotdev.xyz CNAME .
 safe-guard.badbotdev.xyz CNAME .

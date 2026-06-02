@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 30 May 2026 11:03 UTC
-# Version: 2026.0530.1103.17
+# Last modified: 02 Jun 2026 19:17 UTC
+# Version: 2026.0602.1917.25
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3876
+# Number of entries: 3871
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -395,19 +395,13 @@
 0.0.0.0 atris.cyou
 0.0.0.0 atsilva.link
 0.0.0.0 dns.atsilva.link
-0.0.0.0 atsssgo.xyz
 0.0.0.0 dohtrial.att.net
 0.0.0.0 dns.auapi.fun
 0.0.0.0 auberge78.site
 0.0.0.0 dns.audet.cloud
 0.0.0.0 dns.auffray.org
-0.0.0.0 africa.avastdns.com
-0.0.0.0 europe.avastdns.com
-0.0.0.0 europe-west.avastdns.com
-0.0.0.0 secure.avastdns.com
 0.0.0.0 adguard.avavd.ru
 0.0.0.0 vps.avc.cx
-0.0.0.0 axaxa.fun
 0.0.0.0 dnstx.axhy.cc
 0.0.0.0 axistechsupport.com
 0.0.0.0 dns.axto.me
@@ -3841,6 +3835,7 @@
 0.0.0.0 yuvelirtut.website
 0.0.0.0 dns.yuyz.net
 0.0.0.0 dns.yuzia.cc
+0.0.0.0 doh.ywhost.com
 0.0.0.0 httpdns.gslb.yy.com
 0.0.0.0 dns.yyaan.com
 0.0.0.0 dns.yyaan.top

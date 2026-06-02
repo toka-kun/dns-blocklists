@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 May 2026 17:08 UTC
-# Version: 2026.0524.1708.37
+# Last modified: 02 Jun 2026 18:52 UTC
+# Version: 2026.0602.1852.42
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 353
+# Number of entries: 347
 #
 local=/traffic-media.co.uk/
 local=/mistat.india.xiaomi.com.edgesuite.net/
@@ -168,8 +168,6 @@ local=/awsusor0-cdn.fds-ssl.api.xiaomi.com/
 local=/cdn.fds-ssl.api.xiaomi.com/
 local=/mibi.api.xiaomi.com/
 local=/o2o.api.xiaomi.com/
-local=/a0.app.xiaomi.com/
-local=/t.app.xiaomi.com/
 local=/shoes.app-xae.xiaomi.com/
 local=/mon.be.xiaomi.com/
 local=/sentry.be.xiaomi.com/
@@ -199,7 +197,7 @@ local=/notice.game.xiaomi.com/
 local=/static.game.xiaomi.com/
 local=/wap.game.xiaomi.com/
 local=/idmb.app.chat.global.xiaomi.net/
-local=/fr.resolver.msg.global.xiaomi.net/
+local=/resolver.msg.global.xiaomi.net/
 local=/fr.feedback.xmpush.global.xiaomi.com/
 local=/idmb.feedback.xmpush.global.xiaomi.com/
 local=/ru.feedback.xmpush.global.xiaomi.com/
@@ -251,10 +249,8 @@ local=/api.g.micloud.xiaomi.net/
 local=/api.micloud.xiaomi.net/
 local=/findapi.micloud.xiaomi.net/
 local=/statusapi.micloud.xiaomi.net/
-local=/tv.app.migc.xiaomi.com/
+local=/app.migc.xiaomi.com/
 local=/invoice.netroam.mihome.xiaomi.net/
-local=/data.mistat.xiaomi.com/
-local=/storeconfig.mistat.xiaomi.com/
 local=/file.cdn.mvideo.xiaomi.com/
 local=/image.cdn.mvideo.xiaomi.com/
 local=/staging.appapi.n.xiaomi.com/
@@ -337,16 +333,13 @@ local=/p.www.xiaomi.com/
 local=/stat.www.xiaomi.com/
 local=/console.admin.xmpush.xiaomi.com/
 local=/test.admin.xmpush.xiaomi.com/
-local=/c3.api.xmpush.xiaomi.com/
-local=/i.api.xmpush.xiaomi.com/
-local=/lg.api.xmpush.xiaomi.com/
-local=/mob.api.xmpush.xiaomi.com/
-local=/vip.api.xmpush.xiaomi.com/
+local=/api.xmpush.xiaomi.com/
 local=/callback.xmpush.xiaomi.com/
 local=/emq.xmpush.xiaomi.com/
 local=/sandbox.xmpush.xiaomi.com/
 local=/vip-api.xmpush.xiaomi.com/
 local=/ad.xiaomi.com/
+local=/app.xiaomi.com/
 local=/bugreport.xiaomi.net/
 local=/d.xiaomi.com/
 local=/hd.xiaomi.com/
@@ -354,6 +347,7 @@ local=/heyue.xiaomi.com/
 local=/huosai.xiaomi.com/
 local=/i.xiaomi.com/
 local=/mibi.xiaomi.com/
+local=/mistat.xiaomi.com/
 local=/preload.xiaomi.com/
 local=/qiye.xiaomi.com/
 local=/ssp.xiaomi.com/

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780402080 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780425480 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 Jun 2026 12:08 UTC
-; Version: 2026.0602.1208.10
+; Last modified: 02 Jun 2026 18:38 UTC
+; Version: 2026.0602.1838.25
 ; Syntax: RPZ
-; Number of entries: 44926
+; Number of entries: 44914
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -970,8 +970,6 @@ xmovies8.beer CNAME .
 *.123moviesfree.best CNAME .
 654321.best CNAME .
 *.654321.best CNAME .
-best-v1deos-and-m0vies.best CNAME .
-*.best-v1deos-and-m0vies.best CNAME .
 cineblog001.best CNAME .
 *.cineblog001.best CNAME .
 tracker.daydream.dmhy.best CNAME .
@@ -4408,8 +4406,6 @@ arenabg.com CNAME .
 *.arenabg.com CNAME .
 arenahd.com CNAME .
 *.arenahd.com CNAME .
-arenascanscomic.com CNAME .
-*.arenascanscomic.com CNAME .
 argentinawarez.com CNAME .
 *.argentinawarez.com CNAME .
 arrayanime.com CNAME .
@@ -24336,8 +24332,6 @@ lordfilmyn.mom CNAME .
 *.lordfilmyn.mom CNAME .
 lordfilmyx.mom CNAME .
 *.lordfilmyx.mom CNAME .
-motchillco.mom CNAME .
-*.motchillco.mom CNAME .
 motchilltv.mom CNAME .
 *.motchilltv.mom CNAME .
 motchillzl.mom CNAME .
@@ -30778,8 +30772,6 @@ streamingcommunityz.parts CNAME .
 *.streamingcommunityz.parts CNAME .
 torrent.parts CNAME .
 *.torrent.parts CNAME .
-bollyflix.party CNAME .
-*.bollyflix.party CNAME .
 tracker.ducks.party CNAME .
 *.tracker.ducks.party CNAME .
 hdfilme.party CNAME .
@@ -32602,8 +32594,6 @@ astral-lordfilm3.ru CNAME .
 *.astral-lordfilm3.ru CNAME .
 astrals-lordfilms.ru CNAME .
 *.astrals-lordfilms.ru CNAME .
-astrr.ru CNAME .
-*.astrr.ru CNAME .
 asttrral-lordfilms.ru CNAME .
 *.asttrral-lordfilms.ru CNAME .
 atonementes-lordfilm.ru CNAME .
@@ -39000,8 +38990,6 @@ animex.site CNAME .
 *.animex.site CNAME .
 antenasport.site CNAME .
 *.antenasport.site CNAME .
-awtdg.site CNAME .
-*.awtdg.site CNAME .
 bigtorrent.site CNAME .
 *.bigtorrent.site CNAME .
 bluehorizon4.site CNAME .

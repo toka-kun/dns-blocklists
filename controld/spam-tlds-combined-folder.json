@@ -2506,6 +2506,13 @@
       }
     },
     {
+      "PK": "fastdl.icu",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "fastmail.help",
       "action": {
         "do": 1,
@@ -8072,6 +8079,13 @@
     },
     {
       "PK": "vaultcord.win",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "vcloud.lol",
       "action": {
         "do": 1,
         "status": 1

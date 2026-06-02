@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780398300 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780424880 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Pop-Up Ads DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 Jun 2026 11:05 UTC
-; Version: 2026.0602.1105.13
+; Last modified: 02 Jun 2026 18:28 UTC
+; Version: 2026.0602.1828.02
 ; Syntax: RPZ
-; Number of entries: 100572
+; Number of entries: 100452
 ;
 bonzai.ad CNAME .
 *.bonzai.ad CNAME .
@@ -570,10 +570,8 @@ revlt.be CNAME .
 *.revlt.be CNAME .
 gvfejsk.beauty CNAME .
 *.gvfejsk.beauty CNAME .
-lc.krgirls.beauty CNAME .
-*.lc.krgirls.beauty CNAME .
-me.krgirls.beauty CNAME .
-*.me.krgirls.beauty CNAME .
+krgirls.beauty CNAME .
+*.krgirls.beauty CNAME .
 go1.sildenafi.beauty CNAME .
 *.go1.sildenafi.beauty CNAME .
 0.beer CNAME .
@@ -2516,8 +2514,6 @@ ayxzy.cn CNAME .
 *.ayxzy.cn CNAME .
 bangyoul.cn CNAME .
 *.bangyoul.cn CNAME .
-bestverse.cn CNAME .
-*.bestverse.cn CNAME .
 qishui.bj.cn CNAME .
 *.qishui.bj.cn CNAME .
 bjhuaya.cn CNAME .
@@ -2866,34 +2862,8 @@ hengde.cn CNAME .
 *.hengde.cn CNAME .
 qiejushuo.hirz.cn CNAME .
 *.qiejushuo.hirz.cn CNAME .
-app-google-zh.hl.cn CNAME .
-*.app-google-zh.hl.cn CNAME .
-cnzh-google-apps.hl.cn CNAME .
-*.cnzh-google-apps.hl.cn CNAME .
-go-todesk.hl.cn CNAME .
-*.go-todesk.hl.cn CNAME .
-googgle-chrrome.hl.cn CNAME .
-*.googgle-chrrome.hl.cn CNAME .
-google-chrrome-zh.hl.cn CNAME .
-*.google-chrrome-zh.hl.cn CNAME .
-google-google-chrome-google-com.hl.cn CNAME .
-*.google-google-chrome-google-com.hl.cn CNAME .
-line-go.hl.cn CNAME .
-*.line-go.hl.cn CNAME .
-office-wps-hl.hl.cn CNAME .
-*.office-wps-hl.hl.cn CNAME .
-qh-qishuiyinyue.hl.cn CNAME .
-*.qh-qishuiyinyue.hl.cn CNAME .
-qishuimusic-cn.hl.cn CNAME .
-*.qishuimusic-cn.hl.cn CNAME .
-todesk-web.hl.cn CNAME .
-*.todesk-web.hl.cn CNAME .
-todesk-zh.hl.cn CNAME .
-*.todesk-zh.hl.cn CNAME .
-zh-todesk-cn.hl.cn CNAME .
-*.zh-todesk-cn.hl.cn CNAME .
-zhcn-googele.hl.cn CNAME .
-*.zhcn-googele.hl.cn CNAME .
+hl.cn CNAME .
+*.hl.cn CNAME .
 ho521.cn CNAME .
 *.ho521.cn CNAME .
 hologramid.cn CNAME .
@@ -10690,8 +10660,6 @@ e9093193fa.8111f7e70e.com CNAME .
 *.812555.com CNAME .
 81654.com CNAME .
 *.81654.com CNAME .
-81af8eb64e.com CNAME .
-*.81af8eb64e.com CNAME .
 821e113467.com CNAME .
 *.821e113467.com CNAME .
 8231e5c33a.com CNAME .
@@ -10850,8 +10818,6 @@ c66ab37744.86d0868ed3.com CNAME .
 *.512a353952.8fb13633f6.com CNAME .
 8fbfeb27e6.com CNAME .
 *.8fbfeb27e6.com CNAME .
-8ffea74ec5.com CNAME .
-*.8ffea74ec5.com CNAME .
 8jfbt5va3r.com CNAME .
 *.8jfbt5va3r.com CNAME .
 8mav260.com CNAME .
@@ -11056,8 +11022,6 @@ d34d3e1bba.91d02a6a8c.com CNAME .
 *.99riav14.com CNAME .
 01ca03c5d7.9a131ab3ce.com CNAME .
 *.01ca03c5d7.9a131ab3ce.com CNAME .
-9a4f937e0f.com CNAME .
-*.9a4f937e0f.com CNAME .
 055479b29b.9a57160d5c.com CNAME .
 *.055479b29b.9a57160d5c.com CNAME .
 9a8f641701.com CNAME .
@@ -15674,8 +15638,6 @@ arwobaton.com CNAME .
 *.arwobaton.com CNAME .
 arzaeterna.com CNAME .
 *.arzaeterna.com CNAME .
-as12310.com CNAME .
-*.as12310.com CNAME .
 as25ap.com CNAME .
 *.as25ap.com CNAME .
 as5000.com CNAME .
@@ -16272,8 +16234,6 @@ audiblehybrid.com CNAME .
 *.audiblehybrid.com CNAME .
 audiblemeantimeted.com CNAME .
 *.audiblemeantimeted.com CNAME .
-audiblemidsummerasia.com CNAME .
-*.audiblemidsummerasia.com CNAME .
 audiblereflectionsenterprising.com CNAME .
 *.audiblereflectionsenterprising.com CNAME .
 audiblyjinx.com CNAME .
@@ -16332,8 +16292,6 @@ aumsarso.com CNAME .
 *.aumsarso.com CNAME .
 uz.aunemalakin.com CNAME .
 *.uz.aunemalakin.com CNAME .
-aungaifeeka.com CNAME .
-*.aungaifeeka.com CNAME .
 aungudie.com CNAME .
 *.aungudie.com CNAME .
 aunsaick.com CNAME .
@@ -16690,8 +16648,6 @@ awhiledad.com CNAME .
 *.awhiledad.com CNAME .
 awhilediplomagloss.com CNAME .
 *.awhilediplomagloss.com CNAME .
-xe.awinriglet.com CNAME .
-*.xe.awinriglet.com CNAME .
 awistats.com CNAME .
 *.awistats.com CNAME .
 awjolfmmis.com CNAME .
@@ -16890,12 +16846,8 @@ b2y33.com CNAME .
 *.b2y33.com CNAME .
 b35fc2842a.com CNAME .
 *.b35fc2842a.com CNAME .
-3773c12737.b395af8742.com CNAME .
-*.3773c12737.b395af8742.com CNAME .
 a0be2a7d71.b3bdc7e743.com CNAME .
 *.a0be2a7d71.b3bdc7e743.com CNAME .
-7ad490a943.b3c8cc8e2b.com CNAME .
-*.7ad490a943.b3c8cc8e2b.com CNAME .
 b3kyo0de1fr0.com CNAME .
 *.b3kyo0de1fr0.com CNAME .
 b3stcond1tions.com CNAME .
@@ -16908,8 +16860,6 @@ b46c27d3ea.com CNAME .
 *.b46c27d3ea.com CNAME .
 708ec1c33c.b4a03471a7.com CNAME .
 *.708ec1c33c.b4a03471a7.com CNAME .
-b4ced3abcd.com CNAME .
-*.b4ced3abcd.com CNAME .
 b51f251b31.com CNAME .
 *.b51f251b31.com CNAME .
 b58ncoa1c07f.com CNAME .
@@ -16948,8 +16898,6 @@ ba61261c39.com CNAME .
 *.ba61261c39.com CNAME .
 ba6174e1cd.com CNAME .
 *.ba6174e1cd.com CNAME .
-al.baalshousal.com CNAME .
-*.al.baalshousal.com CNAME .
 bab3105053.com CNAME .
 *.bab3105053.com CNAME .
 babblelessenairline.com CNAME .
@@ -17204,8 +17152,6 @@ bandyrefrigeratefeign.com CNAME .
 *.bandyrefrigeratefeign.com CNAME .
 baneseverelyembroidery.com CNAME .
 *.baneseverelyembroidery.com CNAME .
-bangalaorrhoid.com CNAME .
-*.bangalaorrhoid.com CNAME .
 fb.bangaverbena.com CNAME .
 *.fb.bangaverbena.com CNAME .
 banginconsistenttrailer.com CNAME .
@@ -17466,8 +17412,6 @@ baumiereosinic.com CNAME .
 *.baumiereosinic.com CNAME .
 bawatklitj.com CNAME .
 *.bawatklitj.com CNAME .
-uf.bawtiesforehew.com CNAME .
-*.uf.bawtiesforehew.com CNAME .
 baymr.com CNAME .
 *.baymr.com CNAME .
 bayokagrote.com CNAME .
@@ -17522,8 +17466,6 @@ bd22dbd14109c5628a246d5b495107e6e580f59bb3a07eef0c89d1c6.com CNAME .
 *.bd22dbd14109c5628a246d5b495107e6e580f59bb3a07eef0c89d1c6.com CNAME .
 bd51static.com CNAME .
 *.bd51static.com CNAME .
-bd64dc73db.com CNAME .
-*.bd64dc73db.com CNAME .
 bdbc7dce8e.com CNAME .
 *.bdbc7dce8e.com CNAME .
 bdd549304d.com CNAME .
@@ -17680,8 +17622,6 @@ beenover.com CNAME .
 *.beenover.com CNAME .
 beeprohomes.com CNAME .
 *.beeprohomes.com CNAME .
-beer8.com CNAME .
-*.beer8.com CNAME .
 beergeneralization.com CNAME .
 *.beergeneralization.com CNAME .
 zr.beerytropist.com CNAME .
@@ -17742,8 +17682,6 @@ behaviorworksvirginia.com CNAME .
 *.behaviorworksvirginia.com CNAME .
 beheldsled.com CNAME .
 *.beheldsled.com CNAME .
-dr.behestsczigany.com CNAME .
-*.dr.behestsczigany.com CNAME .
 behindanteroomplatoon.com CNAME .
 *.behindanteroomplatoon.com CNAME .
 beholdimposter.com CNAME .
@@ -17766,8 +17704,6 @@ beingshashpriest.com CNAME .
 *.beingshashpriest.com CNAME .
 beingsorting.com CNAME .
 *.beingsorting.com CNAME .
-beinlyhurlpit.com CNAME .
-*.beinlyhurlpit.com CNAME .
 beklefkiom.com CNAME .
 *.beklefkiom.com CNAME .
 beknavedejeune.com CNAME .
@@ -17854,8 +17790,6 @@ beltenefloit.com CNAME .
 *.beltenefloit.com CNAME .
 belterglaikit.com CNAME .
 *.belterglaikit.com CNAME .
-beltsflusker.com CNAME .
-*.beltsflusker.com CNAME .
 beludicolor.com CNAME .
 *.beludicolor.com CNAME .
 belwrite.com CNAME .
@@ -18056,8 +17990,6 @@ bestentrypoint.com CNAME .
 *.bestentrypoint.com CNAME .
 bestfishy.com CNAME .
 *.bestfishy.com CNAME .
-bestforexpartners.com CNAME .
-*.bestforexpartners.com CNAME .
 bestfuckapps.com CNAME .
 *.bestfuckapps.com CNAME .
 bestfunnyads.com CNAME .
@@ -18132,8 +18064,6 @@ betaways.com CNAME .
 *.betaways.com CNAME .
 betazebra.com CNAME .
 *.betazebra.com CNAME .
-betbagonom.com CNAME .
-*.betbagonom.com CNAME .
 betemolgar.com CNAME .
 *.betemolgar.com CNAME .
 beterrakionan.com CNAME .
@@ -18164,8 +18094,6 @@ betrayalfelonprudent.com CNAME .
 *.betrayalfelonprudent.com CNAME .
 betrayedjerusalemchancy.com CNAME .
 *.betrayedjerusalemchancy.com CNAME .
-betreeckoan.com CNAME .
-*.betreeckoan.com CNAME .
 bets88ph.com CNAME .
 *.bets88ph.com CNAME .
 betshucklean.com CNAME .
@@ -18226,8 +18154,6 @@ bewailwheelsdisloyal.com CNAME .
 *.bewailwheelsdisloyal.com CNAME .
 bewhidare.com CNAME .
 *.bewhidare.com CNAME .
-bewhitemousee.com CNAME .
-*.bewhitemousee.com CNAME .
 bewilderedblade.com CNAME .
 *.bewilderedblade.com CNAME .
 bewitched-landscape.com CNAME .
@@ -18250,10 +18176,6 @@ beyourxfriend.com CNAME .
 *.beyourxfriend.com CNAME .
 bf002bbbbb.com CNAME .
 *.bf002bbbbb.com CNAME .
-956566f4be.bf2bbb8842.com CNAME .
-*.956566f4be.bf2bbb8842.com CNAME .
-bf3759.com CNAME .
-*.bf3759.com CNAME .
 bf7472b795.com CNAME .
 *.bf7472b795.com CNAME .
 bfatools.com CNAME .
@@ -18502,8 +18424,6 @@ birdgrasshopper.com CNAME .
 *.birdgrasshopper.com CNAME .
 biroads.com CNAME .
 *.biroads.com CNAME .
-birsleunhired.com CNAME .
-*.birsleunhired.com CNAME .
 birth-bravery.com CNAME .
 *.birth-bravery.com CNAME .
 birthaslaver.com CNAME .
@@ -18520,8 +18440,6 @@ biscuitmortify.com CNAME .
 *.biscuitmortify.com CNAME .
 bisetsoliped.com CNAME .
 *.bisetsoliped.com CNAME .
-fp.bisharitrips.com CNAME .
-*.fp.bisharitrips.com CNAME .
 bit-ad.com CNAME .
 *.bit-ad.com CNAME .
 bitadexchange.com CNAME .
@@ -18568,8 +18486,6 @@ pw.bittingwrongdo.com CNAME .
 *.pw.bittingwrongdo.com CNAME .
 bitzv.com CNAME .
 *.bitzv.com CNAME .
-biuneimpot.com CNAME .
-*.biuneimpot.com CNAME .
 bivsawomqp.com CNAME .
 *.bivsawomqp.com CNAME .
 biwei-cn.com CNAME .
@@ -18746,8 +18662,6 @@ blendertimid.com CNAME .
 *.blendertimid.com CNAME .
 blessedcomb.com CNAME .
 *.blessedcomb.com CNAME .
-blessedhurtdismantle.com CNAME .
-*.blessedhurtdismantle.com CNAME .
 blessedsophia.com CNAME .
 *.blessedsophia.com CNAME .
 ws.blesseschazzen.com CNAME .
@@ -18866,8 +18780,6 @@ blogsuperapp.com CNAME .
 *.blogsuperapp.com CNAME .
 li.blogtrottr.com CNAME .
 *.li.blogtrottr.com CNAME .
-blondassignappear.com CNAME .
-*.blondassignappear.com CNAME .
 blondeopinion.com CNAME .
 *.blondeopinion.com CNAME .
 blondparcelcane.com CNAME .
@@ -19192,8 +19104,6 @@ boltepse.com CNAME .
 *.boltepse.com CNAME .
 lt.boltincow.com CNAME .
 *.lt.boltincow.com CNAME .
-boltnunfirsthand.com CNAME .
-*.boltnunfirsthand.com CNAME .
 bombscore.com CNAME .
 *.bombscore.com CNAME .
 bomdog.com CNAME .
@@ -29576,8 +29486,6 @@ eclkmpbn.com CNAME .
 *.eclkmpbn.com CNAME .
 eclkmpsa.com CNAME .
 *.eclkmpsa.com CNAME .
-ecomicrolab.com CNAME .
-*.ecomicrolab.com CNAME .
 ecommercecall.com CNAME .
 *.ecommercecall.com CNAME .
 economicalathlete.com CNAME .
@@ -40612,8 +40520,6 @@ ironhorseautogroup.com CNAME .
 *.ironhorseautogroup.com CNAME .
 irradiatestartle.com CNAME .
 *.irradiatestartle.com CNAME .
-irregularcelebrateblazing.com CNAME .
-*.irregularcelebrateblazing.com CNAME .
 irreproachableradio.com CNAME .
 *.irreproachableradio.com CNAME .
 irresponsiblevalve.com CNAME .
@@ -54874,8 +54780,6 @@ pzanzypat.com CNAME .
 *.pzanzypat.com CNAME .
 pzaoxbazj.com CNAME .
 *.pzaoxbazj.com CNAME .
-q1media.com CNAME .
-*.q1media.com CNAME .
 q88z1s3.com CNAME .
 *.q88z1s3.com CNAME .
 q8ntfhfngm.com CNAME .
@@ -83434,8 +83338,6 @@ bandisoft.org CNAME .
 *.bandisoft.org CNAME .
 beachvolleyballleague.org CNAME .
 *.beachvolleyballleague.org CNAME .
-beijingjs.org CNAME .
-*.beijingjs.org CNAME .
 best4africa.org CNAME .
 *.best4africa.org CNAME .
 e.bestof51.org CNAME .
@@ -85154,6 +85056,8 @@ downright-training.pro CNAME .
 *.downright-training.pro CNAME .
 dramaticaside.pro CNAME .
 *.dramaticaside.pro CNAME .
+dreary-version.pro CNAME .
+*.dreary-version.pro CNAME .
 droopy-writing.pro CNAME .
 *.droopy-writing.pro CNAME .
 droopyauthor.pro CNAME .
@@ -88026,12 +87930,8 @@ barmanonymity.shop CNAME .
 *.barmanonymity.shop CNAME .
 barmingorrhoid.shop CNAME .
 *.barmingorrhoid.shop CNAME .
-chiyouranai.base.shop CNAME .
-*.chiyouranai.base.shop CNAME .
-tokujiro.base.shop CNAME .
-*.tokujiro.base.shop CNAME .
-uranai1111.base.shop CNAME .
-*.uranai1111.base.shop CNAME .
+base.shop CNAME .
+*.base.shop CNAME .
 basiscopyright.shop CNAME .
 *.basiscopyright.shop CNAME .
 battuelevered.shop CNAME .
@@ -88046,8 +87946,6 @@ kp.begohmencelia.shop CNAME .
 *.kp.begohmencelia.shop CNAME .
 begrimecolter.shop CNAME .
 *.begrimecolter.shop CNAME .
-te.bejazzsartor.shop CNAME .
-*.te.bejazzsartor.shop CNAME .
 ng.belickzoeae.shop CNAME .
 *.ng.belickzoeae.shop CNAME .
 bensheesneer.shop CNAME .
@@ -95082,8 +94980,6 @@ al.attabalyttrias.top CNAME .
 *.al.attabalyttrias.top CNAME .
 ud.audilesspree.top CNAME .
 *.ud.audilesspree.top CNAME .
-aviatepivots.top CNAME .
-*.aviatepivots.top CNAME .
 avjbjbekaaaev.top CNAME .
 *.avjbjbekaaaev.top CNAME .
 avvelwavlveew.top CNAME .
@@ -95134,8 +95030,6 @@ azqqlobqwomqr.top CNAME .
 *.azqqlobqwomqr.top CNAME .
 badgerkeyword.top CNAME .
 *.badgerkeyword.top CNAME .
-carrell.bajrisialid.top CNAME .
-*.carrell.bajrisialid.top CNAME .
 ia.bajuryvulgars.top CNAME .
 *.ia.bajuryvulgars.top CNAME .
 zg.bayboltlarva.top CNAME .
@@ -95156,10 +95050,6 @@ bctnodv.top CNAME .
 *.bctnodv.top CNAME .
 bdblpy.top CNAME .
 *.bdblpy.top CNAME .
-xx.benweedalbert.top CNAME .
-*.xx.benweedalbert.top CNAME .
-ce.berejacobus.top CNAME .
-*.ce.berejacobus.top CNAME .
 bergabasias.top CNAME .
 *.bergabasias.top CNAME .
 bestcontentaccess.top CNAME .
@@ -95210,8 +95100,6 @@ betee.top CNAME .
 *.betee.top CNAME .
 betqq.top CNAME .
 *.betqq.top CNAME .
-bfgpan.top CNAME .
-*.bfgpan.top CNAME .
 fu.bilshbefop.top CNAME .
 *.fu.bilshbefop.top CNAME .
 biolithberm.top CNAME .
@@ -95220,14 +95108,10 @@ jb.bipedalpelmata.top CNAME .
 *.jb.bipedalpelmata.top CNAME .
 bitdefender.top CNAME .
 *.bitdefender.top CNAME .
-fx.biuratewitling.top CNAME .
-*.fx.biuratewitling.top CNAME .
 bivvywhoot.top CNAME .
 *.bivvywhoot.top CNAME .
 blandapantos.top CNAME .
 *.blandapantos.top CNAME .
-vr.boatbritska.top CNAME .
-*.vr.boatbritska.top CNAME .
 bogiesmudrock.top CNAME .
 *.bogiesmudrock.top CNAME .
 bonzecarcel.top CNAME .
@@ -99414,8 +99298,6 @@ awugudez.xyz CNAME .
 *.awugudez.xyz CNAME .
 b-m.xyz CNAME .
 *.b-m.xyz CNAME .
-b08z8kgy7.xyz CNAME .
-*.b08z8kgy7.xyz CNAME .
 baciju.xyz CNAME .
 *.baciju.xyz CNAME .
 baidu-sogou.xyz CNAME .
@@ -99452,8 +99334,6 @@ biyjqmadbjdyx.xyz CNAME .
 *.biyjqmadbjdyx.xyz CNAME .
 bj1924.xyz CNAME .
 *.bj1924.xyz CNAME .
-bl2ibb5yi.xyz CNAME .
-*.bl2ibb5yi.xyz CNAME .
 blg817.xyz CNAME .
 *.blg817.xyz CNAME .
 blissgallery.xyz CNAME .

@@ -5,17 +5,16 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Jun 2026 11:30 UTC
-# Version: 2026.0602.1130.15
+# Last modified: 02 Jun 2026 19:21 UTC
+# Version: 2026.0602.1921.27
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 909
+# Number of entries: 902
 #
 local=/one4u.0lx.net/
 local=/free.bizhat.com/
 local=/24.co.at/
 local=/all.co.uk/
 local=/thamboli.co.za/
-local=/blogspot.com.br/
 local=/blogspot.com.es/
 local=/kl.com.ua/
 local=/zzz.com.ua/
@@ -454,7 +453,6 @@ local=/fw.bz/
 local=/fwh.is/
 local=/game.lc/
 local=/gaming.lc/
-local=/gerentebr.com/
 local=/getenjoyment.net/
 local=/gg123.vip/
 local=/gilde.in/
@@ -700,7 +698,6 @@ local=/pk.gp/
 local=/pktriot.net/
 local=/pl.de/
 local=/pl.gp/
-local=/pl-oferta-id2387942371.top/
 local=/planet.tl/
 local=/portal.lc/
 local=/preview-domain.com/
@@ -723,8 +720,6 @@ local=/r.gp/
 local=/r-e.kr/
 local=/re2.de/
 local=/reco.ws/
-local=/regruhosting.ru/
-local=/reodev.com/
 local=/rf.gd/
 local=/ro.gp/
 local=/royal-host.com/
@@ -766,7 +761,6 @@ local=/skul.de/
 local=/sms.cr/
 local=/smsu.io/
 local=/solidwebhost.com/
-local=/sophiashantidaniel.com/
 local=/space.lc/
 local=/sport-pro.de/
 local=/sportsontheweb.net/
@@ -793,7 +787,6 @@ local=/teamzonesports.com/
 local=/tempisite.com/
 local=/temporary.site/
 local=/temporary-demo.site/
-local=/tentbuildingservices.eu/
 local=/test.lc/
 local=/tggame.xyz/
 local=/th.gp/

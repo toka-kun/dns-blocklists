@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 30 May 2026 11:03 UTC
-# Version: 2026.0530.1103.17
+# Last modified: 02 Jun 2026 19:17 UTC
+# Version: 2026.0602.1917.25
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3417
+# Number of entries: 3412
 #
 local=/ss.0001.xyz/
 local=/ns.00dani.me/
@@ -270,10 +270,6 @@ local=/dohtrial.att.net/
 local=/dns.auapi.fun/
 local=/dns.audet.cloud/
 local=/dns.auffray.org/
-local=/africa.avastdns.com/
-local=/europe.avastdns.com/
-local=/europe-west.avastdns.com/
-local=/secure.avastdns.com/
 local=/adguard.avavd.ru/
 local=/vps.avc.cx/
 local=/dnstx.axhy.cc/
@@ -2892,6 +2888,7 @@ local=/s1.yushuncompany.com/
 local=/dns.yuu-g.net/
 local=/dns.yuyz.net/
 local=/dns.yuzia.cc/
+local=/doh.ywhost.com/
 local=/httpdns.gslb.yy.com/
 local=/dns.yyaan.com/
 local=/dns.yyaan.top/
@@ -2990,9 +2987,7 @@ local=/arcticstorm.ru/
 local=/aridia.ru/
 local=/atris.cyou/
 local=/atsilva.link/
-local=/atsssgo.xyz/
 local=/auberge78.site/
-local=/axaxa.fun/
 local=/axistechsupport.com/
 local=/b9c7dc4e-7dde-4903-935b-fd6ea59ca4fb.space/
 local=/bancuh.com/

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 May 2026 17:08 UTC
-# Version: 2026.0524.1708.37
+# Last modified: 02 Jun 2026 18:52 UTC
+# Version: 2026.0602.1852.42
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 465
+# Number of entries: 470
 #
 0.0.0.0 traffic-media.co.uk
 0.0.0.0 mistat.india.xiaomi.com.edgesuite.net
@@ -227,6 +227,7 @@
 0.0.0.0 cdn.fds-ssl.api.xiaomi.com
 0.0.0.0 mibi.api.xiaomi.com
 0.0.0.0 o2o.api.xiaomi.com
+0.0.0.0 app.xiaomi.com
 0.0.0.0 a0.app.xiaomi.com
 0.0.0.0 t.app.xiaomi.com
 0.0.0.0 shoes.app-xae.xiaomi.com
@@ -267,6 +268,7 @@
 0.0.0.0 wl.voip.game.xiaomi.com
 0.0.0.0 wap.game.xiaomi.com
 0.0.0.0 idmb.app.chat.global.xiaomi.net
+0.0.0.0 resolver.msg.global.xiaomi.net
 0.0.0.0 fr.resolver.msg.global.xiaomi.net
 0.0.0.0 api.xmpush.global.xiaomi.com
 0.0.0.0 fr.api.xmpush.global.xiaomi.com
@@ -364,8 +366,10 @@
 0.0.0.0 api.g.micloud.xiaomi.net
 0.0.0.0 statusapi.micloud.xiaomi.net
 0.0.0.0 us.statusapi.micloud.xiaomi.net
+0.0.0.0 app.migc.xiaomi.com
 0.0.0.0 tv.app.migc.xiaomi.com
 0.0.0.0 invoice.netroam.mihome.xiaomi.net
+0.0.0.0 mistat.xiaomi.com
 0.0.0.0 data.mistat.xiaomi.com
 0.0.0.0 storeconfig.mistat.xiaomi.com
 0.0.0.0 file.cdn.mvideo.xiaomi.com
@@ -466,6 +470,7 @@
 0.0.0.0 xiazai.xiaomi.com
 0.0.0.0 console.admin.xmpush.xiaomi.com
 0.0.0.0 test.admin.xmpush.xiaomi.com
+0.0.0.0 api.xmpush.xiaomi.com
 0.0.0.0 c3.api.xmpush.xiaomi.com
 0.0.0.0 i.api.xmpush.xiaomi.com
 0.0.0.0 lg.api.xmpush.xiaomi.com

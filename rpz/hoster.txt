@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780399800 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780428060 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 Jun 2026 11:30 UTC
-; Version: 2026.0602.1130.15
+; Last modified: 02 Jun 2026 19:21 UTC
+; Version: 2026.0602.1921.27
 ; Syntax: RPZ
-; Number of entries: 1818
+; Number of entries: 1804
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -112,8 +112,6 @@ noads.biz CNAME .
 *.noads.biz CNAME .
 fashion.blog CNAME .
 *.fashion.blog CNAME .
-blogspot.com.br CNAME .
-*.blogspot.com.br CNAME .
 fw.bz CNAME .
 *.fw.bz CNAME .
 x10.bz CNAME .
@@ -396,8 +394,6 @@ freightinternationalservices.com CNAME .
 *.freightinternationalservices.com CNAME .
 friendcircles.com CNAME .
 *.friendcircles.com CNAME .
-gerentebr.com CNAME .
-*.gerentebr.com CNAME .
 godaddysites.com CNAME .
 *.godaddysites.com CNAME .
 gofreeserve.com CNAME .
@@ -530,8 +526,6 @@ profreehost.com CNAME .
 *.profreehost.com CNAME .
 psend.com CNAME .
 *.psend.com CNAME .
-reodev.com CNAME .
-*.reodev.com CNAME .
 royal-host.com CNAME .
 *.royal-host.com CNAME .
 runhosting.com CNAME .
@@ -550,8 +544,6 @@ sitepalace.com CNAME .
 *.sitepalace.com CNAME .
 solidwebhost.com CNAME .
 *.solidwebhost.com CNAME .
-sophiashantidaniel.com CNAME .
-*.sophiashantidaniel.com CNAME .
 spruz.com CNAME .
 *.spruz.com CNAME .
 stormloader.com CNAME .
@@ -974,8 +966,6 @@ server2.eu CNAME .
 *.server2.eu CNAME .
 server3.eu CNAME .
 *.server3.eu CNAME .
-tentbuildingservices.eu CNAME .
-*.tentbuildingservices.eu CNAME .
 uploader.eu CNAME .
 *.uploader.eu CNAME .
 web-chat.eu CNAME .
@@ -1680,8 +1670,6 @@ newmail.ru CNAME .
 *.newmail.ru CNAME .
 qipim.ru CNAME .
 *.qipim.ru CNAME .
-regruhosting.ru CNAME .
-*.regruhosting.ru CNAME .
 seite.ru CNAME .
 *.seite.ru CNAME .
 tmweb.ru CNAME .
@@ -1778,8 +1766,6 @@ team.tl CNAME .
 *.team.tl CNAME .
 welt.tl CNAME .
 *.welt.tl CNAME .
-pl-oferta-id2387942371.top CNAME .
-*.pl-oferta-id2387942371.top CNAME .
 mobile.web.tr CNAME .
 *.mobile.web.tr CNAME .
 blogspot.tw CNAME .

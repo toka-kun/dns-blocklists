@@ -11,8 +11,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 28 May 2026 10:23 UTC
-! Version: 2026.0528.1023.30
+! Last modified: 02 Jun 2026 18:12 UTC
+! Version: 2026.0602.1812.11
 ! Syntax: uBlock
 ! Number of latin TLDs: 294 - punycode TLDs: 151
 !
@@ -150,7 +150,7 @@
 ||hot^$doc,domain=~minecraft.hot
 ||house^$doc,domain=~lanparty.house|~nature.house
 ||how^$doc,domain=~mond.how|~notrace.how
-||icu^$doc,domain=~intervals.icu|~lunar.icu|~mon.icu
+||icu^$doc,domain=~fastdl.icu|~intervals.icu|~lunar.icu|~mon.icu
 ||immo^$doc
 ||ink^$doc,domain=~filepress.ink|~ishortn.ink|~mez.ink|~next.ink|~rdl.ink|~shrinkme.ink|~simple.ink|~spaceforce.ink|~sumerian.ink|~work.ink
 ||insure^$doc
@@ -171,7 +171,7 @@
 ||loan^$doc
 ||loans^$doc
 ||locker^$doc
-||lol^$doc,domain=~adsb.lol|~ags.lol|~animevietsub.lol|~browser.lol|~dankmemer.lol|~fmhy.lol|~guns.lol|~hubcloud.lol|~io.lol|~kizuki.lol|~lemy.lol|~library.lol|~nexdrive.lol|~nos.lol|~noted.lol|~objection.lol|~omg.lol|~paste.lol|~proven.lol|~sibellavia.lol|~social.lol|~status.lol|~techaro.lol|~weblog.lol|~wpp.lol
+||lol^$doc,domain=~adsb.lol|~ags.lol|~animevietsub.lol|~browser.lol|~dankmemer.lol|~fmhy.lol|~guns.lol|~hubcloud.lol|~io.lol|~kizuki.lol|~lemy.lol|~library.lol|~nexdrive.lol|~nos.lol|~noted.lol|~objection.lol|~omg.lol|~paste.lol|~proven.lol|~sibellavia.lol|~social.lol|~status.lol|~techaro.lol|~vcloud.lol|~weblog.lol|~wpp.lol
 ||london^$doc,domain=~football.london
 ||love^$doc
 ||ltd^$doc,domain=~digitalize.ltd|~homebrew.ltd|~picsee.ltd|~swizzin.ltd

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 30 May 2026 11:03 UTC
-# Version: 2026.0530.1103.17
+# Last modified: 02 Jun 2026 19:17 UTC
+# Version: 2026.0602.1917.25
 # Syntax: Domains (without subdomains)
-# Number of entries: 3417
+# Number of entries: 3412
 #
 ss.0001.xyz
 ns.00dani.me
@@ -270,10 +270,6 @@ dohtrial.att.net
 dns.auapi.fun
 dns.audet.cloud
 dns.auffray.org
-africa.avastdns.com
-europe.avastdns.com
-europe-west.avastdns.com
-secure.avastdns.com
 adguard.avavd.ru
 vps.avc.cx
 dnstx.axhy.cc
@@ -2892,6 +2888,7 @@ s1.yushuncompany.com
 dns.yuu-g.net
 dns.yuyz.net
 dns.yuzia.cc
+doh.ywhost.com
 httpdns.gslb.yy.com
 dns.yyaan.com
 dns.yyaan.top
@@ -2990,9 +2987,7 @@ arcticstorm.ru
 aridia.ru
 atris.cyou
 atsilva.link
-atsssgo.xyz
 auberge78.site
-axaxa.fun
 axistechsupport.com
 b9c7dc4e-7dde-4903-935b-fd6ea59ca4fb.space
 bancuh.com

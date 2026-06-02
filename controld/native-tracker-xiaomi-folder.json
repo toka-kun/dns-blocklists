@@ -29,13 +29,6 @@
       }
     },
     {
-      "PK": "a0.app.xiaomi.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "abroad.api.comm.intl.miui.com",
       "action": {
         "do": 0,
@@ -386,6 +379,13 @@
       }
     },
     {
+      "PK": "api.xmpush.xiaomi.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "apkrep.ff.avast.sec.miui.com",
       "action": {
         "do": 0,
@@ -394,6 +394,13 @@
     },
     {
       "PK": "app.greengurad.sec.miui.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "app.migc.xiaomi.com",
       "action": {
         "do": 0,
         "status": 1
@@ -422,6 +429,13 @@
     },
     {
       "PK": "appstore.ptmi.gitv.tv",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "app.xiaomi.com",
       "action": {
         "do": 0,
         "status": 1
@@ -555,13 +569,6 @@
     },
     {
       "PK": "bugreport.xiaomi.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "c3.api.xmpush.xiaomi.com",
       "action": {
         "do": 0,
         "status": 1
@@ -709,13 +716,6 @@
     },
     {
       "PK": "data.game.xiaomi.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "data.mistat.xiaomi.com",
       "action": {
         "do": 0,
         "status": 1
@@ -939,13 +939,6 @@
       }
     },
     {
-      "PK": "fr.resolver.msg.global.xiaomi.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "gallery.cdn.pandora.xiaomi.com",
       "action": {
         "do": 0,
@@ -1073,13 +1066,6 @@
     },
     {
       "PK": "hybrid.miui.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "i.api.xmpush.xiaomi.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1234,13 +1220,6 @@
     },
     {
       "PK": "kuyun.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "lg.api.xmpush.xiaomi.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1478,6 +1457,13 @@
       }
     },
     {
+      "PK": "mistat.xiaomi.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "mistat.xiaomi.com.download.ks-cdn.com",
       "action": {
         "do": 0,
@@ -1507,13 +1493,6 @@
     },
     {
       "PK": "mlog.search.xiaomi.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "mob.api.xmpush.xiaomi.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1835,6 +1814,13 @@
       }
     },
     {
+      "PK": "resolver.msg.global.xiaomi.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "r.sg.sec.miui.com",
       "action": {
         "do": 0,
@@ -2108,13 +2094,6 @@
       }
     },
     {
-      "PK": "storeconfig.mistat.xiaomi.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "streamback.ff.avast.sec.miui.com",
       "action": {
         "do": 0,
@@ -2186,13 +2165,6 @@
     },
     {
       "PK": "t7.market.xiaomi.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "t.app.xiaomi.com",
       "action": {
         "do": 0,
         "status": 1
@@ -2353,13 +2325,6 @@
       }
     },
     {
-      "PK": "tv.app.migc.xiaomi.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "tvboss.pandora.xiaomi.com",
       "action": {
         "do": 0,
@@ -2417,13 +2382,6 @@
     },
     {
       "PK": "vip-api.xmpush.xiaomi.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "vip.api.xmpush.xiaomi.com",
       "action": {
         "do": 0,
         "status": 1

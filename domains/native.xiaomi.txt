@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 May 2026 17:08 UTC
-# Version: 2026.0524.1708.37
+# Last modified: 02 Jun 2026 18:52 UTC
+# Version: 2026.0602.1852.42
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 465
+# Number of entries: 470
 #
 traffic-media.co.uk
 mistat.india.xiaomi.com.edgesuite.net
@@ -227,6 +227,7 @@ awsusor0-cdn.fds-ssl.api.xiaomi.com
 cdn.fds-ssl.api.xiaomi.com
 mibi.api.xiaomi.com
 o2o.api.xiaomi.com
+app.xiaomi.com
 a0.app.xiaomi.com
 t.app.xiaomi.com
 shoes.app-xae.xiaomi.com
@@ -267,6 +268,7 @@ static.game.xiaomi.com
 wl.voip.game.xiaomi.com
 wap.game.xiaomi.com
 idmb.app.chat.global.xiaomi.net
+resolver.msg.global.xiaomi.net
 fr.resolver.msg.global.xiaomi.net
 api.xmpush.global.xiaomi.com
 fr.api.xmpush.global.xiaomi.com
@@ -364,8 +366,10 @@ findapi.micloud.xiaomi.net
 api.g.micloud.xiaomi.net
 statusapi.micloud.xiaomi.net
 us.statusapi.micloud.xiaomi.net
+app.migc.xiaomi.com
 tv.app.migc.xiaomi.com
 invoice.netroam.mihome.xiaomi.net
+mistat.xiaomi.com
 data.mistat.xiaomi.com
 storeconfig.mistat.xiaomi.com
 file.cdn.mvideo.xiaomi.com
@@ -466,6 +470,7 @@ stat.www.xiaomi.com
 xiazai.xiaomi.com
 console.admin.xmpush.xiaomi.com
 test.admin.xmpush.xiaomi.com
+api.xmpush.xiaomi.com
 c3.api.xmpush.xiaomi.com
 i.api.xmpush.xiaomi.com
 lg.api.xmpush.xiaomi.com
