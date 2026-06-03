@@ -65,6 +65,8 @@ https://phishing-filter.pages.dev/phishing-filter-hosts.txt
 https://phish.sinking.yachts/v2/text
 https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/week.csv
 https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/refs/heads/master/month.csv
+https://raw.githubusercontent.com/0xShun/Threat-Intel-Data-Pipeline/refs/heads/main/reports/combined_malicious_domains.txt
+https://raw.githubusercontent.com/Abdul-Uman/IOC-HUB/refs/heads/main/IOCIntel/domains.txt
 https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/refs/heads/master/src/adult/adult_thirdparty.txt
 https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt
 https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
