@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Jun 2026 09:36 UTC
-# Version: 2026.0603.0936.22
+# Last modified: 03 Jun 2026 22:01 UTC
+# Version: 2026.0603.2201.53
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 900
+# Number of entries: 899
 #
 *.one4u.0lx.net
 *.free.bizhat.com
@@ -348,7 +348,6 @@
 *.edgeone.dev
 *.edoctransfer.com
 *.edu.eu
-*.educatorpage.com
 *.educatorpages.com
 *.efacturas.net
 *.eg.gp

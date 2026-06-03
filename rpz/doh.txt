@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780481160 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780526220 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Jun 2026 10:06 UTC
-; Version: 2026.0603.1006.29
+; Last modified: 03 Jun 2026 22:37 UTC
+; Version: 2026.0603.2237.01
 ; Syntax: RPZ
-; Number of entries: 6862
+; Number of entries: 6858
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -4659,8 +4659,6 @@ adfreemb.duckdns.org CNAME .
 *.adfreemb.duckdns.org CNAME .
 adgrm.duckdns.org CNAME .
 *.adgrm.duckdns.org CNAME .
-adguardcalpena.duckdns.org CNAME .
-*.adguardcalpena.duckdns.org CNAME .
 andryk111.duckdns.org CNAME .
 *.andryk111.duckdns.org CNAME .
 andrykarcew.duckdns.org CNAME .
@@ -6413,8 +6411,6 @@ doh.zhongbr.uk CNAME .
 *.doh.zhongbr.uk CNAME .
 dns.dns-53.us CNAME .
 *.dns.dns-53.us CNAME .
-dnsfilter.domotik.us CNAME .
-*.dnsfilter.domotik.us CNAME .
 dns.exitstat.us CNAME .
 *.dns.exitstat.us CNAME .
 agh.fltn.us CNAME .

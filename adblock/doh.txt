@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 03 Jun 2026 10:06 UTC
-! Version: 2026.0603.1006.29
+! Last modified: 03 Jun 2026 22:37 UTC
+! Version: 2026.0603.2237.01
 ! Syntax: AdBlock
-! Number of entries: 3431
+! Number of entries: 3429
 !
 ||ss.0001.xyz^
 ||ns.00dani.me^
@@ -961,7 +961,6 @@
 ||fr1.dnswarden.com^
 ||sg1.dnswarden.com^
 ||uncensored-dot.dnswarden.com^
-||dnsfilter.domotik.us^
 ||doh.domreg.lt^
 ||takhtakh.domyah.net^
 ||dns.doserver.top^
@@ -986,7 +985,6 @@
 ||yukito.duanzx.top^
 ||adfreemb.duckdns.org^
 ||adgrm.duckdns.org^
-||adguardcalpena.duckdns.org^
 ||andryk111.duckdns.org^
 ||andrykarcew.duckdns.org^
 ||armm.duckdns.org^

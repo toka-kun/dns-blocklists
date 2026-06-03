@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Jun 2026 09:15 UTC
-# Version: 2026.0603.0915.36
+# Last modified: 03 Jun 2026 21:40 UTC
+# Version: 2026.0603.2140.36
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9866
+# Number of entries: 9860
 #
 local=/a.189.cn/
 local=/t.2merkato.com/
@@ -2946,10 +2946,8 @@ local=/douyin.team/
 local=/dow.la/
 local=/downbe.com/
 local=/downloadtonic.com/
-local=/dp0.in/
 local=/dpb.fm/
 local=/dpb.link/
-local=/dpba2404.com/
 local=/dpmd.ai/
 local=/dpo.st/
 local=/dps.media/
@@ -2964,7 +2962,6 @@ local=/drect.net/
 local=/drinks.me/
 local=/dripurl.com/
 local=/drnx.ir/
-local=/droid.ws/
 local=/droidqr.com/
 local=/dronescapes.video/
 local=/drop.tf/
@@ -3045,7 +3042,6 @@ local=/e9e.ir/
 local=/eaash.co/
 local=/earl.sh/
 local=/earn4link.in/
-local=/earn4url.com/
 local=/earnesst.website/
 local=/earnestwiles.com/
 local=/earnfly.net/
@@ -3063,7 +3059,6 @@ local=/easyurl.net/
 local=/easyurl.site/
 local=/easyurlshortener.com/
 local=/eazify.net/
-local=/eb.do/
 local=/ebarata.com/
 local=/ebay.to/
 local=/ebbco.ir/
@@ -3099,7 +3094,6 @@ local=/ee9.ir/
 local=/eeb.me/
 local=/eepurl.com/
 local=/efie.co/
-local=/eflick.me/
 local=/efraising.org/
 local=/efs.link/
 local=/efshop.tw/

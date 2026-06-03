@@ -1,6 +1,16 @@
 # Unblocking for all lists (relaxed, balanced, aggressive and strict)
 # Domains to be removed from the light, normal, pro, pro++ and ultimate list. Also from the fake, popupads and tif.
 
+# https://github.com/hagezi/dns-blocklists/issues/10405
+c.paypal.com
+c.paypal.com.cdn.cloudflare.net
+c.sandbox.paypal.com
+c6.glb.paypal.com
+c6.paypal.com
+c6.paypal.com.cdn.cloudflare.net
+www.glb.paypal.com
+www.paypal.com.cdn.cloudflare.net
+
 # https://github.com/hagezi/dns-blocklists/issues/10371
 mymagic.page
 

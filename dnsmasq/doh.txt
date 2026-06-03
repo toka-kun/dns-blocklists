@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Jun 2026 10:06 UTC
-# Version: 2026.0603.1006.29
+# Last modified: 03 Jun 2026 22:37 UTC
+# Version: 2026.0603.2237.01
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3431
+# Number of entries: 3429
 #
 local=/ss.0001.xyz/
 local=/ns.00dani.me/
@@ -960,7 +960,6 @@ local=/ecs-doh.dnswarden.com/
 local=/fr1.dnswarden.com/
 local=/sg1.dnswarden.com/
 local=/uncensored-dot.dnswarden.com/
-local=/dnsfilter.domotik.us/
 local=/doh.domreg.lt/
 local=/takhtakh.domyah.net/
 local=/dns.doserver.top/
@@ -985,7 +984,6 @@ local=/dns.dualhosting.eu/
 local=/yukito.duanzx.top/
 local=/adfreemb.duckdns.org/
 local=/adgrm.duckdns.org/
-local=/adguardcalpena.duckdns.org/
 local=/andryk111.duckdns.org/
 local=/andrykarcew.duckdns.org/
 local=/armm.duckdns.org/

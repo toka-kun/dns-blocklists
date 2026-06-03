@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Jun 2026 09:59 UTC
-# Version: 2026.0603.0959.53
+# Last modified: 03 Jun 2026 22:30 UTC
+# Version: 2026.0603.2230.04
 # Syntax: Domains (without subdomains)
-# Number of entries: 54244
+# Number of entries: 54184
 #
 web-119bet-2025-google-vip-119bet.119-hello.com
 web-166betcom-vip-166betcc-166betvip-2025fa-east1.166tiger.com
@@ -2742,7 +2742,6 @@ jackpotstormcasino.za.com
 1xbet-akib.top
 1xbet-akrb.top
 1xbet-aktualnoe-zerkalo.top
-1xbet-algerie.net
 1xbet-alqiwi.com
 1xbet-am4x.top
 1xbet-amf.top
@@ -11170,7 +11169,6 @@ bets10-webadresi.com
 bets10-yenigiriis.vip
 bets10-yenitekadres.com
 bets100.win
-bets10anlikgiris.cam
 bets10de.com
 bets10giris.cam
 bets10girisi.org
@@ -16671,7 +16669,6 @@ casino1221.cfd
 casino1224.cyou
 casino1228.top
 casino12290com.cfd
-casino123.click
 casino1230.buzz
 casino1233.mom
 casino123gas.site
@@ -16841,7 +16838,6 @@ casino16881com.cyou
 casino168ya.buzz
 casino1690.click
 casino1691.beauty
-casino1691.click
 casino1695.cfd
 casino1699.bond
 casino169yx.lol
@@ -16957,7 +16953,6 @@ casino197.com
 casino19730com.cfd
 casino19731com.cfd
 casino1984.cyou
-casino1986.click
 casino1987.cfd
 casino199.monster
 casino1994.click
@@ -17067,7 +17062,6 @@ casino2231.fun
 casino2233.courses
 casino22385com.cyou
 casino224.cfd
-casino2240.click
 casino2242.lol
 casino2244.rest
 casino2244.surf
@@ -17114,7 +17108,6 @@ casino2351.boats
 casino2355.sbs
 casino2362.quest
 casino2363.sbs
-casino2369.click
 casino2374.christmas
 casino2379.courses
 casino238.team
@@ -17126,7 +17119,6 @@ casino24-se.com
 casino2405.cyou
 casino2406.rest
 casino2409.beer
-casino241.click
 casino241.digital
 casino2411.beer
 casino2416.sbs
@@ -17176,7 +17168,6 @@ casino25660com.cfd
 casino2571.cfd
 casino2572.cyou
 casino2573.cyou
-casino2580.click
 casino2583.cyou
 casino2591.cfd
 casino2595.cfd
@@ -17230,7 +17221,6 @@ casino2761.rest
 casino276bn.buzz
 casino276r.lol
 casino2770.lifestyle
-casino2778.click
 casino278.buzz
 casino27809com.cyou
 casino2790.baby
@@ -17601,7 +17591,6 @@ casino3806.cyou
 casino3807.cfd
 casino3808.monster
 casino3824.sbs
-casino3834.click
 casino3842.forum
 casino385.beer
 casino385.cfd
@@ -17692,7 +17681,6 @@ casino4091d.click
 casino4092.click
 casino409xjp.shop
 casino41.buzz
-casino410.click
 casino41010com.cfd
 casino41016com.cfd
 casino41079com.cyou
@@ -18043,7 +18031,6 @@ casino5106.cfd
 casino5106.sbs
 casino511.cfd
 casino5118.cfd
-casino5118.click
 casino5121.cfd
 casino51217com.cfd
 casino5122.sbs
@@ -18092,14 +18079,12 @@ casino521.buzz
 casino5211.cyou
 casino5213.monster
 casino5215.cfd
-casino5216.click
 casino5224.cyou
 casino5228.buzz
 casino5229.cyou
 casino523.click
 casino5230z.buzz
 casino5233.beer
-casino5235.click
 casino5238.cfd
 casino5240y.buzz
 casino5241.sbs
@@ -18388,7 +18373,6 @@ casino604.buzz
 casino6044.cyou
 casino6054.cfd
 casino6054.cyou
-casino6059.click
 casino6062.pics
 casino60620com.cyou
 casino6066.cyou
@@ -18405,7 +18389,6 @@ casino609l.buzz
 casino60bv.buzz
 casino610.buzz
 casino610.click
-casino6101.click
 casino6109.cyou
 casino611.cfd
 casino6112.sbs
@@ -18449,7 +18432,6 @@ casino6224.cfd
 casino62267com.cfd
 casino622c.buzz
 casino622z.buzz
-casino6231.click
 casino6231.lol
 casino6234.fun
 casino6238.cyou
@@ -18482,7 +18464,6 @@ casino6325.cyou
 casino6327.cyou
 casino6328.monster
 casino6332.lat
-casino6335.buzz
 casino6338.cyou
 casino6340.beauty
 casino6341x.buzz
@@ -18657,7 +18638,6 @@ casino688.buzz
 casino688.digital
 casino6880.cfd
 casino6883.cyou
-casino6884.click
 casino6885.cyou
 casino6885.online
 casino6886.cfd
@@ -18680,7 +18660,6 @@ casino6932.cfd
 casino6949.yachts
 casino695.cfd
 casino695.monster
-casino6950.click
 casino6950.lol
 casino697.team
 casino6976.cyou
@@ -18755,7 +18734,6 @@ casino7198.sbs
 casino7199.cyou
 casino71992com.cfd
 casino71c.buzz
-casino71fa.buzz
 casino71n.buzz
 casino720.buzz
 casino72004com.cyou
@@ -18807,7 +18785,6 @@ casino7359.cfd
 casino736.team
 casino7365.lat
 casino7366play.click
-casino7367.click
 casino7367top.fun
 casino736pn.buzz
 casino7374.monster
@@ -18884,7 +18861,6 @@ casino754m.fun
 casino7551.beer
 casino7555.beer
 casino7556.cyou
-casino7561.click
 casino75653com.cfd
 casino7567.click
 casino75715com.cfd
@@ -19078,7 +19054,6 @@ casino7984.cyou
 casino7988.pics
 casino7999.beer
 casino79q.click
-casino79rs.buzz
 casino7aq.lol
 casino7blog.com
 casino7mwr.lat
@@ -19261,7 +19236,6 @@ casino8497.beer
 casino8498.sbs
 casino849lm.fun
 casino849mn.buzz
-casino84mn.buzz
 casino850.click
 casino8501.sbs
 casino8505.sbs
@@ -19332,7 +19306,6 @@ casino8701.cfd
 casino8701.cyou
 casino8704.cyou
 casino8710.cfd
-casino8710.click
 casino8728.beer
 casino873.team
 casino8730.cyou
@@ -19612,10 +19585,8 @@ casino9573.beer
 casino9577.cyou
 casino9583.cfd
 casino95944com.cfd
-casino9598.click
 casino9598.cyou
 casino960.buzz
-casino960.click
 casino9602.buzz
 casino9603.autos
 casino9607.sbs
@@ -22141,7 +22112,6 @@ casitabi.com
 casitsu.com
 casivo.se
 caslots.bar
-casnio61yo.casino
 casobet.com
 casollo.com
 casombie.com
@@ -23878,7 +23848,6 @@ d200m.website
 d333bet.com
 d3football.com
 d3hoops.com
-d57.casino
 d5a.casino
 d5sbet.com
 d77.asia
@@ -24032,7 +24001,6 @@ danatogel.id
 danatoto68331.net
 danawhitecasino.space
 dancingeaglecasino.org
-dandelionbooks.net
 dangdut4dslot.com
 danhngay.com
 danielparson.com
@@ -24417,7 +24385,6 @@ delegation-poker.ru
 delentredeux.fr
 deliwin.vip
 dellagoresortcasino.com
-delopodushe.org
 delorocasino.com
 delorocasino-ch.com
 delorocasino-fr.com
@@ -24694,8 +24661,6 @@ digibet.com
 digibet4d.org
 digital-poker.com
 digitalgreenmarket.store
-digitaltenz.com
-digitalwheels.net
 digits7.info
 dimesweeps.com
 dina189.vip
@@ -24767,7 +24732,6 @@ dkrated-slots.com
 dkrated-slotson.com
 dktop-slots.com
 dktop-slotson.com
-dl2.casino
 dl8m4j4.com
 dlb.casino
 dlb.lk
@@ -24889,7 +24853,6 @@ dot77.org
 dota2lounge.com
 dotaclash.com
 dottybingo.com
-dottyscasinolakemead.com
 dottyscasinolasvegasblvd.com
 dou-tipaza.org
 doublebubblebingo.com
@@ -24910,7 +24873,6 @@ download1xbet.bet
 download1xbet.com
 download1xbet.vip
 downloadjayapoker.com
-downtr.net
 doxxbet.sk
 doxxbet-casino.net
 doxxbet-casino.org
@@ -24963,7 +24925,6 @@ dragonaracasino.gr
 dragonaraonline.com
 dragonboss12-casino.top
 dragoncasino.xyz
-dragongatepoker.online
 dragonia-1324.com
 dragonia-3146.com
 dragonia-casino.art
@@ -25120,7 +25081,6 @@ dreamzcasino.biz
 dreamzcasino-online.com
 drf.com
 drfenespanol.com
-drfernandovega.com
 drgn1uz.casino
 drgn57ney.casino
 drgn69.casino
@@ -25262,7 +25222,6 @@ dvslotsvx.com
 dvslotsxa.com
 dvslotsxo.com
 dw2.casino
-dwg288a.com
 dwk99.vip
 dwnlds.co
 dwtjitu.com
@@ -25390,7 +25349,6 @@ edimedan.com
 editotomulia.com
 edmar-slots.shop
 edsbet.com
-eduardcasinogames.com
 edufinansial.com
 ee11aa.com
 ee11dy.com
@@ -25436,7 +25394,6 @@ ehfbets.net
 ehsaasprogram.store
 eid.casino
 eiffelluxcasino.com
-eiraldipilates.com
 eisenblatt.net
 ejcasino06.com
 ejcasino2.com
@@ -25629,11 +25586,6 @@ eliseslots.com
 elitbet.bg
 elitcasino2026.cam
 elitcasino2026.co
-elitcasinoadresiniz.icu
-elitcasinoaktif.icu
-elitcasinocanli.icu
-elitcasinocanli.vip
-elitcasinoreklam.vip
 elitebetcasino.de
 elitebets.top
 elitecasinogames.com
@@ -25649,8 +25601,6 @@ eliteslots.ro
 elitespinscasino.com
 elitetrader.com
 elitjp.dev
-elittcasinoadresiniz.vip
-elittcasinocanli.icu
 elizabets.org
 elkcasino.ca
 elkcasinoofficial.ca
@@ -25659,7 +25609,6 @@ elkstowercasino.com
 elkvalleycasino.org
 ellisislandcasino.com
 ellitcasinoadresiniz.vip
-ellitcasinocanli.vip
 ellumehealth.com
 elmediatoday.com
 elmerocasino.store
@@ -25689,7 +25638,6 @@ elzodibbets.nl
 em777casino.bet
 em777casino.org
 emakbet.app
-emakbet.bet
 emberfund.io
 emberharbourcasino.com
 embetsartnightvip.vip
@@ -25745,7 +25693,6 @@ encyklopediehazardu.cz
 endbingeeatingnow.com
 enea2024.com
 enebet.com
-energeomagazine.com
 energy-casino.live
 energy-casino.net
 energy-casino.online
@@ -25884,7 +25831,6 @@ esconlinecasino.org
 esispotcom.boats
 esmeraldaslot.com
 esohbet.site
-esolvetechnologies.com
 espacechristianepeugeot.org
 espacolisboa.com
 espanhapp.com
@@ -25958,7 +25904,6 @@ eurobetscasino-fr.com
 euroboxbg.com
 eurocasino.com
 eurocasino-live.com
-eurocasinobets.com
 eurofortunecasino-be.com
 eurogold.sk
 eurogoldcasino.nl
@@ -26021,9 +25966,7 @@ eva-casino-goj04.top
 eva-casino-gokz0.top
 eva-casino-gox6x.top
 eva-casino1.link
-eva-casino22.com
 eva00.casino
-eva149.casino
 eva1500.casino
 eva333.casino
 eva39.casino
@@ -26244,7 +26187,6 @@ f5ifbpiei.com
 f601111.com
 f603333.com
 f7-casinos-uk.net
-f75.casino
 f77game.com
 f7casino.live
 f7casinos.net
@@ -26460,7 +26402,6 @@ fastslots.com
 fastslotsz.com
 fastspin99casino.org
 fastwithdrawalcasinoaus.com
-fastwithdrawalcasinojapan.net
 fat-pirate.casino
 fat-pirate-casino0-uk.com
 fat-pirate-casinos.com
@@ -37720,7 +37661,6 @@ nesinecasino.life
 nesinecasino-giris.org
 nesinecasino-guvenilirgiris.icu
 nesinecasino-smash2026.icu
-nesinecasino1961.com
 nesinecasino492.com
 nesinecasino495.com
 nesinecasino531.cam

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Jun 2026 10:06 UTC
-# Version: 2026.0603.1006.29
+# Last modified: 03 Jun 2026 22:37 UTC
+# Version: 2026.0603.2237.01
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3890
+# Number of entries: 3888
 #
 ss.0001.xyz
 003153.xyz
@@ -1326,7 +1326,6 @@ us-nyc.doh.sb
 us-sjc.doh.sb
 www.doh.xyz
 domain.name
-dnsfilter.domotik.us
 doh.domreg.lt
 takhtakh.domyah.net
 dns.doserver.top
@@ -1373,7 +1372,6 @@ dns.dualhosting.eu
 yukito.duanzx.top
 adfreemb.duckdns.org
 adgrm.duckdns.org
-adguardcalpena.duckdns.org
 andryk111.duckdns.org
 andrykarcew.duckdns.org
 armm.duckdns.org

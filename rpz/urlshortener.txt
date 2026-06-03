@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780478100 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780522800 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Jun 2026 09:15 UTC
-; Version: 2026.0603.0915.36
+; Last modified: 03 Jun 2026 21:40 UTC
+; Version: 2026.0603.2140.36
 ; Syntax: RPZ
-; Number of entries: 19732
+; Number of entries: 19720
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -4099,8 +4099,6 @@ downbe.com CNAME .
 *.downbe.com CNAME .
 downloadtonic.com CNAME .
 *.downloadtonic.com CNAME .
-dpba2404.com CNAME .
-*.dpba2404.com CNAME .
 dripurl.com CNAME .
 *.dripurl.com CNAME .
 go.drnima.com CNAME .
@@ -4141,8 +4139,6 @@ e78installers.com CNAME .
 *.e78installers.com CNAME .
 s.ea-bank.com CNAME .
 *.s.ea-bank.com CNAME .
-earn4url.com CNAME .
-*.earn4url.com CNAME .
 earnestwiles.com CNAME .
 *.earnestwiles.com CNAME .
 earnshortly.com CNAME .
@@ -8261,8 +8257,6 @@ onelink.com.do CNAME .
 *.onelink.com.do CNAME .
 dad.do CNAME .
 *.dad.do CNAME .
-eb.do CNAME .
-*.eb.do CNAME .
 gizmo.do CNAME .
 *.gizmo.do CNAME .
 go2.do CNAME .
@@ -9779,8 +9773,6 @@ dokdo.in CNAME .
 *.dokdo.in CNAME .
 dolr.in CNAME .
 *.dolr.in CNAME .
-dp0.in CNAME .
-*.dp0.in CNAME .
 ppt.dpanda.in CNAME .
 *.ppt.dpanda.in CNAME .
 dulink.in CNAME .
@@ -13769,8 +13761,6 @@ edze.me CNAME .
 *.edze.me CNAME .
 eeb.me CNAME .
 *.eeb.me CNAME .
-eflick.me CNAME .
-*.eflick.me CNAME .
 encurtee.me CNAME .
 *.encurtee.me CNAME .
 encut.me CNAME .
@@ -19459,8 +19449,6 @@ brev.ws CNAME .
 *.brev.ws CNAME .
 cbsn.ws CNAME .
 *.cbsn.ws CNAME .
-droid.ws CNAME .
-*.droid.ws CNAME .
 ficken.ws CNAME .
 *.ficken.ws CNAME .
 fly2.ws CNAME .

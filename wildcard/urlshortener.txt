@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Jun 2026 09:15 UTC
-# Version: 2026.0603.0915.36
+# Last modified: 03 Jun 2026 21:40 UTC
+# Version: 2026.0603.2140.36
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 9866
+# Number of entries: 9860
 #
 *.a.189.cn
 *.t.2merkato.com
@@ -2946,10 +2946,8 @@
 *.dow.la
 *.downbe.com
 *.downloadtonic.com
-*.dp0.in
 *.dpb.fm
 *.dpb.link
-*.dpba2404.com
 *.dpmd.ai
 *.dpo.st
 *.dps.media
@@ -2964,7 +2962,6 @@
 *.drinks.me
 *.dripurl.com
 *.drnx.ir
-*.droid.ws
 *.droidqr.com
 *.dronescapes.video
 *.drop.tf
@@ -3045,7 +3042,6 @@
 *.eaash.co
 *.earl.sh
 *.earn4link.in
-*.earn4url.com
 *.earnesst.website
 *.earnestwiles.com
 *.earnfly.net
@@ -3063,7 +3059,6 @@
 *.easyurl.site
 *.easyurlshortener.com
 *.eazify.net
-*.eb.do
 *.ebarata.com
 *.ebay.to
 *.ebbco.ir
@@ -3099,7 +3094,6 @@
 *.eeb.me
 *.eepurl.com
 *.efie.co
-*.eflick.me
 *.efraising.org
 *.efs.link
 *.efshop.tw
