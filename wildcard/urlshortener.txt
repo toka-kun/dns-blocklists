@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Jun 2026 18:37 UTC
-# Version: 2026.0602.1837.56
+# Last modified: 03 Jun 2026 09:15 UTC
+# Version: 2026.0603.0915.36
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 9873
+# Number of entries: 9866
 #
 *.a.189.cn
 *.t.2merkato.com
@@ -2091,7 +2091,6 @@
 *.bookstw.link
 *.booplink.com
 *.boost.ink
-*.bos.ngo
 *.bose.life
 *.bosi.me
 *.boskale.me
@@ -2107,7 +2106,6 @@
 *.bp-gc.in
 *.bpjames.com
 *.bpk.id
-*.bpkrlinks.com
 *.bpl.kr
 *.bpo.cloud
 *.br4.in
@@ -2183,7 +2181,6 @@
 *.bubbleurl.com
 *.buddn.com
 *.buds.fit
-*.budur.li
 *.budurl.com
 *.buff.link
 *.buff.ly
@@ -2214,7 +2211,6 @@
 *.bxl.me
 *.by1.eu
 *.by2.io
-*.bybun.xyz
 *.byestar.com
 *.byflexy.com
 *.byli.pro
@@ -2296,7 +2292,6 @@
 *.catchl.ink
 *.cathaybk.tw
 *.cathaysec.tw
-*.cayim.by
 *.cb.click
 *.cb.com
 *.cb.io
@@ -2495,7 +2490,6 @@
 *.clk.sh
 *.clk.vc
 *.clkd.io
-*.clkme.pro
 *.clkon.us
 *.clkro.com
 *.clktrack.com
@@ -2695,7 +2689,6 @@
 *.cutlly.com
 *.cutlnk.top
 *.cutly.in
-*.cutly.me
 *.cutly.pro
 *.cutlyx.com
 *.cutme.io

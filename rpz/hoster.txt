@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780428060 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780479360 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 Jun 2026 19:21 UTC
-; Version: 2026.0602.1921.27
+; Last modified: 03 Jun 2026 09:36 UTC
+; Version: 2026.0603.0936.22
 ; Syntax: RPZ
-; Number of entries: 1804
+; Number of entries: 1800
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -1420,8 +1420,6 @@ glitch.me CNAME .
 *.glitch.me CNAME .
 healthyemployee.me CNAME .
 *.healthyemployee.me CNAME .
-html-5.me CNAME .
-*.html-5.me CNAME .
 linkfast.me CNAME .
 *.linkfast.me CNAME .
 mybluehost.me CNAME .
@@ -1466,6 +1464,8 @@ builderall.net CNAME .
 *.builderall.net CNAME .
 creatorlink.net CNAME .
 *.creatorlink.net CNAME .
+cryptonight.net CNAME .
+*.cryptonight.net CNAME .
 cwqso.net CNAME .
 *.cwqso.net CNAME .
 efacturas.net CNAME .
@@ -1602,8 +1602,6 @@ yi.org CNAME .
 *.yi.org CNAME .
 glide.page CNAME .
 *.glide.page CNAME .
-mmm.page CNAME .
-*.mmm.page CNAME .
 start.page CNAME .
 *.start.page CNAME .
 000.pe CNAME .
@@ -1800,8 +1798,6 @@ gg123.vip CNAME .
 *.gg123.vip CNAME .
 m.vu CNAME .
 *.m.vu CNAME .
-my-free.website CNAME .
-*.my-free.website CNAME .
 wapka.website CNAME .
 *.wapka.website CNAME .
 ct.ws CNAME .

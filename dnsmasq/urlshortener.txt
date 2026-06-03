@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Jun 2026 18:37 UTC
-# Version: 2026.0602.1837.56
+# Last modified: 03 Jun 2026 09:15 UTC
+# Version: 2026.0603.0915.36
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9873
+# Number of entries: 9866
 #
 local=/a.189.cn/
 local=/t.2merkato.com/
@@ -2091,7 +2091,6 @@ local=/bookish.page/
 local=/bookstw.link/
 local=/booplink.com/
 local=/boost.ink/
-local=/bos.ngo/
 local=/bose.life/
 local=/bosi.me/
 local=/boskale.me/
@@ -2107,7 +2106,6 @@ local=/bp.cool/
 local=/bp-gc.in/
 local=/bpjames.com/
 local=/bpk.id/
-local=/bpkrlinks.com/
 local=/bpl.kr/
 local=/bpo.cloud/
 local=/br4.in/
@@ -2183,7 +2181,6 @@ local=/bu66.com/
 local=/bubbleurl.com/
 local=/buddn.com/
 local=/buds.fit/
-local=/budur.li/
 local=/budurl.com/
 local=/buff.link/
 local=/buff.ly/
@@ -2214,7 +2211,6 @@ local=/bwnews.pr/
 local=/bxl.me/
 local=/by1.eu/
 local=/by2.io/
-local=/bybun.xyz/
 local=/byestar.com/
 local=/byflexy.com/
 local=/byli.pro/
@@ -2296,7 +2292,6 @@ local=/catchingtherain.com/
 local=/catchl.ink/
 local=/cathaybk.tw/
 local=/cathaysec.tw/
-local=/cayim.by/
 local=/cb.click/
 local=/cb.com/
 local=/cb.io/
@@ -2495,7 +2490,6 @@ local=/clk.bz/
 local=/clk.sh/
 local=/clk.vc/
 local=/clkd.io/
-local=/clkme.pro/
 local=/clkon.us/
 local=/clkro.com/
 local=/clktrack.com/
@@ -2695,7 +2689,6 @@ local=/cutlinker.com/
 local=/cutlly.com/
 local=/cutlnk.top/
 local=/cutly.in/
-local=/cutly.me/
 local=/cutly.pro/
 local=/cutlyx.com/
 local=/cutme.io/

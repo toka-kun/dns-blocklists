@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780425420 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780478100 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 Jun 2026 18:37 UTC
-; Version: 2026.0602.1837.56
+; Last modified: 03 Jun 2026 09:15 UTC
+; Version: 2026.0603.0915.36
 ; Syntax: RPZ
-; Number of entries: 19746
+; Number of entries: 19732
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1287,8 +1287,6 @@ blck.by CNAME .
 *.blck.by CNAME .
 blur.by CNAME .
 *.blur.by CNAME .
-cayim.by CNAME .
-*.cayim.by CNAME .
 cut.by CNAME .
 *.cut.by CNAME .
 fa.by CNAME .
@@ -3651,8 +3649,6 @@ on.bp.com CNAME .
 *.on.bp.com CNAME .
 bpjames.com CNAME .
 *.bpjames.com CNAME .
-bpkrlinks.com CNAME .
-*.bpkrlinks.com CNAME .
 bragimov.com CNAME .
 *.bragimov.com CNAME .
 brahmanalink.com CNAME .
@@ -11979,8 +11975,6 @@ bmr.li CNAME .
 *.bmr.li CNAME .
 btm.li CNAME .
 *.btm.li CNAME .
-budur.li CNAME .
-*.budur.li CNAME .
 bujo.li CNAME .
 *.bujo.li CNAME .
 bynd.li CNAME .
@@ -13735,8 +13729,6 @@ cturl.me CNAME .
 *.cturl.me CNAME .
 curts.me CNAME .
 *.curts.me CNAME .
-cutly.me CNAME .
-*.cutly.me CNAME .
 cutx.me CNAME .
 *.cutx.me CNAME .
 cvent.me CNAME .
@@ -15501,8 +15493,6 @@ owlti.ng CNAME .
 *.owlti.ng CNAME .
 snip.ng CNAME .
 *.snip.ng CNAME .
-bos.ngo CNAME .
-*.bos.ngo CNAME .
 bti.ninja CNAME .
 *.bti.ninja CNAME .
 klik.ninja CNAME .
@@ -16539,8 +16529,6 @@ clickbase.pro CNAME .
 *.clickbase.pro CNAME .
 clickwhale.pro CNAME .
 *.clickwhale.pro CNAME .
-clkme.pro CNAME .
-*.clkme.pro CNAME .
 crizons.pro CNAME .
 *.crizons.pro CNAME .
 crovio.pro CNAME .
@@ -19579,8 +19567,6 @@ bestbet1000.xyz CNAME .
 *.bestbet1000.xyz CNAME .
 bolagroup.xyz CNAME .
 *.bolagroup.xyz CNAME .
-bybun.xyz CNAME .
-*.bybun.xyz CNAME .
 casinoaktif.xyz CNAME .
 *.casinoaktif.xyz CNAME .
 ccurl.xyz CNAME .

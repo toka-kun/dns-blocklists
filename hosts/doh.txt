@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Jun 2026 19:17 UTC
-# Version: 2026.0602.1917.25
+# Last modified: 03 Jun 2026 10:06 UTC
+# Version: 2026.0603.1006.29
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3871
+# Number of entries: 3890
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -457,6 +457,7 @@
 0.0.0.0 cloud.beerloga.su
 0.0.0.0 senko.beerloga.su
 0.0.0.0 dns.belnet.be
+0.0.0.0 adblock.benmeyer.net
 0.0.0.0 berd.moe
 0.0.0.0 dns.bermeitinger.eu
 0.0.0.0 domburg.beruys.com
@@ -555,8 +556,6 @@
 0.0.0.0 dns.burgas.pro
 0.0.0.0 dns.busold.ws
 0.0.0.0 dns.butterfly87.sbs
-0.0.0.0 adc.bxq.net
-0.0.0.0 sig.bxq.net
 0.0.0.0 c-dns.com
 0.0.0.0 www.c-dns.com
 0.0.0.0 dns.c0ntroller.de
@@ -779,6 +778,7 @@
 0.0.0.0 allain.com.br
 0.0.0.0 dns.alwynstudio.com.au
 0.0.0.0 kdgnkjho4od8w40.americasnet.com.br
+0.0.0.0 akari.anime.com.my
 0.0.0.0 isekai.anime.com.my
 0.0.0.0 shinano.anime.com.my
 0.0.0.0 test.businessconnect.com.tr
@@ -802,6 +802,7 @@
 0.0.0.0 dns.weixin.qq.com.cn
 0.0.0.0 dns.redhosting.com.ar
 0.0.0.0 host94.rheingold.com.ua
+0.0.0.0 dns.rkjha.com.np
 0.0.0.0 cloud.securifi.com.my
 0.0.0.0 skynetinternet.com.br
 0.0.0.0 mk.skynetinternet.com.br
@@ -876,6 +877,7 @@
 0.0.0.0 cynntex.fun
 0.0.0.0 dns.cynthialabs.net
 0.0.0.0 dns.cysynex.cloud
+0.0.0.0 honor.cyvexadns.online
 0.0.0.0 nextcloud.d-alahmad.de
 0.0.0.0 dns.d365.in
 0.0.0.0 s2.d3mik.ru
@@ -1238,6 +1240,7 @@
 0.0.0.0 yyz01.dnscry.pt
 0.0.0.0 yyz02.dnscry.pt
 0.0.0.0 zal01.dnscry.pt
+0.0.0.0 zrh01.dnscry.pt
 0.0.0.0 dns1.dnscrypt.ca
 0.0.0.0 do.dnscrypt.uk
 0.0.0.0 doh.dnscrypt.uk
@@ -1386,6 +1389,7 @@
 0.0.0.0 home27.duckdns.org
 0.0.0.0 homejerem.duckdns.org
 0.0.0.0 hrsm12181.duckdns.org
+0.0.0.0 isfrntshck-pipka.duckdns.org
 0.0.0.0 jfeoks.duckdns.org
 0.0.0.0 jonzalvo.duckdns.org
 0.0.0.0 jurre-home.duckdns.org
@@ -1490,6 +1494,7 @@
 0.0.0.0 dns.envs.net
 0.0.0.0 dns.enzomtp.party
 0.0.0.0 adguard.eoghan-net.com
+0.0.0.0 adguard2.eoghan-net.com
 0.0.0.0 dns.epcot.fr
 0.0.0.0 dns.epic.st
 0.0.0.0 bl.eq.md
@@ -1517,6 +1522,7 @@
 0.0.0.0 www.beautifullife.eu.org
 0.0.0.0 beautifulthings.eu.org
 0.0.0.0 www.beautifulthings.eu.org
+0.0.0.0 blackbb.eu.org
 0.0.0.0 jp.dns.bliod.eu.org
 0.0.0.0 clic.eu.org
 0.0.0.0 resolver.dns.eban.eu.org
@@ -1554,6 +1560,7 @@
 0.0.0.0 fra1.eyecay.xyz
 0.0.0.0 eymg5h77lfs6zhwzmv47gkh0a4r1f1ydfprzxidk.ir
 0.0.0.0 dns.f4a.fun
+0.0.0.0 f4f.es
 0.0.0.0 jp1.f7b6h9.tk
 0.0.0.0 dns.f97.xyz
 0.0.0.0 dns.fabidouille.com
@@ -1580,6 +1587,7 @@
 0.0.0.0 dns.farshmc.ru
 0.0.0.0 adh.fastpacefixit.info
 0.0.0.0 adguardhome.favrep.ovh
+0.0.0.0 dns2.fawz.de
 0.0.0.0 ns0.fdn.fr
 0.0.0.0 ns1.fdn.fr
 0.0.0.0 agh.feblab.click
@@ -1738,6 +1746,7 @@
 0.0.0.0 eime.goip.de
 0.0.0.0 dohsg.goitoi.co
 0.0.0.0 dns.goldplate.org
+0.0.0.0 goldview.in
 0.0.0.0 golegana.de
 0.0.0.0 www.golegana.de
 0.0.0.0 dev.gonnadive.com
@@ -1904,6 +1913,7 @@
 0.0.0.0 huntllcx.cn
 0.0.0.0 doth.huque.com
 0.0.0.0 dns.huseynov.work
+0.0.0.0 dns.hussainnabil.de
 0.0.0.0 dns.huth.nu
 0.0.0.0 v2-1.huwenqiang.xyz
 0.0.0.0 ad.huyct.net
@@ -2186,6 +2196,7 @@
 0.0.0.0 kavkaz.monster
 0.0.0.0 dns.kawa.tf
 0.0.0.0 dns.kc2wbx.com
+0.0.0.0 ad.kccsl.top
 0.0.0.0 kcolspacrm.ir
 0.0.0.0 dns.kcolspacrm.ir
 0.0.0.0 dns.kebree.fr
@@ -2381,6 +2392,7 @@
 0.0.0.0 dns.maitrekuc.fr
 0.0.0.0 malanser.ru
 0.0.0.0 dns.malanser.ru
+0.0.0.0 malelolula.store
 0.0.0.0 dns.malhuda.com
 0.0.0.0 dns.mandre.dev
 0.0.0.0 adguard.manmademagic.com
@@ -2395,6 +2407,7 @@
 0.0.0.0 home.marcrnt.de
 0.0.0.0 ag.marschi.de
 0.0.0.0 dns.marschi.de
+0.0.0.0 dt.marss.vip
 0.0.0.0 ddns.martinmore.online
 0.0.0.0 adguard.marto.si
 0.0.0.0 www.adguard.marto.si
@@ -2724,6 +2737,7 @@
 0.0.0.0 adguard.nocnik.org
 0.0.0.0 cattery.noddos.top
 0.0.0.0 cattery2.noddos.top
+0.0.0.0 ag.node15.com
 0.0.0.0 pi1.node15.com
 0.0.0.0 dns.nodoa.me
 0.0.0.0 noip4.de
@@ -3190,6 +3204,7 @@
 0.0.0.0 dns.sainternet.xyz
 0.0.0.0 safe.dns.sainternet.xyz
 0.0.0.0 unfiltered.dns.sainternet.xyz
+0.0.0.0 dns.sales-kbr.online
 0.0.0.0 lime.samonte.ovh
 0.0.0.0 cloud.samutz.com
 0.0.0.0 dns.saneaki.com
@@ -3219,6 +3234,7 @@
 0.0.0.0 dns.schmidt-zoarn.de
 0.0.0.0 moise-et-maurice-gardent-la-maison.schneiderus.org
 0.0.0.0 dns1.schooldns.nl
+0.0.0.0 schulhelfer-mathe-deutsch.de
 0.0.0.0 dns.scott.ovh
 0.0.0.0 dns.scott-smith.us
 0.0.0.0 scottdylewski.com
@@ -3239,6 +3255,7 @@
 0.0.0.0 dns.seiffert.me
 0.0.0.0 dns.sellan.fr
 0.0.0.0 selsby.info
+0.0.0.0 korridor.semia-infra.net
 0.0.0.0 adguard.senthil.us
 0.0.0.0 dns.serdcebolit.ru
 0.0.0.0 dns1.serdcebolit.ru
@@ -3563,6 +3580,7 @@
 0.0.0.0 vless-service.ufodns.com
 0.0.0.0 blokuj.ujwie.co
 0.0.0.0 nitter.ujwie.co
+0.0.0.0 adguard.ulbricht.cloud
 0.0.0.0 rb750gr3.ulfhednar.ru
 0.0.0.0 doh.ultradns.com
 0.0.0.0 dns.umbrella.com
@@ -3824,6 +3842,7 @@
 0.0.0.0 guard.yps.tw
 0.0.0.0 ys4.de
 0.0.0.0 dus.ysbs.uk
+0.0.0.0 doh.yspv.ru
 0.0.0.0 dns.ytpom.ru
 0.0.0.0 dns2.ytpom.ru
 0.0.0.0 dns.yu.dev

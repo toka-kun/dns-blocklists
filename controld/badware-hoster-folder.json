@@ -1926,6 +1926,13 @@
       }
     },
     {
+      "PK": "cryptonight.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "cs-clan.org",
       "action": {
         "do": 0,
@@ -3333,13 +3340,6 @@
       }
     },
     {
-      "PK": "html-5.me",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "hu.gp",
       "action": {
         "do": 0,
@@ -4124,13 +4124,6 @@
       }
     },
     {
-      "PK": "mmm.page",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "mobi.ps",
       "action": {
         "do": 0,
@@ -4174,13 +4167,6 @@
     },
     {
       "PK": "mx.gp",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "my-free.website",
       "action": {
         "do": 0,
         "status": 1

@@ -3,6 +3,7 @@
 ```
 https://adguardteam.github.io/AdGuardSDNSFilter/Filters/adguard_popup_filter.txt
 https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+https://big.oisd.nl
 https://botvrij.eu/data/ioclist.hostname
 https://cdn.jsdelivr.net/gh/geekdada/surge-list/domain-set/chinese-filter.txt
 https://cdn.jsdelivr.net/gh/hufilter/hufilter@gh-pages/hufilter-dns.txt
@@ -100,6 +101,7 @@ https://raw.githubusercontent.com/arfshl/anti-gambling-domains/refs/heads/main/d
 https://raw.githubusercontent.com/arkynx/blocklists/refs/heads/main/gambling-domains.txt
 https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts
 https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/quad9_blocklist.txt
+https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt
 https://raw.githubusercontent.com/bet-blocker/bet-blocker/refs/heads/main/blocklist.txt
 https://raw.githubusercontent.com/betterwebleon/slovenian-list/refs/heads/master/filters.txt
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/gambling/hosts
@@ -275,6 +277,7 @@ https://secure.fanboy.co.nz/fanboy-agegate.txt
 https://secure.fanboy.co.nz/fanboy-annoyance.txt
 https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
 https://secure.fanboy.co.nz/fanboy-social.txt
+https://small.oisd.nl
 https://threatfox.abuse.ch/downloads/hostfile
 https://threatview.io/Downloads/DOMAIN-High-Confidence-Feed.txt
 https://trends.netcraft.com/cybercrime/tlds

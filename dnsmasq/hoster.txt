@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Jun 2026 19:21 UTC
-# Version: 2026.0602.1921.27
+# Last modified: 03 Jun 2026 09:36 UTC
+# Version: 2026.0603.0936.22
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 902
+# Number of entries: 900
 #
 local=/one4u.0lx.net/
 local=/free.bizhat.com/
@@ -296,6 +296,7 @@ local=/corolain.ru/
 local=/craftum.io/
 local=/created.app/
 local=/creatorlink.net/
+local=/cryptonight.net/
 local=/cs-clan.org/
 local=/ct.ws/
 local=/ct8.pl/
@@ -493,7 +494,6 @@ local=/hp.lc/
 local=/hpage.com/
 local=/hr-organization.com/
 local=/hst5.com/
-local=/html-5.me/
 local=/hu.gp/
 local=/hu.kg/
 local=/hund.in/
@@ -603,7 +603,6 @@ local=/me-page.com/
 local=/medianewsonline.com/
 local=/merchats.com/
 local=/mit-wenig-geld.de/
-local=/mmm.page/
 local=/mobi.ps/
 local=/mp3.cr/
 local=/muf.mobi/
@@ -611,7 +610,6 @@ local=/musik.cx/
 local=/musik.lc/
 local=/mx.gp/
 local=/my.gp/
-local=/my-free.website/
 local=/my-place.us/
 local=/myartsonline.com/
 local=/myblogvoice.com/

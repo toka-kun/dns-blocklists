@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 02 Jun 2026 18:54 UTC
-! Version: 2026.0602.1854.15
+! Last modified: 03 Jun 2026 09:14 UTC
+! Version: 2026.0603.0914.06
 ! Syntax: AdBlock
-! Number of entries: 15952
+! Number of entries: 15928
 !
 ||trader.212group.de^
 ||eu.2bagsvalley.cn^
@@ -102,7 +102,6 @@
 ||timbuk2.co.at^
 ||tom-ford.co.za^
 ||uggs.co.at^
-||vanss.co.at^
 ||wilson.co.at^
 ||yeezys.co.at^
 ||yeti-southafrica.co.za^
@@ -140,7 +139,6 @@
 ||lowa.com.de^
 ||moderncasa.com.br^
 ||mundoencantadobrasil.com.br^
-||newbelleestofados.com.br^
 ||ondecomprei.com.br^
 ||ondeutschland.com.de^
 ||osiris.com.de^
@@ -164,7 +162,6 @@
 ||steelseries.com.de^
 ||tempusluxor.com.br^
 ||torfix.com.br^
-||tripland.com.br^
 ||under-armour.com.de^
 ||useraven.com.br^
 ||vercc.com.br^
@@ -580,6 +577,7 @@
 ||adl.ukdil.shop^
 ||at.ultimate-gainz.com^
 ||de.ultimate-gainz.com^
+||oei.unitedinvest.net^
 ||app.upifex.org^
 ||350yeezy.us.com^
 ||adidas.us.com^
@@ -2506,7 +2504,6 @@
 ||bp-direct.com^
 ||bp-heizoel.de^
 ||bp-mineraloel.de^
-||bp-mineraloele.com^
 ||bpgcoin.com^
 ||bracgartenservice.de^
 ||brachiumautoteile.de^
@@ -2531,7 +2528,6 @@
 ||brauneagrar.com^
 ||bravedrawer.com^
 ||braviamarket.com^
-||brazoshybridpharmacy.com^
 ||breadmachineshop.com^
 ||brecit.com^
 ||bredyshopper.de^
@@ -2559,7 +2555,6 @@
 ||brennholzboersch.com^
 ||brennholzdge.com^
 ||brennholzgarten.de^
-||brennholzhoffmich.com^
 ||brennholzkamin.de^
 ||brennholzmarkt.com^
 ||brennholzpellets.com^
@@ -2600,12 +2595,10 @@
 ||broilkingde.com^
 ||brokerandco.com^
 ||brokereins.com^
-||brokereins1.com^
 ||brokers500.com^
 ||brooks-osterreich.at^
 ||brooks-partners.com^
 ||brooks-running-shoes.com^
-||brooksberlin.de^
 ||brookschuheoutlet.de^
 ||brookslaufschuhesale.de^
 ||brooksoutletsale.de^
@@ -2616,7 +2609,6 @@
 ||browningforsale.com^
 ||brownsona.com^
 ||brownspecialadvice.com^
-||bruggermaschinen.com^
 ||brumatedeutschland.com^
 ||brunateschuhewerksverkauf.de^
 ||brunboisdechauffage.at^
@@ -2639,13 +2631,10 @@
 ||btmake.top^
 ||bubaloo.de^
 ||bubucy.com^
-||bucakdogalsalep.com^
 ||buchbasekiste.com^
 ||buchberger-innsbruck.com^
 ||buchnergmbh.com^
-||buchsonderangebote.de^
 ||buchverlag-scholz.de^
-||buckbasil.com^
 ||buckleybelts.de^
 ||buckleyswiss.com^
 ||buddhapowerstore.com^
@@ -2687,7 +2676,6 @@
 ||buy-viagra.site^
 ||buyado.de^
 ||buyalwansolar.shop^
-||buyandoo.de^
 ||buybestmeds.com^
 ||buycheap.fun^
 ||buycircaknee.com^
@@ -2741,14 +2729,12 @@
 ||caipzignet.de^
 ||calcaterrachallenge.com^
 ||calderonbusiness.com^
-||calesso-tech.de^
 ||cali-ljekarna.com^
 ||calishop.de^
 ||callfy.net^
 ||calmdetox-shop.com^
 ||caloubois.com^
 ||cameogmbh.de^
-||cameragearshop.de^
 ||camerllia.com^
 ||cami-handel.de^
 ||camiciebluse.com^
@@ -2818,7 +2804,6 @@
 ||capital-rvg.com^
 ||capital888.net^
 ||capitalcourtage.com^
-||capitalexpressmetatrade.net^
 ||capitalfrance.fr^
 ||capitalgiftsoutlet.com^
 ||capitaliko.com^
@@ -2875,8 +2860,6 @@
 ||carvanamarkt.com^
 ||casaamarela.store^
 ||casaclothing.de^
-||casadchocollat.site^
-||casadoochocotop.site^
 ||casaeternaluz.com^
 ||casagomart.com^
 ||casaivora.com^
@@ -2958,7 +2941,6 @@
 ||cescory.com^
 ||ceska-lekarna.com^
 ||ceskaonlinelekarna.com^
-||cfdtc.com^
 ||cftmarteorvers.com^
 ||cfxfund.com^
 ||cfxmarkets.com^
@@ -3043,14 +3025,12 @@
 ||cielie.com^
 ||cigarettescigs.com^
 ||cilera.de^
-||cima-bois.com^
 ||cimga.ltd^
 ||cine-flix.co^
 ||cineluxdeutschland.com^
 ||cint.pro^
 ||cintra.group^
 ||cinzpflanzenhof.com^
-||cioachespect.com^
 ||circuitclo.eu^
 ||circulatem.com^
 ||circumstancen.com^
@@ -3058,14 +3038,12 @@
 ||citizensm.com^
 ||citmarkets.com^
 ||citrades.com^
-||cityraderschritte.com^
 ||ciushop.com^
 ||civasan.ca^
 ||civey.at^
 ||civiliank.com^
 ||ciyuanshijie.com^
 ||cizmesorel.com^
-||cklogi.de^
 ||cklogistik.de^
 ||claimshub.xyz^
 ||clair-montfils.com^
@@ -3156,13 +3134,11 @@
 ||cnbiochemicals.com^
 ||cnderthuk.club^
 ||cnfashion.org^
-||cni-group.net^
 ||coach-florian.com^
 ||coach-ksa.com^
 ||coachoutlet.at^
 ||coachtrader.com^
 ||coarsesale.com^
-||coastalgrillcare.com^
 ||coastalresin.store^
 ||coatofficial.com^
 ||coatpark.com^
@@ -3191,10 +3167,10 @@
 ||coinnova.eu^
 ||coinspayworld.com^
 ||coinstancy.com^
+||coinvoro.com^
 ||cokimnsi.shop^
 ||colbertcap.com^
 ||cold-rp.de^
-||coldcultureworldwide-outlets.com^
 ||coldeez.com^
 ||colehaanbrasilsale.com^
 ||colehaangreece.com^
@@ -3264,18 +3240,15 @@
 ||consistorkred.com^
 ||console-switch.com^
 ||consolestar.de^
-||conspeco.com^
 ||constanip.com^
 ||consulting-app.de^
 ||consumptione.com^
 ||containerbike.de^
 ||containerbikes.de^
 ||containerbox-gmbh.de^
-||containercompany.shop^
 ||containerdienst-aur.de^
 ||containerdienstheiliggmbh.de^
 ||containergierichgmbh.de^
-||containerhaus-anhanger.de^
 ||containersparks.com^
 ||containert.com^
 ||containerwelt24.com^
@@ -3297,7 +3270,6 @@
 ||cookskitchen.club^
 ||coolcare.mx^
 ||coolgin.com^
-||cooling-ace.de^
 ||coolsnow.at^
 ||cooltv.shop^
 ||cooludi.com^
@@ -3312,8 +3284,6 @@
 ||coquettewomanshop.com^
 ||coralcoveswim.com^
 ||cordlesstoolshop.com^
-||coredealsengineparts.site^
-||coredealsengines.online^
 ||coremat-industrie.com^
 ||corestationsystems.sbs^
 ||corevitalnutraceuticals.com^
@@ -3415,7 +3385,6 @@
 ||cryptoassetscontrol.com^
 ||cryptocase.online^
 ||cryptocash24.com^
-||cryptocybertracing.com^
 ||cryptoeasily.com^
 ||cryptofast.net^
 ||cryptofundfx.com^
@@ -3479,12 +3448,10 @@
 ||cycleexplorer.com^
 ||cycleneu.com^
 ||cycling100percent.com^
-||cyclingjacketneus.com^
 ||cyclingmavic.com^
 ||cyclingraincoatde.com^
 ||cyclingzx.com^
 ||cydertlinder.com^
-||cyjumay.shop^
 ||cyklusobchod.com^
 ||cymgrup.com^
 ||cyrosalnix.com^
@@ -4179,7 +4146,6 @@
 ||dt5888.com^
 ||dualsuns.com^
 ||dualtron-scooters.com^
-||dubaihoteluae.com^
 ||duckflix.de^
 ||duft-blumen.de^
 ||duftbaum.store^
@@ -6117,6 +6083,10 @@
 ||glueckimhaus.de^
 ||gluecksraupe.shop^
 ||glueckstore.de^
+||glurvextopin.at^
+||glurvextopin-at.at^
+||glurvextopin-gb.com^
+||glurvextopin-official.com^
 ||gluschwein.de^
 ||gmbh2go.de^
 ||gmfcar-sol.com^
@@ -6325,6 +6295,7 @@
 ||groupenterprisevision.digital^
 ||groupeshf.com^
 ||groupsumi.de^
+||grow-investat.com^
 ||growano.com^
 ||growingcat.com^
 ||growminance.com^
@@ -6595,6 +6566,7 @@
 ||haustierbedarfshop.com^
 ||haustiererabatt.com^
 ||haustiereshop.com^
+||haustierstolz.de^
 ||haustirwelten.de^
 ||hausture.com^
 ||hausundgarten.haus^
@@ -7063,6 +7035,7 @@
 ||homedecordshop.com^
 ||homedecorfine.com^
 ||homedepart.com^
+||homeglownest.com^
 ||homegoodstotal.com^
 ||homehulsta.com^
 ||homeinvasion.de^
@@ -7673,7 +7646,6 @@
 ||jerusalemcharity.com^
 ||jessena.com^
 ||jetprofund.net^
-||jetterix.com^
 ||jeulia.de^
 ||jewellery-palace.com^
 ||jewelleryina.com^
@@ -9379,6 +9351,7 @@
 ||meikemode.de^
 ||meimiou.store^
 ||mein.consulting^
+||mein-alltagsbedarf.com^
 ||mein-anhanger.de^
 ||mein-bauhof.de^
 ||mein-buch24.de^
@@ -9449,6 +9422,7 @@
 ||melissaschuhe.de^
 ||melittaosterreich.at^
 ||melkberg.de^
+||mellowivor.com^
 ||melodiewerk.de^
 ||melodigear.com^
 ||melorcaguilla.com^
@@ -10240,7 +10214,6 @@
 ||neuschmucken.com^
 ||neutrino-energy-coin.com^
 ||nevari.de^
-||neverless.com^
 ||nevermindshoes.com^
 ||nevixen.com^
 ||nevolas.com^
@@ -10964,6 +10937,7 @@
 ||our-deals.de^
 ||ouraltis.de^
 ||outball.de^
+||outdoor-ausrustung24.com^
 ||outdoor-camping-discounts.com^
 ||outdoor-heinz.com^
 ||outdoor-testsieger-gartenschlauch-5gruende.de^
@@ -11013,7 +10987,6 @@
 ||outletjoma.com^
 ||outletlivingstore.com^
 ||outletnewin.com^
-||outletpc.de^
 ||outletpickleball.com^
 ||outletrevel.com^
 ||outletsadv.com^
@@ -12199,6 +12172,7 @@
 ||rituals-nl.shop^
 ||rituals-outlet.shop^
 ||ritualsecretododesligue.shop^
+||ritualsgleam.com^
 ||ritualshopper.com^
 ||ritualsnectar.shop^
 ||ritualsofself.shop^
@@ -12739,7 +12713,6 @@
 ||senzza.de^
 ||separaten.com^
 ||sepgoal.com^
-||sepkicks.com^
 ||seprun.com^
 ||serendiplty.com^
 ||sereneify.com^
@@ -13102,7 +13075,6 @@
 ||smartmarket26.com^
 ||smartpills.io^
 ||smartplantivy.com^
-||smartsolve.ai^
 ||smartsteamershop.com^
 ||smartundgeizig.de^
 ||smartwaerme.com^
@@ -13117,6 +13089,7 @@
 ||snapbartar.com^
 ||snapposh.com^
 ||snckhor-materiaux.com^
+||sneakerfee.com^
 ||sneakermood.eu^
 ||sneakers-metzingen.de^
 ||sneakersberlin.de^
@@ -13697,6 +13670,7 @@
 ||sunnyhomedesign.com^
 ||sunnylas.com^
 ||sunnymors.com^
+||sunpaym1.world^
 ||sunplux.com^
 ||sunsetwell.com^
 ||sunshinemo.com^
@@ -14419,6 +14393,7 @@
 ||traditionellertee.com^
 ||tragleicht.de^
 ||trailer-container.com^
+||trailer-master.eu^
 ||trailertour.com^
 ||trailsportshop.de^
 ||trakkerbillig.com^
@@ -15101,7 +15076,6 @@
 ||visionfancyclothing.com^
 ||visionfx.me^
 ||visioninvesti.com^
-||visitaserbia.com^
 ||visualframe.de^
 ||visvishengelsnl.com^
 ||vita-pflege.de^
@@ -15567,6 +15541,7 @@
 ||wohndekode.com^
 ||wohnelektro.com^
 ||wohnenrabatt.com^
+||wohnfinden.com^
 ||wohngartenshop.de^
 ||wohnkuchede.com^
 ||wohnlichkeiterschaffen.com^
@@ -15756,6 +15731,7 @@
 ||yeezy-450.com^
 ||yeezyadidas.de^
 ||yeezys.co^
+||yerbrtaa.lol^
 ||yes-pharm.com^
 ||yes-pills.com^
 ||yesacbeautybar.com^
