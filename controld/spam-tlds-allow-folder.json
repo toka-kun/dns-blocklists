@@ -2346,6 +2346,13 @@
       }
     },
     {
+      "PK": "gourmet-kochmanufaktur.shop",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "gov-img.site",
       "action": {
         "do": 1,
