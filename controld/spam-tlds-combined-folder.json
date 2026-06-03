@@ -490,6 +490,13 @@
       }
     },
     {
+      "PK": "azccriminal.space",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "baam.agency",
       "action": {
         "do": 1,

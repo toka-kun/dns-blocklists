@@ -689,6 +689,7 @@
 @@||forecast.solar^
 @@||optimizer.solar^
 @@||ariadne.space^
+@@||azccriminal.space^
 @@||blinko.space^
 @@||cslogs.space^
 @@||dragonscave.space^
