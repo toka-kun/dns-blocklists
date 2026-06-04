@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Jun 2026 22:30 UTC
-# Version: 2026.0603.2230.43
+# Last modified: 04 Jun 2026 01:13 UTC
+# Version: 2026.0604.0113.07
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 22588
+# Number of entries: 22583
 #
 *.hichemtigsetorgy.0fees.net
 *.tracker.0x7c0.com
@@ -5926,7 +5926,6 @@
 *.filmes.pro
 *.filmeseseriesonline.info
 *.filmesonline.top
-*.filmesonline2.com
 *.filmesonlinegratis.co
 *.filmesonlinepipoca.com
 *.filmestorrent.tv
@@ -5954,11 +5953,9 @@
 *.filmoff.net
 *.filmoflix.ad
 *.filmoflix.agency
-*.filmoflix.archi
 *.filmoflix.army
 *.filmoflix.best
 *.filmoflix.bio
-*.filmoflix.blue
 *.filmoflix.bz
 *.filmoflix.capital
 *.filmoflix.club
@@ -6029,7 +6026,6 @@
 *.filmsenzalimiti.co
 *.filmsenzalimiti.com
 *.filmsenzalimiti.cool
-*.filmsenzalimiti.eu
 *.filmsenzalimiti.fm
 *.filmsenzalimiti.gold
 *.filmsenzalimiti.info
@@ -6249,7 +6245,6 @@
 *.flixmomo.app
 *.flixmomo.com
 *.flixmomo.info
-*.flixmomo.org
 *.flixmomo.sbs
 *.flixmomo.se
 *.flixmomo.space

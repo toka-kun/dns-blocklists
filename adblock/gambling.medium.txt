@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 03 Jun 2026 22:27 UTC
-! Version: 2026.0603.2227.51
+! Last modified: 04 Jun 2026 01:11 UTC
+! Version: 2026.0604.0111.10
 ! Syntax: AdBlock
-! Number of entries: 93263
+! Number of entries: 93236
 !
 ||web-119bet-2025-google-vip-119bet.119-hello.com^
 ||web-166betcom-vip-166betcc-166betvip-2025fa-east1.166tiger.com^
@@ -45621,9 +45621,6 @@
 ||fenix-slots777.casino^
 ||fenix007.casino^
 ||fenix1305.casino^
-||fenix138.casino^
-||fenix145.casino^
-||fenix146.casino^
 ||fenix23.casino^
 ||fenix243.casino^
 ||fenix26.casino^
@@ -45662,7 +45659,6 @@
 ||fesapoker.com^
 ||fesapoker.online^
 ||fespm.org^
-||festacasinos.com^
 ||feudee.com^
 ||feuxcasinolacleamy.ca^
 ||feverslots.com^
@@ -45756,7 +45752,6 @@
 ||fin.casino^
 ||fin444.live^
 ||finasteridehr.com^
-||finasteridep.com^
 ||findacasinohost.com^
 ||findandselect.com^
 ||findbestcasino.games^
@@ -45849,7 +45844,6 @@
 ||five88casinovip.com^
 ||five88s.casino^
 ||fivebet.it^
-||fivesalive.org^
 ||fivestars.casino^
 ||fivipoker.com^
 ||fixa-casinos.ru^
@@ -45859,15 +45853,12 @@
 ||fixbet-casino.pro^
 ||fixbet1.net^
 ||fixbet99.com^
-||fixbetcasino.icu^
-||fixbetcasino2026.icu^
 ||fixed-matches.info^
 ||fixedmatch.bet^
 ||fixedmatches.win^
 ||fixedmatchescorrectscore.com^
 ||fiz-casino-australia.com^
 ||fizcasino-be.com^
-||fizikevreni.com^
 ||fj-japan.org^
 ||fj038u3.com^
 ||fjt.casino^
@@ -45976,7 +45967,6 @@
 ||flush.com^
 ||flushcasino.net^
 ||flushcasino.nl^
-||flushcasino.pl^
 ||flushcasino1.com^
 ||flutterhallcasino.com^
 ||flutterhallcasino.io^
@@ -46155,7 +46145,6 @@
 ||fortunepandacasino-au.com^
 ||fortuneplay.com^
 ||fortuneplay-casinoonline.com^
-||fortuneplaycasino.pl^
 ||fortuneplaycasino-ca.com^
 ||fortuneplaycasino-de.com^
 ||fortuneplaycasino-no.com^
@@ -46209,7 +46198,6 @@
 ||fourwindscasinohartford.com^
 ||foxbet.com^
 ||foxbonus.com^
-||foxcaptureplan.net^
 ||foxcasino.click^
 ||foxespg.com^
 ||foxslots.com^
@@ -46220,7 +46208,6 @@
 ||foxslotscanada.com^
 ||foxwoodsresortcasino.ca^
 ||foxy-casino.org^
-||foxy-casino.pl^
 ||foxy-games-casino-online-uk.com^
 ||foxy-games-casinos-online-uk.com^
 ||foxy-games-online-casino.com^
@@ -46231,7 +46218,6 @@
 ||foxy999.com^
 ||foxybingo.com^
 ||foxycasino.net^
-||foxycasino.pl^
 ||foxycasino-de.de^
 ||foxygames.com^
 ||foxygames-casino-online-uk.com^
@@ -46241,7 +46227,6 @@
 ||foxygames-online-casinos.com^
 ||foxygames-online-casinos-uk.com^
 ||foxygamescasino-uk.com^
-||foxygold-casino.pl^
 ||foxygold-casinos.com^
 ||foxygoldcasino.online^
 ||foxygoldcasino-nederland.com^
@@ -46301,7 +46286,6 @@
 ||francecrypto.fr^
 ||francegalop-live.com^
 ||francellacasino.com^
-||francomsolutions.com^
 ||frank-casino.ch^
 ||frank-casino.info^
 ||frank-casino.ltd^
@@ -46321,7 +46305,6 @@
 ||frankcasinoonline.ca^
 ||frankclubcasino.com^
 ||frankfred.com^
-||frankiecatpdx.com^
 ||franzcasinos.casino^
 ||franzcasinos.online^
 ||franzcasinos.site^
@@ -46339,7 +46322,6 @@
 ||freakybillioncasino.ch^
 ||freddiescasino.org^
 ||freddyvegascasino.com^
-||fredon-pokerplay.com^
 ||free-bet-blackjack-10.com^
 ||free-bet-blackjack-4.com^
 ||free-bet-blackjack-5.com^
@@ -46363,8 +46345,6 @@
 ||free50.casino^
 ||freebet.casino^
 ||freebet.ru^
-||freebetcasino.fr^
-||freebetchipscasino.com^
 ||freebets.com^
 ||freebets.id^
 ||freebets.surf^
@@ -46392,7 +46372,6 @@
 ||freedomcasino-online.com^
 ||freeextrachips.com^
 ||freegtopokerrange.com^
-||freejackportslotx.com^
 ||freelotterynetwork.com^
 ||freeneo.io^
 ||freenodepositbonuscasino.ca^
@@ -46429,11 +46408,8 @@
 ||freespinsworld.com^
 ||freespinx.com^
 ||freespinz.com^
-||freespinz-casino.pl^
 ||freespinz-casino.vip^
-||freespinzcasino.pl^
 ||freesupertips.com^
-||freetibetshirts.com^
 ||freiheitplus.de^
 ||freiheitstraum.com^
 ||fremontcasino.com^
@@ -46527,7 +46503,6 @@
 ||friends-casinoz7.skin^
 ||friends762.casino^
 ||friendsbets.ru^
-||friendscasino.pl^
 ||friscofarmersmarket.net^
 ||fritzcasinos.com^
 ||friv10000000.com^
@@ -46592,7 +46567,6 @@
 ||fscasinos.de^
 ||fscasinos.pl^
 ||fscore-vn.com^
-||fsfi-questionnaire.com^
 ||fsjcasino.ca^
 ||fspproperty.com^
 ||fstcasino.com^
@@ -47706,7 +47680,6 @@
 ||gbowin.com^
 ||gbqa08.com^
 ||gca.casino^
-||gca.top^
 ||gcashcasino.app^
 ||gcashcasino.vip^
 ||gcasino.click^

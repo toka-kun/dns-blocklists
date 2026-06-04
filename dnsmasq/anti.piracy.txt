@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Jun 2026 22:30 UTC
-# Version: 2026.0603.2230.43
+# Last modified: 04 Jun 2026 01:13 UTC
+# Version: 2026.0604.0113.07
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 22588
+# Number of entries: 22583
 #
 local=/hichemtigsetorgy.0fees.net/
 local=/tracker.0x7c0.com/
@@ -5926,7 +5926,6 @@ local=/filmehd.to/
 local=/filmes.pro/
 local=/filmeseseriesonline.info/
 local=/filmesonline.top/
-local=/filmesonline2.com/
 local=/filmesonlinegratis.co/
 local=/filmesonlinepipoca.com/
 local=/filmestorrent.tv/
@@ -5954,11 +5953,9 @@ local=/filmobo.com/
 local=/filmoff.net/
 local=/filmoflix.ad/
 local=/filmoflix.agency/
-local=/filmoflix.archi/
 local=/filmoflix.army/
 local=/filmoflix.best/
 local=/filmoflix.bio/
-local=/filmoflix.blue/
 local=/filmoflix.bz/
 local=/filmoflix.capital/
 local=/filmoflix.club/
@@ -6029,7 +6026,6 @@ local=/filmsenzalimiti.club/
 local=/filmsenzalimiti.co/
 local=/filmsenzalimiti.com/
 local=/filmsenzalimiti.cool/
-local=/filmsenzalimiti.eu/
 local=/filmsenzalimiti.fm/
 local=/filmsenzalimiti.gold/
 local=/filmsenzalimiti.info/
@@ -6249,7 +6245,6 @@ local=/flixjar.com/
 local=/flixmomo.app/
 local=/flixmomo.com/
 local=/flixmomo.info/
-local=/flixmomo.org/
 local=/flixmomo.sbs/
 local=/flixmomo.se/
 local=/flixmomo.space/

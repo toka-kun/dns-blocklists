@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780525800 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780535520 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Jun 2026 22:30 UTC
-; Version: 2026.0603.2230.04
+; Last modified: 04 Jun 2026 01:12 UTC
+; Version: 2026.0604.0112.26
 ; Syntax: RPZ
-; Number of entries: 108368
+; Number of entries: 108342
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -10836,10 +10836,6 @@ fenix-slots7.casino CNAME .
 *.fenix-slots7.casino CNAME .
 fenix-slots777.casino CNAME .
 *.fenix-slots777.casino CNAME .
-fenix145.casino CNAME .
-*.fenix145.casino CNAME .
-fenix146.casino CNAME .
-*.fenix146.casino CNAME .
 fenix31.casino CNAME .
 *.fenix31.casino CNAME .
 fenix54.casino CNAME .
@@ -36236,8 +36232,6 @@ ferraripg.com CNAME .
 *.ferraripg.com CNAME .
 fesapoker.com CNAME .
 *.fesapoker.com CNAME .
-festacasinos.com CNAME .
-*.festacasinos.com CNAME .
 fezbet.com CNAME .
 *.fezbet.com CNAME .
 fezbet1.com CNAME .
@@ -36294,8 +36288,6 @@ filemirrors.com CNAME .
 *.filemirrors.com CNAME .
 finasteridehr.com CNAME .
 *.finasteridehr.com CNAME .
-finasteridep.com CNAME .
-*.finasteridep.com CNAME .
 findacasinohost.com CNAME .
 *.findacasinohost.com CNAME .
 findandselect.com CNAME .
@@ -36354,8 +36346,6 @@ fixedmatchescorrectscore.com CNAME .
 *.fixedmatchescorrectscore.com CNAME .
 fizcasino-be.com CNAME .
 *.fizcasino-be.com CNAME .
-fizikevreni.com CNAME .
-*.fizikevreni.com CNAME .
 fj038u3.com CNAME .
 *.fj038u3.com CNAME .
 fkjhethh.com CNAME .
@@ -36608,8 +36598,6 @@ francegalop-live.com CNAME .
 *.francegalop-live.com CNAME .
 francellacasino.com CNAME .
 *.francellacasino.com CNAME .
-francomsolutions.com CNAME .
-*.francomsolutions.com CNAME .
 frankcasino.com CNAME .
 *.frankcasino.com CNAME .
 frankcasino-ca.com CNAME .
@@ -36620,8 +36608,6 @@ frankclubcasino.com CNAME .
 *.frankclubcasino.com CNAME .
 frankfred.com CNAME .
 *.frankfred.com CNAME .
-frankiecatpdx.com CNAME .
-*.frankiecatpdx.com CNAME .
 franzcasinos-site.com CNAME .
 *.franzcasinos-site.com CNAME .
 freakyaces.com CNAME .
@@ -36642,8 +36628,6 @@ free-casino-chips.com CNAME .
 *.free-casino-chips.com CNAME .
 free-slots-no-download.com CNAME .
 *.free-slots-no-download.com CNAME .
-freebetchipscasino.com CNAME .
-*.freebetchipscasino.com CNAME .
 freebets.com CNAME .
 *.freebets.com CNAME .
 freecardcasinoindia.com CNAME .
@@ -36664,8 +36648,6 @@ freeextrachips.com CNAME .
 *.freeextrachips.com CNAME .
 freegtopokerrange.com CNAME .
 *.freegtopokerrange.com CNAME .
-freejackportslotx.com CNAME .
-*.freejackportslotx.com CNAME .
 freelotterynetwork.com CNAME .
 *.freelotterynetwork.com CNAME .
 freeplaycasinohub.com CNAME .
@@ -36696,8 +36678,6 @@ freespinz.com CNAME .
 *.freespinz.com CNAME .
 freesupertips.com CNAME .
 *.freesupertips.com CNAME .
-freetibetshirts.com CNAME .
-*.freetibetshirts.com CNAME .
 freiheitstraum.com CNAME .
 *.freiheitstraum.com CNAME .
 fresh-bet.com CNAME .
@@ -67962,8 +67942,6 @@ enbetsbs.icu CNAME .
 *.enbetsbs.icu CNAME .
 esascasinoguncel.icu CNAME .
 *.esascasinoguncel.icu CNAME .
-fixbetcasino2026.icu CNAME .
-*.fixbetcasino2026.icu CNAME .
 galalbetsgirisleri.icu CNAME .
 *.galalbetsgirisleri.icu CNAME .
 gameofbet-betsitesi2026.icu CNAME .
@@ -75126,8 +75104,6 @@ fortune-clock-casino.net CNAME .
 *.fortune-clock-casino.net CNAME .
 fortunepandacasino.net CNAME .
 *.fortunepandacasino.net CNAME .
-foxcaptureplan.net CNAME .
-*.foxcaptureplan.net CNAME .
 foxslots-de.net CNAME .
 *.foxslots-de.net CNAME .
 foxycasino.net CNAME .
@@ -81670,8 +81646,6 @@ firsplay88.org CNAME .
 *.firsplay88.org CNAME .
 fishboomcasino.org CNAME .
 *.fishboomcasino.org CNAME .
-fivesalive.org CNAME .
-*.fivesalive.org CNAME .
 fj-japan.org CNAME .
 *.fj-japan.org CNAME .
 flexepincasinos.org CNAME .

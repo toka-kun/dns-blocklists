@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780525800 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780535580 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Jun 2026 22:30 UTC
-; Version: 2026.0603.2230.43
+; Last modified: 04 Jun 2026 01:13 UTC
+; Version: 2026.0604.0113.07
 ; Syntax: RPZ
-; Number of entries: 45176
+; Number of entries: 45166
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -434,8 +434,6 @@ trackerx.com.ar CNAME .
 *.trackerx.com.ar CNAME .
 eurostreaming.archi CNAME .
 *.eurostreaming.archi CNAME .
-filmoflix.archi CNAME .
-*.filmoflix.archi CNAME .
 hdmovie2.archi CNAME .
 *.hdmovie2.archi CNAME .
 streamingcommunityz.archi CNAME .
@@ -1472,8 +1470,6 @@ zone-telechargement.blog CNAME .
 *.zone-telechargement.blog CNAME .
 dood.blue CNAME .
 *.dood.blue CNAME .
-filmoflix.blue CNAME .
-*.filmoflix.blue CNAME .
 katmoviehd.blue CNAME .
 *.katmoviehd.blue CNAME .
 kickass-official.blue CNAME .
@@ -6036,8 +6032,6 @@ filmapikofficial.com CNAME .
 *.filmapikofficial.com CNAME .
 filmduty.com CNAME .
 *.filmduty.com CNAME .
-filmesonline2.com CNAME .
-*.filmesonline2.com CNAME .
 filmesonlinepipoca.com CNAME .
 *.filmesonlinepipoca.com CNAME .
 filmheaven.com CNAME .
@@ -12074,8 +12068,6 @@ fiberlink.eu CNAME .
 *.fiberlink.eu CNAME .
 fileland.eu CNAME .
 *.fileland.eu CNAME .
-filmsenzalimiti.eu CNAME .
-*.filmsenzalimiti.eu CNAME .
 freecztorrent.eu CNAME .
 *.freecztorrent.eu CNAME .
 gamecopyworld.eu CNAME .
@@ -29536,8 +29528,6 @@ fitgirlrepacks.org CNAME .
 *.fitgirlrepacks.org CNAME .
 flixhd.org CNAME .
 *.flixhd.org CNAME .
-flixmomo.org CNAME .
-*.flixmomo.org CNAME .
 flixmomoo.org CNAME .
 *.flixmomoo.org CNAME .
 flixtor.org CNAME .

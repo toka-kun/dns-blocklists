@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Jun 2026 22:37 UTC
-# Version: 2026.0603.2237.56
+# Last modified: 04 Jun 2026 01:21 UTC
+# Version: 2026.0604.0121.25
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 17191
+# Number of entries: 17187
 #
 *.ss.0001.xyz
 *.ilovethiswebsite.001-lab.space
@@ -3302,7 +3302,6 @@
 *.xcomvpn-7000b-default-rtdb.firebaseio.com
 *.fpn.firefox.com
 *.testpilot.firefox.com
-*.home.firetiresinc.com
 *.food.fit-tw.com
 *.voidbyvcsa.fit-tw.com
 *.chart.books.fivepals.com
@@ -3322,7 +3321,6 @@
 *.dns.flux24.net
 *.www-proxy.fluxis.xyz
 *.notdominospizzeria.fluxus.org
-*.officialcepheusx.fluxus.org
 *.dns.flwagners.com
 *.dns.flyer.vn
 *.dns.flymc.cc
@@ -3380,7 +3378,6 @@
 *.studioai.freeddns.org
 *.tycoonisthebest.freeddns.uk
 *.hebe.freedynamicdns.org
-*.atom.area.freemath.ch
 *.dns.freemyemail.com
 *.walhalla.freemyip.com
 *.wg-aghome.freemyip.com
@@ -10398,7 +10395,6 @@
 *.fineproxy.org
 *.finevpn.org
 *.finishinstal.com
-*.finobe2.pw
 *.finquest.work
 *.fireprox.net
 *.firevpnapp.com

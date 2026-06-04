@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Jun 2026 22:30 UTC
-# Version: 2026.0603.2230.04
+# Last modified: 04 Jun 2026 01:12 UTC
+# Version: 2026.0604.0112.26
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 54184
+# Number of entries: 54171
 #
 *.web-119bet-2025-google-vip-119bet.119-hello.com
 *.web-166betcom-vip-166betcc-166betvip-2025fa-east1.166tiger.com
@@ -26507,8 +26507,6 @@
 *.fenix-slots333.casino
 *.fenix-slots7.casino
 *.fenix-slots777.casino
-*.fenix145.casino
-*.fenix146.casino
 *.fenix31.casino
 *.fenix42casino.com
 *.fenix54.casino
@@ -26529,7 +26527,6 @@
 *.fesapoker.com
 *.fesapoker.online
 *.fespm.org
-*.festacasinos.com
 *.feuxcasinolacleamy.ca
 *.fez-betcasino.fr
 *.fezbet.com
@@ -26578,7 +26575,6 @@
 *.filmcasino.at
 *.fin444.live
 *.finasteridehr.com
-*.finasteridep.com
 *.findacasinohost.com
 *.findandselect.com
 *.finder-poker.com
@@ -26623,16 +26619,13 @@
 *.five88.vin
 *.five88s.casino
 *.fivebet.it
-*.fivesalive.org
 *.fivipoker.com
 *.fixbet1.net
 *.fixbet99.com
-*.fixbetcasino2026.icu
 *.fixed-matches.info
 *.fixedmatches.win
 *.fixedmatchescorrectscore.com
 *.fizcasino-be.com
-*.fizikevreni.com
 *.fj-japan.org
 *.fj038u3.com
 *.fjt.casino
@@ -26843,7 +26836,6 @@
 *.fourwindscasinodowagiac.com
 *.fourwindscasinohartford.com
 *.foxbet.com
-*.foxcaptureplan.net
 *.foxcasino.click
 *.foxespg.com
 *.foxslots.com
@@ -26889,7 +26881,6 @@
 *.francecasinodesk.com
 *.francegalop-live.com
 *.francellacasino.com
-*.francomsolutions.com
 *.frank-casino.ch
 *.frank-casino.info
 *.frank-casino.ltd
@@ -26903,7 +26894,6 @@
 *.frankcasinoonline.ca
 *.frankclubcasino.com
 *.frankfred.com
-*.frankiecatpdx.com
 *.franzcasinos-site.com
 *.frb.casino
 *.freakcasino.ca
@@ -26929,7 +26919,6 @@
 *.free100casino.click
 *.free50.casino
 *.freebet.casino
-*.freebetchipscasino.com
 *.freebets.com
 *.freebets.id
 *.freebets.surf
@@ -26948,7 +26937,6 @@
 *.freedomcasino-online.com
 *.freeextrachips.com
 *.freegtopokerrange.com
-*.freejackportslotx.com
 *.freelotterynetwork.com
 *.freeneo.io
 *.freenodepositbonuscasino.ca
@@ -26977,7 +26965,6 @@
 *.freespinx.com
 *.freespinz.com
 *.freesupertips.com
-*.freetibetshirts.com
 *.freiheitplus.de
 *.freiheitstraum.com
 *.frenchcasino.net

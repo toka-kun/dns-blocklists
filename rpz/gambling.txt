@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780525560 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780535340 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Jun 2026 22:26 UTC
-; Version: 2026.0603.2226.27
+; Last modified: 04 Jun 2026 01:09 UTC
+; Version: 2026.0604.0109.45
 ; Syntax: RPZ
-; Number of entries: 450134
+; Number of entries: 450064
 ;
 1xbet.ac CNAME .
 *.1xbet.ac CNAME .
@@ -31298,12 +31298,6 @@ fenix01.casino CNAME .
 *.fenix01.casino CNAME .
 fenix1305.casino CNAME .
 *.fenix1305.casino CNAME .
-fenix138.casino CNAME .
-*.fenix138.casino CNAME .
-fenix145.casino CNAME .
-*.fenix145.casino CNAME .
-fenix146.casino CNAME .
-*.fenix146.casino CNAME .
 fenix18.casino CNAME .
 *.fenix18.casino CNAME .
 fenix19.casino CNAME .
@@ -188120,8 +188114,6 @@ ferrispg.com CNAME .
 *.ferrispg.com CNAME .
 fesapoker.com CNAME .
 *.fesapoker.com CNAME .
-festacasinos.com CNAME .
-*.festacasinos.com CNAME .
 festafp.com CNAME .
 *.festafp.com CNAME .
 festivalplay.com CNAME .
@@ -188628,8 +188620,6 @@ financialmodelingguide.com CNAME .
 *.financialmodelingguide.com CNAME .
 finasteridehr.com CNAME .
 *.finasteridehr.com CNAME .
-finasteridep.com CNAME .
-*.finasteridep.com CNAME .
 fincamassolers.com CNAME .
 *.fincamassolers.com CNAME .
 fincluziv.com CNAME .
@@ -188790,8 +188780,6 @@ fiz-casino-australia.com CNAME .
 *.fiz-casino-australia.com CNAME .
 fizcasino-be.com CNAME .
 *.fizcasino-be.com CNAME .
-fizikevreni.com CNAME .
-*.fizikevreni.com CNAME .
 fizslot.com CNAME .
 *.fizslot.com CNAME .
 fizzslots.com CNAME .
@@ -189886,8 +189874,6 @@ francegalop-live.com CNAME .
 *.francegalop-live.com CNAME .
 francellacasino.com CNAME .
 *.francellacasino.com CNAME .
-francomsolutions.com CNAME .
-*.francomsolutions.com CNAME .
 frankcasino.com CNAME .
 *.frankcasino.com CNAME .
 frankcasino-ca.com CNAME .
@@ -189898,8 +189884,6 @@ frankclubcasino.com CNAME .
 *.frankclubcasino.com CNAME .
 frankfred.com CNAME .
 *.frankfred.com CNAME .
-frankiecatpdx.com CNAME .
-*.frankiecatpdx.com CNAME .
 frankspizzeriaomaha.com CNAME .
 *.frankspizzeriaomaha.com CNAME .
 franzcasinos-site.com CNAME .
@@ -189930,8 +189914,6 @@ freddyvegas.com CNAME .
 *.freddyvegas.com CNAME .
 freddyvegascasino.com CNAME .
 *.freddyvegascasino.com CNAME .
-fredon-pokerplay.com CNAME .
-*.fredon-pokerplay.com CNAME .
 free-bet-blackjack-10.com CNAME .
 *.free-bet-blackjack-10.com CNAME .
 free-bet-blackjack-4.com CNAME .
@@ -189976,8 +189958,6 @@ free88game.com CNAME .
 *.free88game.com CNAME .
 freebetcasinobet.com CNAME .
 *.freebetcasinobet.com CNAME .
-freebetchipscasino.com CNAME .
-*.freebetchipscasino.com CNAME .
 freebets.com CNAME .
 *.freebets.com CNAME .
 freebets40k.com CNAME .
@@ -190036,8 +190016,6 @@ freegtopokerrange.com CNAME .
 *.freegtopokerrange.com CNAME .
 casinoinform.freehomepage.com CNAME .
 *.casinoinform.freehomepage.com CNAME .
-freejackportslotx.com CNAME .
-*.freejackportslotx.com CNAME .
 freelotterynetwork.com CNAME .
 *.freelotterynetwork.com CNAME .
 daftarsbobet.freeoda.com CNAME .
@@ -190114,8 +190092,6 @@ freesupertips.com CNAME .
 *.freesupertips.com CNAME .
 freesweepcoins.com CNAME .
 *.freesweepcoins.com CNAME .
-freetibetshirts.com CNAME .
-*.freetibetshirts.com CNAME .
 freetrendz.com CNAME .
 *.freetrendz.com CNAME .
 freiheitstraum.com CNAME .
@@ -190758,8 +190734,6 @@ fs7788.com CNAME .
 *.fs7788.com CNAME .
 fs7999.com CNAME .
 *.fs7999.com CNAME .
-fs8788.com CNAME .
-*.fs8788.com CNAME .
 fs99mb.com CNAME .
 *.fs99mb.com CNAME .
 fsbetcasinovip.com CNAME .
@@ -190780,8 +190754,6 @@ fscore-vn.com CNAME .
 *.fscore-vn.com CNAME .
 fse281.com CNAME .
 *.fse281.com CNAME .
-fsfi-questionnaire.com CNAME .
-*.fsfi-questionnaire.com CNAME .
 fsl11.com CNAME .
 *.fsl11.com CNAME .
 fspproperty.com CNAME .
@@ -311580,14 +311552,10 @@ fernsehlotterie.de CNAME .
 *.fernsehlotterie.de CNAME .
 fg-fox-casino.de CNAME .
 *.fg-fox-casino.de CNAME .
-fieryplaycasinos.de CNAME .
-*.fieryplaycasinos.de CNAME .
 fightclubcasino.de CNAME .
 *.fightclubcasino.de CNAME .
 flagmancasino.de CNAME .
 *.flagmancasino.de CNAME .
-flaxcasino.de CNAME .
-*.flaxcasino.de CNAME .
 fleetlinknow.de CNAME .
 *.fleetlinknow.de CNAME .
 flexepin-casino.de CNAME .
@@ -317464,8 +317432,6 @@ jeux.casino.en.ligne.free.fr CNAME .
 *.jeux.casino.en.ligne.free.fr CNAME .
 roulette45.free.fr CNAME .
 *.roulette45.free.fr CNAME .
-freebetcasino.fr CNAME .
-*.freebetcasino.fr CNAME .
 fresh-bet.fr CNAME .
 *.fresh-bet.fr CNAME .
 friendbet.fr CNAME .
@@ -323012,10 +322978,6 @@ enter-boostwincasino.icu CNAME .
 *.enter-boostwincasino.icu CNAME .
 esascasinoguncel.icu CNAME .
 *.esascasinoguncel.icu CNAME .
-fixbetcasino.icu CNAME .
-*.fixbetcasino.icu CNAME .
-fixbetcasino2026.icu CNAME .
-*.fixbetcasino2026.icu CNAME .
 fun4you.icu CNAME .
 *.fun4you.icu CNAME .
 funforyou.icu CNAME .
@@ -339208,8 +339170,6 @@ dewapokerslot.monster CNAME .
 *.dewapokerslot.monster CNAME .
 dragonmoney-casino.monster CNAME .
 *.dragonmoney-casino.monster CNAME .
-fortunica-casino.monster CNAME .
-*.fortunica-casino.monster CNAME .
 gasnirwanapoker.monster CNAME .
 *.gasnirwanapoker.monster CNAME .
 hypeslots.monster CNAME .
@@ -347034,8 +346994,6 @@ fourbets.net CNAME .
 *.fourbets.net CNAME .
 fox689.net CNAME .
 *.fox689.net CNAME .
-foxcaptureplan.net CNAME .
-*.foxcaptureplan.net CNAME .
 foxslots-de.net CNAME .
 *.foxslots-de.net CNAME .
 foxy-gold-casino.net CNAME .
@@ -367450,8 +367408,6 @@ fishboomcasino.org CNAME .
 *.fishboomcasino.org CNAME .
 fitzgeraldinsaintpaul.org CNAME .
 *.fitzgeraldinsaintpaul.org CNAME .
-fivesalive.org CNAME .
-*.fivesalive.org CNAME .
 fj-japan.org CNAME .
 *.fj-japan.org CNAME .
 flagmancasino1.org CNAME .
@@ -367530,8 +367486,6 @@ freddiescasino.org CNAME .
 *.freddiescasino.org CNAME .
 free-casino-game.org CNAME .
 *.free-casino-game.org CNAME .
-free-casino-slots.org CNAME .
-*.free-casino-slots.org CNAME .
 freebet168.org CNAME .
 *.freebet168.org CNAME .
 freebets40k.org CNAME .
@@ -376340,28 +376294,12 @@ flagman-casino-oficjalny.pl CNAME .
 *.flagman-casino-oficjalny.pl CNAME .
 fleetcor.pl CNAME .
 *.fleetcor.pl CNAME .
-flushcasino.pl CNAME .
-*.flushcasino.pl CNAME .
 forexopinia.pl CNAME .
 *.forexopinia.pl CNAME .
 forexyestrader.pl CNAME .
 *.forexyestrader.pl CNAME .
 fortunacasino-pl.pl CNAME .
 *.fortunacasino-pl.pl CNAME .
-fortuneplaycasino.pl CNAME .
-*.fortuneplaycasino.pl CNAME .
-foxy-casino.pl CNAME .
-*.foxy-casino.pl CNAME .
-foxycasino.pl CNAME .
-*.foxycasino.pl CNAME .
-foxygold-casino.pl CNAME .
-*.foxygold-casino.pl CNAME .
-freespinz-casino.pl CNAME .
-*.freespinz-casino.pl CNAME .
-freespinzcasino.pl CNAME .
-*.freespinzcasino.pl CNAME .
-friendscasino.pl CNAME .
-*.friendscasino.pl CNAME .
 frumzi-casino-oficjalny.pl CNAME .
 *.frumzi-casino-oficjalny.pl CNAME .
 fscasino1.pl CNAME .
@@ -394644,8 +394582,6 @@ formcasino.store CNAME .
 *.formcasino.store CNAME .
 fortunebaycasinoa.store CNAME .
 *.fortunebaycasinoa.store CNAME .
-france-play.store CNAME .
-*.france-play.store CNAME .
 fresh-casino-ru.store CNAME .
 *.fresh-casino-ru.store CNAME .
 fresh-ru-casino.store CNAME .
@@ -416756,8 +416692,6 @@ gammacasino-kao.top CNAME .
 *.gammacasino-kao.top CNAME .
 ganaencasa-casino.top CNAME .
 *.ganaencasa-casino.top CNAME .
-gca.top CNAME .
-*.gca.top CNAME .
 getslots.top CNAME .
 *.getslots.top CNAME .
 getx-casino-go0t6.top CNAME .
@@ -435806,8 +435740,6 @@ ffnncasino.vip CNAME .
 *.ffnncasino.vip CNAME .
 fg52.vip CNAME .
 *.fg52.vip CNAME .
-dawdes.fgerfdd858.vip CNAME .
-*.dawdes.fgerfdd858.vip CNAME .
 fi88.vip CNAME .
 *.fi88.vip CNAME .
 filiplay.vip CNAME .
@@ -446364,8 +446296,6 @@ fenix-casino-fs.xyz CNAME .
 *.fenix-casino-fs.xyz CNAME .
 fevercasino.xyz CNAME .
 *.fevercasino.xyz CNAME .
-dafeedws.ffsdfsd874fsdf.xyz CNAME .
-*.dafeedws.ffsdfsd874fsdf.xyz CNAME .
 fg777.xyz CNAME .
 *.fg777.xyz CNAME .
 fishwin.xyz CNAME .

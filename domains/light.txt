@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Jun 2026 22:11 UTC
-# Version: 2026.0603.2211.36
+# Last modified: 04 Jun 2026 00:57 UTC
+# Version: 2026.0604.0057.05
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 164503
+# Number of entries: 164438
 #
 0.beer
 www.0.beer
@@ -289,6 +289,7 @@ analytics.11bits.com
 iqmetrics.11freunde.de
 sams.11freunde.de
 utiq.11freunde.de
+11labxb.buzz
 plausible.11x.agency
 11x11.com
 www.11x11.com
@@ -948,6 +949,7 @@ cdn.254a.com
 261995coinbase.com
 8c3b304488.262bdc3a5d.com
 3e8740c262.264b0a99f6.com
+265927coinbase.com
 266o97nhwfw3nt.rest
 268b0a7beb360819.com
 9c998d0309.26a840907b.com
@@ -5596,7 +5598,6 @@ view.atdmt.com.26812.9201.302br.net
 30ac0ff61a531939.com
 acdbc409c2.30c774812d.com
 30dcf.com
-30ea3091fb.com
 30m4hpei1.de
 30pk41r1i.de
 30se9p8a0.de
@@ -6672,6 +6673,7 @@ c418cb406d.5c536d71ba.com
 5da87858e10fdfde.com
 2f0bf9baae.5dede791d0.com
 5dhnv8.ru
+5e0e460f204a.xyz
 5e14ab617d.com
 5e1jng5u4lfi5i9qqi.rest
 5e2bb252cb37a070.top
@@ -6977,6 +6979,7 @@ ads.7awi.com
 b0abd8dd4e.7b13d552d3.com
 7b164b668f3c125c.cc
 7b30ff9afc9bd5d8.cc
+7b550a813370.top
 48a80df821.7b6c81b4c2.com
 7b86a28d023f.top
 7b9ce865c01e.top
@@ -7039,6 +7042,7 @@ ad.800801.xyz
 9f3f0241c6.812f3647c3.com
 81806758327ac951.com
 818b4b7a52ca.top
+8203bd081d56.top
 8219jtascdlwmwxnrar.com
 8236f6c5dfd1.top
 82a2ddf6d1055a31.com
@@ -7113,6 +7117,7 @@ xfile2.a.88cdn.com
 88lmfff666.com
 88p2p.com
 www.88p2p.com
+8939d5a091ef.top
 42fe39c815.895028f35e.com
 m.89cb3ribpmg8up6nzfgw92h.cfd
 89cyz5w26gf4k3f2r23u8ofijcxvq8wy.cfd
@@ -7190,6 +7195,7 @@ track.91app.io
 91hlaox.wiki
 91hlii.cc
 91jingpin3.wiki
+91shipmfk.wiki
 91toolbox.com
 91tuanhua1.wiki
 922109eb525f.top
@@ -7231,6 +7237,7 @@ analytics.95516.com
 974899203274521.shop
 977d6b20d360.top
 977f50d1d57f.xyz
+978053482c2d.top
 9796ac321a45e20d.top
 97vk351gi.com
 9800.com
@@ -7248,6 +7255,7 @@ plausible3.987cdn.com
 98cb3d311ae4.top
 98dd4f738e95.xyz
 991.com
+991306678b4d.top
 994008ee8ffbf470.com
 99892220ca.com
 6b35e006cb.99892220ca.com
@@ -7388,7 +7396,6 @@ metrics.a2a.it
 insights.mtv.a2d.tv
 insights.tv4.a2d.tv
 a2dfp.net
-a2e5b82fea.com
 advertising.a2z.com
 jetstream.advertising.a2z.com
 skyedge.jetstream.advertising.a2z.com
@@ -7823,6 +7830,7 @@ acceptancedishearten.com
 acceptguide.com
 acces-renovacion-net.com
 acces55113176.pro
+acces5716509.pro
 acces5716604.pro
 acces5716699.pro
 acces5716725.pro
@@ -7838,6 +7846,7 @@ acces843990.pro
 acces844013.pro
 acces844036.pro
 acces844059.pro
+acces844312.pro
 acces845013.pro
 acces845036.pro
 acces845059.pro
@@ -35342,7 +35351,6 @@ analytics.autodo.eu
 sgtm.autods.com
 metrics.autodude.fi
 analytics.autofixer.it
-autoflowlending.top
 analytics.autogo.ai
 metrics.autohaus-tabor.de
 autoid.com
@@ -35972,6 +35980,7 @@ b34fdbe934.com
 b381d98c740b.top
 b3953dfb4c.com
 b3ac22e8607f.top
+b3f91f2a11e5.top
 9z9bl1yhp3t.b3juuqn64of6fx12x81ipcw.cfd
 b3mxnuvcer.com
 api.b3mxnuvcer.com
@@ -35980,6 +35989,7 @@ plausible.b3n.org
 905127b34f.b40d52efb7.com
 b42rracj.com
 b4363f05f6130eff.top
+b449b2030d60.top
 b455afe47032cce3.com
 b460e69264e34019.top
 8e421344f8.b4c73f11d0.com
@@ -36694,6 +36704,7 @@ ecmb.bdimg.com
 su.bdimg.com
 matomo.bdkj-m.de
 bdll55113248.pro
+bdll5716542.pro
 bdll5716591.pro
 bdll5716663.pro
 bdll5716686.pro
@@ -37023,7 +37034,6 @@ cdn.bescore.com
 sl5.cdn.bescore.com
 z.cdn.bescore.com
 beseechprose.com
-besidesdeals.garden
 besideunderstatement.com
 ct.beslist.nl
 besmeargleor.com
@@ -39641,7 +39651,6 @@ bugaruche.com
 bugleczmoidgxo.com
 buglick.com
 bugmenot.site
-bugongpestify.shop
 bugpuk.ru
 bugrtriveli.com
 tracking.buhl.de
@@ -40706,9 +40715,6 @@ cartbooster.io
 api.cartbooster.io
 s.cartbooster.io
 cartbuy.shop
-carte-grise.org
-client.carte-grise.org
-www.carte-grise.org
 cartendi.shop
 alzns.carters.com
 smetrics.carters.com
@@ -51536,6 +51542,7 @@ dd1xbevqx.com
 dd26633813.com
 dd4ae657f422.top
 dd5f41562998.top
+dd81bp3qbj.com
 dd9955b600a0c9d8.com
 matomo.dda-web.de
 matrix.dda649ba4ee6089d743cc1197655c49e.ovh
@@ -53436,6 +53443,7 @@ dire5723566.pro
 dire843959.pro
 dire844005.pro
 dire844051.pro
+dire844258.pro
 dire845005.pro
 dire845028.pro
 dire847258.pro
@@ -53463,6 +53471,7 @@ direcompulsion.com
 direct-promo.pro
 ssa.direct-running.fr
 direct-specific.com
+direct5716545.pro
 direct5716689.pro
 direct5718545.pro
 direct844026.pro
@@ -53894,6 +53903,7 @@ docu55113175.pro
 docu55113215.pro
 docu55114195.pro
 docu55114215.pro
+docu5716554.pro
 docu5716626.pro
 docu5716747.pro
 docu5716770.pro
@@ -64904,7 +64914,6 @@ analytics.fcrtech.cz
 fcryingforanythin.org
 fcs.ovh
 counter1.fcs.ovh
-fcwywivfwbtwq.online
 fcxuvcwajfrhp.space
 fcyqtswhca.com
 static.fd-api.com
@@ -64913,7 +64922,6 @@ fd5237eac5.com
 fdatajsext.com
 analytics.fddb.info
 fdecldrmyy.com
-fdgxlxqixtjbs.website
 arcus.fdm.pl
 www.fdpqgljmw.com
 fe2153dccff3.top
@@ -64982,7 +64990,6 @@ analytics.felidata.com
 analytics.felinaworld.com
 felira.de
 ads.fell.pl
-fellasntz.cyou
 fellfortunatepassive.com
 felllilyforegoing.com
 cberj.fellowproducts.com
@@ -65031,7 +65038,6 @@ collect.feriepartner.dk
 load.collect.feriepartner.de
 ferlagimo.com
 fermataintima.com
-fermeocimu.cyou
 analytics.fernblick-montafon.at
 fernsoc.com
 ferntravelleddeduct.com
@@ -65083,7 +65089,6 @@ ff130a997b0c.top
 ff232bb9b62f.top
 ff2528e9d8.com
 ff4215f94a52e261.top
-ff5dyq.lat
 ffajhxmenny.com
 ffb7df5a878b59e42e257c042f54bed2.com
 amd-cdn-1.ffb7df5a878b59e42e257c042f54bed2.com
@@ -65103,7 +65108,6 @@ ffgekaon.com
 analytics.ffh.de
 fflashsalee.shop
 www.ffldrovx.com
-fflow.sbs
 ffmrjoozzcusv.online
 ffswpoqugbwhn.com
 www.ffswpoqugbwhn.com
@@ -65127,7 +65131,6 @@ fgqxcrpyhuw.com
 www.fgqxcrpyhuw.com
 analytics.fgr.design
 fgsuxvboquxjg.website
-fgvlives.xyz
 fgwuw.com
 fgyzgcbaz.com
 www.fgyzgcbaz.com
@@ -65135,7 +65138,6 @@ stats.fh-aachen.de
 ad.fh-bielefeld.de
 analytics.fh-dortmund.de
 fh-dxy.com
-www.fh-dxy.com
 fh-wgt.com
 fhbby.com
 stats.fheidenreich.de
@@ -65151,7 +65153,6 @@ www.fhktjawlsvng.com
 fhphtzpznhgen.website
 fhpxjbryxqwoak.com
 www.fhpxjbryxqwoak.com
-fhsltfdyjryrr.website
 fhvfd.com
 fhyovqstoa.in
 www.fhyovqstoa.in
@@ -65161,7 +65162,6 @@ smetrics.fiatusa.com
 matomo.fiber.nl
 plausible.fiberbridge-photonics.com
 plausible.fibra.click
-fibresv-online.top
 fibrincdrstroud.cfd
 analytics.fibwatch.com
 analytics.fichtelapp.de
@@ -65187,7 +65187,6 @@ analytics-api.fieldmann.hu
 ssgtm.fields.ie
 curated.fieldtest.cc
 fierovaltrix-app.com
-fieryinjure.com
 sgtm.fietssport.nl
 smetrics.fifa.com
 fifasa.shop
@@ -65197,7 +65196,6 @@ visitor.fiftyt.com
 matomo.fify.services
 figaroweb.com
 figgierfalashalav.cyou
-fighpl.shop
 fightershop.shop
 fightershop-pl.shop
 t.fightingillini.com
@@ -65259,7 +65257,6 @@ analytics.filmspiegel-essen.de
 tracking.filmtheaterbetriebe.de
 analytics.filoxenia.es
 filser.pl
-filteredpath.buzz
 filterjavgg124.fun
 filthybudget.com
 filthygracefulspinach.com
@@ -65276,29 +65273,6 @@ finallymidwife.com
 matomo.finam.ru
 elqtracking.finance.si
 analytics.finance-information.net
-finance91-est65.sbs
-finance91-reprehenderit57.sbs
-finance91-vel60.sbs
-finance92-aperiam82.pro
-finance92-itaque15.sbs
-finance93-voluptas4.sbs
-finance94-eum51.sbs
-finance94-omnis97.sbs
-finance94-tenetur34.sbs
-finance95-praesentium5.sbs
-finance95-similique83.sbs
-finance96-nihil10.sbs
-finance96-occaecati19.sbs
-finance96-omnis28.sbs
-finance96-placeat76.pro
-finance96-quas98.sbs
-finance96-voluptatem43.sbs
-finance98-molestiae55.pro
-finance98-repudiandae38.pro
-finance98-sed1.pro
-finance99-assumenda73.sbs
-finance99-aut14.pro
-finance99-sint7.sbs
 comparison.financeads.net
 financephantom-app.com
 financialgobetweendancer.com
@@ -65386,7 +65360,6 @@ iwallet-sg.finosfin.com
 analytics.finqu.com
 ads.finradar.ro
 finreporter.net
-finroute.site
 fintelconnect.com
 api.fintelconnect.com
 app.fintelconnect.com
@@ -65404,7 +65377,6 @@ affiliate-script-pr.firebaseapp.com
 wix-engage-visitors-prod-6.firebaseio.com
 firecracks.com
 analytics.firefly-iii.org
-firepdisum.cyou
 fireshieldit.com
 ext.fireshieldit.com
 analytics.firespring.com
@@ -65459,7 +65431,6 @@ fishymonster.com
 matomo-stable.tools.fiskal.cloud
 fisrvxjcynyi.com
 sst.fissler.com
-fistucornf.cyou
 collector.fitanalytics.com
 collector-de.fitanalytics.com
 integrations.fitanalytics.com
@@ -65495,7 +65466,6 @@ matomo.fiveco.de
 analytics.fivemx.com
 activity.fiverr.com
 relay.fiverr.com
-fiverrclienti.pro
 events.fivetran.com
 fiwmmoktabnql.com
 8kx9cu.fix49c51ngekigr8n.cfd
@@ -65534,7 +65504,6 @@ fjtayjvufiu.com
 fjtlj.com
 fju2pj8y65w1cujl8n8qupp.cfd
 fjwyfxmhv.com
-fjzxypsusfxaa.space
 fk5lv2qyqoclnk.rest
 fkaffiadcn.com
 matomo.fkardame.com
@@ -65547,7 +65516,6 @@ fklrutvpehpwi.com
 www.fklrutvpehpwi.com
 fkm.asia
 matomo.fkn-service.de
-fkrpokwwkwpiq.space
 fksnk.com
 matomo.fkt-deutsch.de
 fktopau.com
@@ -65611,7 +65579,6 @@ flashedmarliarmsize.qpon
 tag.eu.flashforge.com
 flashis-lordfilm.ru
 flashnetic.com
-flashobmen.net
 ad-events.flashtalking.com
 adstudio-asset-lib.flashtalking.com
 cdn.flashtalking.com
@@ -65644,7 +65611,6 @@ ads.flatastic-app.com
 analytics.flatex.at
 analytics.flatex.de
 flatjeep.com
-gtm.flatmatch.de
 flatrate.dk
 analytics.flayks.com
 matomo.flaywer.de
@@ -65697,7 +65663,6 @@ pla-tk.flipkart.net
 fliplineads.com
 www.fliplineads.com
 flipofferdeals.online
-analytics.flipp.dev
 countly.flipp.dev
 metric.flipp.dev
 flippantpoetry.com
@@ -65722,7 +65687,6 @@ media.flixcar.com
 flixfacts.com
 media.flixfacts.com
 flixfiend.top
-posthog.flixier.xyz
 flixsyndication.net
 media.flixsyndication.net
 flixtrial.com
@@ -65733,13 +65697,10 @@ sgtm.float-stuttgart.de
 floatercarcangruffed.qpon
 floatersooted.shop
 floatjav09212026.shop
-floccniche.cyou
-flocker.life
 stats-api.flockler.app
 api.flocktory.com
 beeline.api.flocktory.com
 sp.flocktory.com
-flockzlot24.cfd
 analytics.flohmarktheld.de
 floitcarites.com
 flokii.us
@@ -65812,7 +65773,6 @@ esfdrprn00.ad.fluidra.com
 esfsalt8cyk924.ad.fluidra.com
 esidefs01.ad.fluidra.com
 glfdradro.ad.fluidra.com
-fluidrecon.cyou
 fluidsurveys.com
 metrics.flunch.fr
 stats.fluorescent.co
@@ -65914,14 +65874,11 @@ smetrics.fnac.ch
 smetrics.fnac.com
 smetrics.fnac.es
 smetrics.fnac.pt
-fncashout.top
-fncost.cfd
 fndofj.icu
 fndrsp.net
 link.fndrsp.net
 fndscofkesznb.online
 fnnnmmaqihint.site
-fnplay.icu
 fnrarity.xin
 fnyfeds.com
 api2.fnyfeds.com
@@ -65945,7 +65902,6 @@ js.focas.jp
 sync-axelmark-dsp.focas.jp
 targeting.focas.jp
 focgarpl.shop
-focheglyzy.com
 focount.shop
 adv-sv-show.focus.cn
 kzsicw.focus.de
@@ -65955,14 +65911,8 @@ focusgapl.club
 focusgar.shop
 focusgarde.shop
 focusgarden.club
-focusgarden.top
-focusgarden-pl.club
 focusgarden-pl.shop
-focusgardengb.shop
-focusgardenpl.club
-focusgardenpl.shop
 focusgardenshop.club
-focusufo.top
 fodsoack.com
 foehnsstomium.cfd
 foerpo.com
@@ -65970,7 +65920,6 @@ click.eu.foerpo.com
 matomo.fof.se
 fofjptsojq.com
 foflf.com
-fogdarzloti24.cfd
 foggymorningmist.com
 4j6w6e.foggymorningmist.com
 foghug.site
@@ -65988,7 +65937,6 @@ fojfrrpwyvlhq.website
 www.fokhsrsoqmogt.com
 fokpl.shop
 foldclankcelery.com
-foldedaddress.com
 facemap.foldlife.net
 analytics.foleon.com
 cdn.analytics.foleon.com
@@ -66008,8 +65956,6 @@ fondleaegipan.shop
 stats.fonecta.fi
 fongumporg.net
 smetrics.fonic.de
-sgtm.fonq.be
-sgtm.fonq.nl
 fontancasino-online.de
 kt1pq.fontediluce.it
 load.kt1pq.fontediluce.it
@@ -66054,7 +66000,6 @@ analytics.footshop.com
 analytics.footshop.hu
 analytics.footshop.pl
 analytics.footshop.ro
-fopeninads.shop
 fopperylockful.qpon
 foppingnimsfatuism.cfd
 analytics.for.sap
@@ -66115,6 +66060,7 @@ form55113193.pro
 form55113233.pro
 form55114193.pro
 form5714572.pro
+form5716572.pro
 form5716578.pro
 form5716650.pro
 form5716745.pro
@@ -66130,6 +66076,7 @@ form843987.pro
 form844010.pro
 form844033.pro
 form844125.pro
+form844240.pro
 form845010.pro
 form845033.pro
 form845056.pro
@@ -66171,7 +66118,6 @@ plausible.formulacountdown.com
 formulead.com
 formulearchin.com
 fe.formulearchin.com
-formumedes.cyou
 analytics.formwandler-interactive.com
 fornelaonelyx.net
 fororbitals.com
@@ -66179,7 +66125,6 @@ webstats.forsakringskassan.se
 forscprts.com
 u328.forssanlehti.fi
 forstbetriebstarkholz.de
-fort67.com
 fortaspiretalen.com
 matomo.fortbildung-bw.de
 cdn3.forter.com
@@ -66193,16 +66138,12 @@ www.forthright-photo.com
 lantern.fortinet.com
 metrics.fortinet.com
 fortissio.com
-fortlax.top
-fortloon.com
 tracking.fortnite.com
-fortniteprime.live
 fortpush.com
 fortrade.com
 authfe.fortrade.com
 ready.fortrade.com
 www.fortrade.com
-fortrating.top
 fortt-rade.com
 gtm.fortum.com
 fortunamor.com
@@ -66210,7 +66151,6 @@ fortunateambiguous.com
 fortune-gate-open.com
 fortune-koun.jp
 fortune-moon.net
-fortup.shop
 fortvision.com
 fb.fortvision.com
 foruftuiov.com
@@ -66231,7 +66171,6 @@ fossealible.cfd
 gtm.fossil.com
 rybbit.fossorial.io
 fosvicfniswpan.com
-matomo.foteldlazdrowia.pl
 analytics.fotoexamen.com
 analytics.fotofabriek.nl
 matomo.fotografosbarcelona.eu
@@ -66388,7 +66327,6 @@ mon11-misc-lf.fqnovel.com
 mon11-misc-lq.fqnovel.com
 mon3-misc-lf.fqnovel.com
 rtlog5-applog-lf.fqnovel.com
-fqnyfuszrqnlo.website
 fqouogxdldwmo.com
 www.fqrukpjaahukp.com
 fqtag.com
@@ -66397,8 +66335,6 @@ c.fqtag.com
 cdn.fqtag.com
 fqtzvqeurmrrb.space
 www.fqu2hs2d.com
-fqueqirlursft.site
-fquymfkcflnkn.space
 kzmcr.fqwm8ppl3ykixptyn1e8qhykiv1.cfd
 utiq.fr.de
 fr-cresus.fr
@@ -66549,7 +66485,6 @@ freewebtown.com
 freewheel.com
 www.freewheel.com
 plausible.freeyourmusic.com
-fregijawcr.cyou
 matomo.freibad-dornberg.de
 stats.freiburg.lgbt
 piwik.freifunk.net
@@ -66623,7 +66558,6 @@ fretes.online
 dcclaa.freundin.de
 utiq.freundin.de
 frhiys.com
-friarsvizi.cyou
 piwik.frida-frankfurt.de
 analytics.fridayparts.com
 fridayrefractscorer.com
@@ -66695,8 +66629,6 @@ frumzi-en-ligne.fr
 frumzi-enligne.fr
 fruqu.com
 frustratingimmersedoubtless.com
-fruttsfruc.cyou
-frxchallengerz.pro
 frxkzkvngmjht.online
 fryboldlymalice.com
 analytics.fryd.dev
@@ -66704,7 +66636,6 @@ fs-loader.com
 fsalfrwdr.com
 fsben.com
 fscxctfrt.com
-fsdxhpfpkccrk.site
 piwik.fsf.org
 piwik.fsnd.info
 fspark-ap.com
@@ -66727,13 +66658,11 @@ f6.cdn.ftd.agency
 f7.cdn.ftd.agency
 f8.cdn.ftd.agency
 z.cdn.ftd.agency
-ftdkksuxpaili.website
 fteenfa.cc
 ftjcfx.com
 www.ftjcfx.com
 ftlaunchpad.ai
 ftp21.cc
-ftretthovmzgu.online
 analytics.ftshp.be
 analytics.ftshp.de
 ftuapps.dev
@@ -95169,6 +95098,7 @@ adx30.imkoa.top
 adx31.imkoa.top
 adx32.imkoa.top
 imllsarrrcrw.com
+immediate-edge-reviews.info
 immediatelydoghead.com
 analytics.immedio.io
 immense-owner.com
@@ -99394,7 +99324,6 @@ s1.inte.net
 estadisticas.intef.es
 stats.integra.fr
 analytics-balancer.integra-games.com
-integratedshares.garden
 inteindwormer.com
 cane.intel.cn
 cane.intel.com
@@ -103993,7 +103922,6 @@ stats.kreuzfahrtstudio.de
 loader.kreuzwortraetsel.de
 krfad.com
 krfblnmo.living
-krgirls.beauty
 gr9594.kri45879oupj5plpcl.cfd
 matomo.kribbelbunt.de
 matomo.krick-interactive.com
@@ -106283,6 +106211,7 @@ loqnomgwbsiel.site
 loquna.com
 lordfilm2026cy.ru
 lordfilmcaddy.top
+lordfilms-gran.ru
 lordoftheentertainingostriches.com
 pips.lordoftheentertainingostriches.com
 pops.lordoftheentertainingostriches.com
@@ -106874,6 +106803,7 @@ fastlygeo.m32.media
 rdc.m32.media
 seg.m32.media
 m3h0da.ru
+m3v8x28jut.com
 m6groupee.fr
 m6r.eu
 cdn.m6r.eu
@@ -113264,6 +113194,8 @@ analytics.nianticlabs.com
 analytics.nianticspatial.com
 statistik.nibis.de
 niblewren.co
+niborad.makeup
+nd.niborad.makeup
 matomo.nic.cz
 piwik.nic.cz
 st.nic.ru
@@ -122878,6 +122810,7 @@ oblatasirex.com
 oblg5716598.pro
 oblg5720549.pro
 oblg844053.pro
+oblg844260.pro
 oblg847260.pro
 oblguhosmfif.com
 www.oblguhosmfif.com
@@ -123867,6 +123800,7 @@ ope5716849.pro
 ope5723515.pro
 ope5723581.pro
 ope844065.pro
+ope844295.pro
 ope845272.pro
 ope846042.pro
 ope847249.pro
@@ -125439,6 +125373,7 @@ p2yn.com
 p3lj34e33yz6ug5z.rest
 umami.p3terx.com
 p49o7e.ru
+p64752291.top
 p6hair9.hair
 p7cloud.net
 lal.p7cloud.net
@@ -126316,14 +126251,7 @@ utiq.pcgames.de
 jdgtgb.pcgameshardware.de
 utiq.pcgameshardware.de
 piwik.pcgamingwiki.com
-pchelpsoft.com
 analytic.pchelpsoft.com
-cdn.pchelpsoft.com
-cloud.pchelpsoft.com
-inapp.pchelpsoft.com
-offers.pchelpsoft.com
-store.pchelpsoft.com
-www.pchelpsoft.com
 sp.pcid.ca
 pcixo.com
 pcjiami.cn
@@ -131355,6 +131283,8 @@ ralphluarren.store
 ralt.site
 10.ram-server.com
 ram55114183.pro
+ram5716539.pro
+ram5716562.pro
 ram5716634.pro
 ram5716660.pro
 ram5716732.pro
@@ -131370,6 +131300,7 @@ ram843974.pro
 ram843997.pro
 ram844066.pro
 ram844135.pro
+ram844250.pro
 ram845020.pro
 ram845043.pro
 ram845250.pro
@@ -136828,8 +136759,6 @@ searchmagnified.com
 9145.searchmagnified.com
 searchmarketing.com
 tracking.searchmarketing.com
-searchmarquis.com
-www.searchmarquis.com
 pub.searchnova.net
 searchnowexpert.com
 searchpoweronline.com
@@ -143252,6 +143181,7 @@ logging.slm.ua
 oglasi.slo-tech.com
 tags.slobodnaevropa.org
 gem-log.sloegem.com
+slopepointlesstin.com
 sloshjackal.cyou
 slotclubcasino.com
 slotexoofficiel.fr
@@ -149413,6 +149343,7 @@ tjcr844001.pro
 tjcr844024.pro
 tjcr844047.pro
 tjcr844093.pro
+tjcr844254.pro
 tjcr845001.pro
 tjcr845024.pro
 tjcr845047.pro
@@ -149821,7 +149752,6 @@ toplist.sk
 ssl.toplist.cz
 www.toplist.cz
 www.toplist100.org
-topmongo.com
 topnews-24.com
 www.topnews-24.com
 topnewsource.com
@@ -150015,6 +149945,7 @@ sgtm.toverland.com
 townyomnist.shop
 towpywcf.com
 www.towpywcf.com
+toxauncouch.com
 toxsales1.com
 toxtren.com
 media.toxtren.com
@@ -152621,6 +152552,7 @@ cdn.ultraomelette.com
 engine.ultraomelette.com
 ultrapolyg.cyou
 tk.ultrapremiumdirect.com
+ultraprosavers.online
 ultrasoundpurchase.com
 ultravalid.com
 ululubaggie.cfd
@@ -153372,6 +153304,7 @@ urelanderpurg.org
 urest.org
 urge55113230.pro
 urge5714527.pro
+urge5716550.pro
 urge5716599.pro
 urge5716792.pro
 urge5716815.pro
@@ -154626,7 +154559,6 @@ leo.vic-m.co
 sa.vic-m.co
 static.vic-m.co
 analytics.vicariouscontent.com
-vicestory.bond
 vicesus.com
 vicksot.com
 s.vicksot.com
@@ -162207,6 +162139,7 @@ uss.xplosion.de
 analytics.xplusapp.org
 xportfreight.com
 xproductkey.com
+xpuaujrqdqvsk.website
 www.xpveyhwu.com
 xpwesthmfqphh.com
 www.xpwesthmfqphh.com
@@ -162660,6 +162593,7 @@ track.ybbserver.com
 ybeijwsoobkzf.space
 log.ybgaming777.net
 yotrack.cdn.ybn.io
+ybqamwkpwysoo.site
 ybs2ffs7v.com
 ybuxdlxyovu.com
 ybyxrjve.com
@@ -164036,6 +163970,7 @@ analytics.ziggyai.net
 survey.zigpoll.com
 zigzag.vn
 zigzagdrive.com
+zigzagplan.pro
 zihoosnuxdv.com
 www.zihoosnuxdv.com
 zijdzuarwvz.com

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Jun 2026 22:37 UTC
-# Version: 2026.0603.2237.56
+# Last modified: 04 Jun 2026 01:21 UTC
+# Version: 2026.0604.0121.25
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 17191
+# Number of entries: 17187
 #
 local=/ss.0001.xyz/
 local=/ilovethiswebsite.001-lab.space/
@@ -3302,7 +3302,6 @@ local=/robovpn-windows-default-rtdb.firebaseio.com/
 local=/xcomvpn-7000b-default-rtdb.firebaseio.com/
 local=/fpn.firefox.com/
 local=/testpilot.firefox.com/
-local=/home.firetiresinc.com/
 local=/food.fit-tw.com/
 local=/voidbyvcsa.fit-tw.com/
 local=/chart.books.fivepals.com/
@@ -3322,7 +3321,6 @@ local=/agh.fltn.us/
 local=/dns.flux24.net/
 local=/www-proxy.fluxis.xyz/
 local=/notdominospizzeria.fluxus.org/
-local=/officialcepheusx.fluxus.org/
 local=/dns.flwagners.com/
 local=/dns.flyer.vn/
 local=/dns.flymc.cc/
@@ -3380,7 +3378,6 @@ local=/songochain.freeddns.org/
 local=/studioai.freeddns.org/
 local=/tycoonisthebest.freeddns.uk/
 local=/hebe.freedynamicdns.org/
-local=/atom.area.freemath.ch/
 local=/dns.freemyemail.com/
 local=/walhalla.freemyip.com/
 local=/wg-aghome.freemyip.com/
@@ -10398,7 +10395,6 @@ local=/finchvpn.com/
 local=/fineproxy.org/
 local=/finevpn.org/
 local=/finishinstal.com/
-local=/finobe2.pw/
 local=/finquest.work/
 local=/fireprox.net/
 local=/firevpnapp.com/

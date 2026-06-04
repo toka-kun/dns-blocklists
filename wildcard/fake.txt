@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Jun 2026 21:39 UTC
-# Version: 2026.0603.2139.09
+# Last modified: 04 Jun 2026 00:26 UTC
+# Version: 2026.0604.0026.36
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 15927
+# Number of entries: 15911
 #
 *.trader.212group.de
 *.eu.2bagsvalley.cn
@@ -5071,7 +5071,6 @@
 *.festanlageprofi.net
 *.festberg.com
 *.festberg.de
-*.festberg-ace.de
 *.festeinkauf.de
 *.festgeld-finder.de
 *.festgeld-profis.de
@@ -5098,7 +5097,6 @@
 *.fibovest.com
 *.fichtenaumodehaus.de
 *.fideltylife.com
-*.fidemanlage.de
 *.fidsonline.org
 *.fiduciacarepartners.com
 *.fiduciaops.com
@@ -5131,7 +5129,6 @@
 *.financiere-haussmann.com
 *.financieredsbg.com
 *.financieres.com
-*.finanz-privat.com
 *.finanzarena.pro
 *.finanzasforex.com
 *.finanzenexpress.com
@@ -5194,7 +5191,6 @@
 *.fischermodemunchen.de
 *.fischerr.de
 *.fischerwarenhaus.com
-*.fischhandeln.de
 *.fishfoods.shop
 *.fishingjandh.com
 *.fishingonsales.com
@@ -5216,12 +5212,10 @@
 *.fitnessstilcom.com
 *.fitnesstillskott24.com
 *.fitnestar.de
-*.fitouthometool.com
 *.fitpro-shop.de
 *.fitselect.de
 *.fittergear.de
 *.fittingdiscount.com
-*.fiufiustore.com
 *.five-media011.com
 *.fivepillarstoken.com
 *.fivesixgroup.com
@@ -5244,13 +5238,10 @@
 *.flanneltoss.com
 *.flash-light.at
 *.flashangebote.com
-*.flashe.net
-*.flashofbeauty.com
 *.flashum.com
 *.flashy-tech.de
 *.flavourg.com
 *.flawlessshoes.com
-*.fleetcargodirect.com
 *.fleischfresser-holzbau.de
 *.fleshjacket.com
 *.flex-house.de
@@ -5259,7 +5250,6 @@
 *.flexioptions.com
 *.flexiworkde.works
 *.flextrader.co
-*.flextshire.com
 *.flidop.com
 *.fliegen-de.de
 *.flipeak.com
@@ -5333,7 +5323,6 @@
 *.footjoyoutletfactory.us
 *.footjoyoutletmexico.com
 *.footjoys.at
-*.footjoysaleaustralias.com
 *.footjoysuomi.com
 *.footvibe.de
 *.footwearpickleball.com
@@ -5343,7 +5332,6 @@
 *.fordogtrainers.de
 *.forealex.com
 *.foreseew.com
-*.forestseas.com
 *.forever21-us.com
 *.forevermarkt.de
 *.forextrada.com
@@ -5367,7 +5355,6 @@
 *.fortis-prime.com
 *.fortisgeschaft.com
 *.fortnitec.com
-*.fortniteplay.top
 *.fortunatecy.com
 *.fortunatelyt.com
 *.fortunaten.com
@@ -5380,7 +5367,6 @@
 *.foto-biering.de
 *.foto-mundus-sued.de
 *.fotohandel-neumann.de
-*.fotohandel-thiele.de
 *.fotosrestaurieren.de
 *.foundatioy.com
 *.fox-handel.de
@@ -5554,7 +5540,6 @@
 *.gaballo-handel.de
 *.gabbian.de
 *.gabion24.de
-*.gabor-net.com
 *.gaboraustralia.com
 *.gaborbulgaria.com
 *.gaborcipele.com
@@ -11300,7 +11285,6 @@
 *.pieroneverkauf.com
 *.pierrebuy.com
 *.pikfein.com
-*.pilars-treuhand.com
 *.pilemeds.com
 *.pillen-apotheke.de
 *.pillen-bestellen-rezeptfrei.de

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780526220 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780536060 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Jun 2026 22:37 UTC
-; Version: 2026.0603.2237.56
+; Last modified: 04 Jun 2026 01:21 UTC
+; Version: 2026.0604.0121.25
 ; Syntax: RPZ
-; Number of entries: 34382
+; Number of entries: 34374
 ;
 bebra.ac CNAME .
 *.bebra.ac CNAME .
@@ -2329,8 +2329,6 @@ digitale-gesellschaft.ch CNAME .
 *.digitale-gesellschaft.ch CNAME .
 mortar.e-cloud.ch CNAME .
 *.mortar.e-cloud.ch CNAME .
-atom.area.freemath.ch CNAME .
-*.atom.area.freemath.ch CNAME .
 study.freude-macherei.ch CNAME .
 *.study.freude-macherei.ch CNAME .
 doh.immerda.ch CNAME .
@@ -8167,8 +8165,6 @@ fpn.firefox.com CNAME .
 *.fpn.firefox.com CNAME .
 testpilot.firefox.com CNAME .
 *.testpilot.firefox.com CNAME .
-home.firetiresinc.com CNAME .
-*.home.firetiresinc.com CNAME .
 firevpnapp.com CNAME .
 *.firevpnapp.com CNAME .
 firstvpn.com CNAME .
@@ -27233,8 +27229,6 @@ fishstory.org CNAME .
 *.fishstory.org CNAME .
 notdominospizzeria.fluxus.org CNAME .
 *.notdominospizzeria.fluxus.org CNAME .
-officialcepheusx.fluxus.org CNAME .
-*.officialcepheusx.fluxus.org CNAME .
 folkloreoffset.org CNAME .
 *.folkloreoffset.org CNAME .
 forestrywolf.org CNAME .
@@ -28881,8 +28875,6 @@ proxy.eti.pw CNAME .
 *.proxy.eti.pw CNAME .
 feisucloud.pw CNAME .
 *.feisucloud.pw CNAME .
-finobe2.pw CNAME .
-*.finobe2.pw CNAME .
 freevpn.pw CNAME .
 *.freevpn.pw CNAME .
 dns.freyja.pw CNAME .

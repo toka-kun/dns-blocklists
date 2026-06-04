@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780522740 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780532760 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Jun 2026 21:39 UTC
-; Version: 2026.0603.2139.09
+; Last modified: 04 Jun 2026 00:26 UTC
+; Version: 2026.0604.0026.36
 ; Syntax: RPZ
-; Number of entries: 31854
+; Number of entries: 31822
 ;
 prosperi.academy CNAME .
 *.prosperi.academy CNAME .
@@ -7098,8 +7098,6 @@ financieredsbg.com CNAME .
 *.financieredsbg.com CNAME .
 financieres.com CNAME .
 *.financieres.com CNAME .
-finanz-privat.com CNAME .
-*.finanz-privat.com CNAME .
 finanzasforex.com CNAME .
 *.finanzasforex.com CNAME .
 finanzenexpress.com CNAME .
@@ -7200,12 +7198,8 @@ fitnessstilcom.com CNAME .
 *.fitnessstilcom.com CNAME .
 fitnesstillskott24.com CNAME .
 *.fitnesstillskott24.com CNAME .
-fitouthometool.com CNAME .
-*.fitouthometool.com CNAME .
 fittingdiscount.com CNAME .
 *.fittingdiscount.com CNAME .
-fiufiustore.com CNAME .
-*.fiufiustore.com CNAME .
 five-media011.com CNAME .
 *.five-media011.com CNAME .
 fivepillarstoken.com CNAME .
@@ -7232,16 +7226,12 @@ flanneltoss.com CNAME .
 *.flanneltoss.com CNAME .
 flashangebote.com CNAME .
 *.flashangebote.com CNAME .
-flashofbeauty.com CNAME .
-*.flashofbeauty.com CNAME .
 flashum.com CNAME .
 *.flashum.com CNAME .
 flavourg.com CNAME .
 *.flavourg.com CNAME .
 flawlessshoes.com CNAME .
 *.flawlessshoes.com CNAME .
-fleetcargodirect.com CNAME .
-*.fleetcargodirect.com CNAME .
 fleshjacket.com CNAME .
 *.fleshjacket.com CNAME .
 flexibleluxury.com CNAME .
@@ -7250,8 +7240,6 @@ flexihubstore.com CNAME .
 *.flexihubstore.com CNAME .
 flexioptions.com CNAME .
 *.flexioptions.com CNAME .
-flextshire.com CNAME .
-*.flextshire.com CNAME .
 flidop.com CNAME .
 *.flidop.com CNAME .
 flipeak.com CNAME .
@@ -7336,8 +7324,6 @@ footjoygolfshoesuk.com CNAME .
 *.footjoygolfshoesuk.com CNAME .
 footjoyoutletmexico.com CNAME .
 *.footjoyoutletmexico.com CNAME .
-footjoysaleaustralias.com CNAME .
-*.footjoysaleaustralias.com CNAME .
 footjoysuomi.com CNAME .
 *.footjoysuomi.com CNAME .
 footwearpickleball.com CNAME .
@@ -7352,8 +7338,6 @@ forealex.com CNAME .
 *.forealex.com CNAME .
 foreseew.com CNAME .
 *.foreseew.com CNAME .
-forestseas.com CNAME .
-*.forestseas.com CNAME .
 forever21-us.com CNAME .
 *.forever21-us.com CNAME .
 forextrada.com CNAME .
@@ -7596,8 +7580,6 @@ fyssea.com CNAME .
 *.fyssea.com CNAME .
 fzjewelry.com CNAME .
 *.fzjewelry.com CNAME .
-gabor-net.com CNAME .
-*.gabor-net.com CNAME .
 gaboraustralia.com CNAME .
 *.gaboraustralia.com CNAME .
 gaborbulgaria.com CNAME .
@@ -14158,8 +14140,6 @@ pierrebuy.com CNAME .
 *.pierrebuy.com CNAME .
 pikfein.com CNAME .
 *.pikfein.com CNAME .
-pilars-treuhand.com CNAME .
-*.pilars-treuhand.com CNAME .
 pilemeds.com CNAME .
 *.pilemeds.com CNAME .
 pillola-italia.com CNAME .
@@ -22034,8 +22014,6 @@ ferosalesgroup.de CNAME .
 *.ferosalesgroup.de CNAME .
 festberg.de CNAME .
 *.festberg.de CNAME .
-festberg-ace.de CNAME .
-*.festberg-ace.de CNAME .
 festeinkauf.de CNAME .
 *.festeinkauf.de CNAME .
 festgeld-finder.de CNAME .
@@ -22054,8 +22032,6 @@ fichtenaumodehaus.de CNAME .
 *.fichtenaumodehaus.de CNAME .
 lpm.fid-shop.de CNAME .
 *.lpm.fid-shop.de CNAME .
-fidemanlage.de CNAME .
-*.fidemanlage.de CNAME .
 fiesefalle.de CNAME .
 *.fiesefalle.de CNAME .
 figulax.de CNAME .
@@ -22088,8 +22064,6 @@ fischermodemunchen.de CNAME .
 *.fischermodemunchen.de CNAME .
 fischerr.de CNAME .
 *.fischerr.de CNAME .
-fischhandeln.de CNAME .
-*.fischhandeln.de CNAME .
 fit-perfect.de CNAME .
 *.fit-perfect.de CNAME .
 fitbands.de CNAME .
@@ -22172,8 +22146,6 @@ foto-mundus-sued.de CNAME .
 *.foto-mundus-sued.de CNAME .
 fotohandel-neumann.de CNAME .
 *.fotohandel-neumann.de CNAME .
-fotohandel-thiele.de CNAME .
-*.fotohandel-thiele.de CNAME .
 fotosrestaurieren.de CNAME .
 *.fotosrestaurieren.de CNAME .
 fox-handel.de CNAME .
@@ -28616,8 +28588,6 @@ firmeneintrag.net CNAME .
 *.firmeneintrag.net CNAME .
 fitflopparis.net CNAME .
 *.fitflopparis.net CNAME .
-flashe.net CNAME .
-*.flashe.net CNAME .
 fliptfeets.net CNAME .
 *.fliptfeets.net CNAME .
 floriansteiner.net CNAME .
@@ -31508,8 +31478,6 @@ esyqefp.top CNAME .
 *.esyqefp.top CNAME .
 ezou.top CNAME .
 *.ezou.top CNAME .
-fortniteplay.top CNAME .
-*.fortniteplay.top CNAME .
 fugitive.top CNAME .
 *.fugitive.top CNAME .
 hardwaremall.top CNAME .

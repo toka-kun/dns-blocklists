@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 03 Jun 2026 22:33 UTC
-! Version: 2026.0603.2233.17
+! Last modified: 04 Jun 2026 01:15 UTC
+! Version: 2026.0604.0115.39
 ! Syntax: AdBlock
-! Number of entries: 90009
+! Number of entries: 89982
 !
 ||explorer.01coin.io^
 ||en.1001cocktails.com^
@@ -4235,6 +4235,8 @@
 ||31vattsg.shop^
 ||31vattsu.shop^
 ||31vqktix2.shop^
+||31vqktix4.shop^
+||31vqktix5.shop^
 ||31wwwakti.shop^
 ||31xx.one^
 ||321cuckold.com^
@@ -11567,6 +11569,7 @@
 ||bigxxxmoviehub.com^
 ||bijir.com^
 ||bijougayporn.com^
+||bikan.my^
 ||bikerplanet.com^
 ||bikesbabes.net^
 ||bikewarehousex.com^
@@ -15483,6 +15486,7 @@
 ||chicsextoys.com^
 ||chieflogicrevivepartnersexact.xyz^
 ||chiefsexteriors.com^
+||chiefsflagfootball.com^
 ||chigaya.com^
 ||chigaywc.cc^
 ||chiggywiggy.com^
@@ -24523,7 +24527,6 @@
 ||feetweek.com^
 ||feetwonder.com^
 ||fegayazilim.com^
-||feifancurtain.com^
 ||feiportal-chelyabinsk.net^
 ||feisexiu.com^
 ||feisexius.com^
@@ -24564,7 +24567,6 @@
 ||femalemuscle.com^
 ||femalemusclenetwork.com^
 ||femaleorgasmsecrets.com^
-||females.ca^
 ||femalescatporn.com^
 ||femalesexdolls.site^
 ||femalesexdolls.store^
@@ -24623,7 +24625,6 @@
 ||femdomonly.com^
 ||femdompin.com^
 ||femdomporn.wiki^
-||femdomportal.net^
 ||femdomqueen.com^
 ||femdomrip.com^
 ||femdoms.com^
@@ -24717,7 +24718,6 @@
 ||fetisch.de^
 ||fetisch-bdsm-kontakte.com^
 ||fetisch-institut.com^
-||fetischpornos.net^
 ||fetischtreffen.net^
 ||fetish.ca^
 ||fetish.com^
@@ -24799,7 +24799,6 @@
 ||fetishforever.com^
 ||fetishforfeet.com^
 ||fetishforum.al^
-||fetishforum.net^
 ||fetishfotos.com^
 ||fetishfreddy.com^
 ||fetishgoddesskendra.com^
@@ -24835,7 +24834,6 @@
 ||fetishpapa.com^
 ||fetishpayperview.com^
 ||fetishphone.org^
-||fetishplay.com^
 ||fetishporn.xyz^
 ||fetishporn-chance.com^
 ||fetishpornpic.com^
@@ -25122,7 +25120,6 @@
 ||filmydes.com^
 ||filmydunia.xyz^
 ||filmyearth.com^
-||filmyfeast.com^
 ||filmyflicks.com^
 ||filmyfresh.com^
 ||filmygaana.com^
@@ -25146,14 +25143,11 @@
 ||filmypage.com^
 ||filmype.com^
 ||filmyporno.mobi^
-||filmyporno.net^
 ||filmyporno.tv^
 ||filmyport.com^
 ||filmyreview.com^
-||filmysongs.com^
 ||filmyspot.com^
 ||filmyspy.com^
-||filmytrend.com^
 ||filmytv2.xyz^
 ||filmyuvasi.com^
 ||filmyvids.com^
@@ -25196,13 +25190,11 @@
 ||filthynubiles.com^
 ||filthyoldies.com^
 ||filthypornz.com^
-||filthyslut.com^
 ||filtradas.com^
 ||filtradosxxx.pics^
 ||filzooporno.autos^
 ||fim-sex.com^
 ||fimoxfixxx.fun^
-||fimsex.blog^
 ||fimsexvn.info^
 ||finaleclipsex.cfd^
 ||finalporn.com^
@@ -25354,7 +25346,6 @@
 ||firsttimeporn.website^
 ||firsttimescatporn.com^
 ||firsttimesecondtime.com^
-||firstvintageporn.com^
 ||firstxnxx.com^
 ||fish.sex^
 ||fish.xxx^
@@ -25574,7 +25565,6 @@
 ||flirtneighborhood.com^
 ||flirtooy.info^
 ||flirtpobliz.com^
-||flirtsexkontakte.net^
 ||flirtshop.kz^
 ||flirtstate.com^
 ||flirtxxxchusovoy.ru^
@@ -25635,7 +25625,6 @@
 ||fluxxxx.com^
 ||fly.xxx^
 ||flybuysexpress.news^
-||flybuysexpressg.news^
 ||flyff-sperm.click^
 ||flyflv.com^
 ||flyfuk.com^
@@ -26033,7 +26022,6 @@
 ||free-matures.com^
 ||free-matures-porn.xyz^
 ||free-nudist-pictures.info^
-||free-porn.homes^
 ||free-porn.live^
 ||free-porn.lol^
 ||free-porn.site^
@@ -26048,7 +26036,6 @@
 ||free-sex-bilder.pics^
 ||free-sex-chat.top^
 ||free-sex-kostenlos.de^
-||free-sex-porno.net^
 ||free-sex-story.org^
 ||free-sexcams.live^
 ||free-strip-games.com^
@@ -26056,7 +26043,6 @@
 ||free-wap-tube.com^
 ||free-xhamster.cfd^
 ||free-xhamster.com^
-||free-xvideo.cfd^
 ||free-xvideos.work^
 ||free-xxx.me^
 ||free-xxx-blogs.com^
@@ -26078,13 +26064,10 @@
 ||free4u.cyou^
 ||free6.com^
 ||free69xxx.com^
-||free7porn.com^
 ||freeaccountsporn.online^
 ||freeadult.com^
 ||freeadult.org^
-||freeadult.pics^
 ||freeadultactingclass.com^
-||freeadultarcade.com^
 ||freeadultcam69.com^
 ||freeadultcamchat.net^
 ||freeadultcams.name^
@@ -26120,7 +26103,6 @@
 ||freeanimehentai.net^
 ||freeappsgratis.com^
 ||freearabianporn.com^
-||freeasiann.com^
 ||freeasianporn.online^
 ||freeasianpornmovies.shop^
 ||freeasiansex.site^
@@ -26400,7 +26382,6 @@
 ||freeporno.watch^
 ||freeporno.work^
 ||freeporno.xxx^
-||freeporno18.net^
 ||freeporno2024.com^
 ||freepornoboss.com^
 ||freepornofreeporn.com^
@@ -26536,7 +26517,6 @@
 ||freeseximages.com^
 ||freesexindex.com^
 ||freesexing.com^
-||freesexkahani.co^
 ||freesexkahani.com^
 ||freesexkahani.in^
 ||freesexkahani.website^
@@ -26656,7 +26636,6 @@
 ||freexvideossex.com^
 ||freexvideotubes.com^
 ||freexxnx.pro^
-||freexxporn.net^
 ||freexxx.beauty^
 ||freexxx.best^
 ||freexxx.bid^
@@ -26676,7 +26655,6 @@
 ||freexxx.win^
 ||freexxx.work^
 ||freexxx24.com^
-||freexxx69hd.com^
 ||freexxxadultporn.com^
 ||freexxxarchive.com^
 ||freexxxbase.com^
@@ -26778,7 +26756,6 @@
 ||freshreelsexpress.com^
 ||freshsexhive.com^
 ||freshsexpics.com^
-||freshsexvideos.co^
 ||freshsexvideos.com^
 ||freshsexxx.com^
 ||freshsexycreative.com^
@@ -26846,7 +26823,6 @@
 ||frssexsex0008.com^
 ||fruisex.com^
 ||fruitcams.com^
-||fruitsexport.cl^
 ||frumpytube.com^
 ||frutasexoticas.top^
 ||fry99.cc^
@@ -26904,7 +26880,6 @@
 ||ftvmilfs.com^
 ||ftvmovie.com^
 ||ftvplus.com^
-||fu-qtoo.com^
 ||fu8k.com^
 ||fubar.com^
 ||fubardaily.com^
@@ -26967,7 +26942,6 @@
 ||fuckbookland.com^
 ||fuckbookmobile.com^
 ||fuckbookster.com^
-||fuckbookteens.net^
 ||fuckbox.icu^
 ||fuckboy.adult^
 ||fuckboy.porn^
@@ -27049,7 +27023,6 @@
 ||fuckingsession.com^
 ||fuckingsexstore.com^
 ||fuckingsexual.com^
-||fuckingsucks.net^
 ||fuckingtorture.com^
 ||fuckingvideos.co^
 ||fuckingvote.com^

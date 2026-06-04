@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Jun 2026 22:30 UTC
-# Version: 2026.0603.2230.04
+# Last modified: 04 Jun 2026 01:12 UTC
+# Version: 2026.0604.0112.26
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 54184
+# Number of entries: 54171
 #
 local=/web-119bet-2025-google-vip-119bet.119-hello.com/
 local=/web-166betcom-vip-166betcc-166betvip-2025fa-east1.166tiger.com/
@@ -26507,8 +26507,6 @@ local=/fenix-plays.casino/
 local=/fenix-slots333.casino/
 local=/fenix-slots7.casino/
 local=/fenix-slots777.casino/
-local=/fenix145.casino/
-local=/fenix146.casino/
 local=/fenix31.casino/
 local=/fenix42casino.com/
 local=/fenix54.casino/
@@ -26529,7 +26527,6 @@ local=/ferraripg.com/
 local=/fesapoker.com/
 local=/fesapoker.online/
 local=/fespm.org/
-local=/festacasinos.com/
 local=/feuxcasinolacleamy.ca/
 local=/fez-betcasino.fr/
 local=/fezbet.com/
@@ -26578,7 +26575,6 @@ local=/filemirrors.com/
 local=/filmcasino.at/
 local=/fin444.live/
 local=/finasteridehr.com/
-local=/finasteridep.com/
 local=/findacasinohost.com/
 local=/findandselect.com/
 local=/finder-poker.com/
@@ -26623,16 +26619,13 @@ local=/five88.vc/
 local=/five88.vin/
 local=/five88s.casino/
 local=/fivebet.it/
-local=/fivesalive.org/
 local=/fivipoker.com/
 local=/fixbet1.net/
 local=/fixbet99.com/
-local=/fixbetcasino2026.icu/
 local=/fixed-matches.info/
 local=/fixedmatches.win/
 local=/fixedmatchescorrectscore.com/
 local=/fizcasino-be.com/
-local=/fizikevreni.com/
 local=/fj-japan.org/
 local=/fj038u3.com/
 local=/fjt.casino/
@@ -26843,7 +26836,6 @@ local=/fourwindscasino.com/
 local=/fourwindscasinodowagiac.com/
 local=/fourwindscasinohartford.com/
 local=/foxbet.com/
-local=/foxcaptureplan.net/
 local=/foxcasino.click/
 local=/foxespg.com/
 local=/foxslots.com/
@@ -26889,7 +26881,6 @@ local=/francecasino7top.com/
 local=/francecasinodesk.com/
 local=/francegalop-live.com/
 local=/francellacasino.com/
-local=/francomsolutions.com/
 local=/frank-casino.ch/
 local=/frank-casino.info/
 local=/frank-casino.ltd/
@@ -26903,7 +26894,6 @@ local=/frankcasino-hu.com/
 local=/frankcasinoonline.ca/
 local=/frankclubcasino.com/
 local=/frankfred.com/
-local=/frankiecatpdx.com/
 local=/franzcasinos-site.com/
 local=/frb.casino/
 local=/freakcasino.ca/
@@ -26929,7 +26919,6 @@ local=/free100casino.cfd/
 local=/free100casino.click/
 local=/free50.casino/
 local=/freebet.casino/
-local=/freebetchipscasino.com/
 local=/freebets.com/
 local=/freebets.id/
 local=/freebets.surf/
@@ -26948,7 +26937,6 @@ local=/freedombonds.biz/
 local=/freedomcasino-online.com/
 local=/freeextrachips.com/
 local=/freegtopokerrange.com/
-local=/freejackportslotx.com/
 local=/freelotterynetwork.com/
 local=/freeneo.io/
 local=/freenodepositbonuscasino.ca/
@@ -26977,7 +26965,6 @@ local=/freespinsworld.com/
 local=/freespinx.com/
 local=/freespinz.com/
 local=/freesupertips.com/
-local=/freetibetshirts.com/
 local=/freiheitplus.de/
 local=/freiheitstraum.com/
 local=/frenchcasino.net/

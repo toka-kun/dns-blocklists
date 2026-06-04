@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Jun 2026 22:37 UTC
-# Version: 2026.0603.2237.01
+# Last modified: 04 Jun 2026 01:20 UTC
+# Version: 2026.0604.0120.28
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3888
+# Number of entries: 3887
 #
 ss.0001.xyz
 003153.xyz
@@ -1605,7 +1605,6 @@ fidelius.top
 dns.fifux.be
 dns.filipccz.eu
 fimoshinckaya-federation.site
-home.firetiresinc.com
 adg.fiyaajans.com
 dns.fizz.studio
 resolve.fknw.de

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Jun 2026 22:37 UTC
-# Version: 2026.0603.2237.01
+# Last modified: 04 Jun 2026 01:20 UTC
+# Version: 2026.0604.0120.28
 # Syntax: Domains (without subdomains)
-# Number of entries: 3429
+# Number of entries: 3428
 #
 ss.0001.xyz
 ns.00dani.me
@@ -1184,7 +1184,6 @@ dot.ffmuc.net
 dns.ffnw.de
 dns.fifux.be
 dns.filipccz.eu
-home.firetiresinc.com
 adg.fiyaajans.com
 dns.fizz.studio
 resolve.fknw.de
