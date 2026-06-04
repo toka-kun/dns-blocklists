@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780536000 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780572660 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 04 Jun 2026 01:20 UTC
-; Version: 2026.0604.0120.28
+; Last modified: 04 Jun 2026 11:31 UTC
+; Version: 2026.0604.1131.33
 ; Syntax: RPZ
-; Number of entries: 6856
+; Number of entries: 6846
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -1145,8 +1145,6 @@ httpdns.ocloud.heytapmobi.com CNAME .
 *.httpdns.ocloud.heytapmobi.com CNAME .
 mail.hilton-groups.com CNAME .
 *.mail.hilton-groups.com CNAME .
-himedns.com CNAME .
-*.himedns.com CNAME .
 adguard.hoangcongchuc.com CNAME .
 *.adguard.hoangcongchuc.com CNAME .
 dns.hoody.com CNAME .
@@ -2053,12 +2051,6 @@ dns.grqu.de CNAME .
 *.dns.grqu.de CNAME .
 grunwald-marc.de CNAME .
 *.grunwald-marc.de CNAME .
-clean.hadan-dns.de CNAME .
-*.clean.hadan-dns.de CNAME .
-ns1.hadan-dns.de CNAME .
-*.ns1.hadan-dns.de CNAME .
-ns2.hadan-dns.de CNAME .
-*.ns2.hadan-dns.de CNAME .
 dns.hahnjo.de CNAME .
 *.dns.hahnjo.de CNAME .
 dns.hanmey.de CNAME .
@@ -6521,8 +6513,6 @@ st.flyzhouyc.win CNAME .
 *.st.flyzhouyc.win CNAME .
 yin.flyzhouyc.win CNAME .
 *.yin.flyzhouyc.win CNAME .
-dns3.hu10us22.win CNAME .
-*.dns3.hu10us22.win CNAME .
 agh.kyusang.win CNAME .
 *.agh.kyusang.win CNAME .
 dns.meeo.win CNAME .

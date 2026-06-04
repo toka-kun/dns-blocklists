@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Jun 2026 09:01 UTC
-# Version: 2026.0603.0901.19
+# Last modified: 04 Jun 2026 10:17 UTC
+# Version: 2026.0604.1017.59
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2115
+# Number of entries: 2124
 #
 1-aclk.net
 1aurl.io
@@ -251,6 +251,7 @@ seu.cleverreach.com
 33081.seu.cleverreach.com
 3376.seu.cleverreach.com
 341764.seu.cleverreach.com
+34366.seu.cleverreach.com
 36268.seu.cleverreach.com
 36427.seu.cleverreach.com
 369869.seu.cleverreach.com
@@ -368,6 +369,7 @@ seu2.cleverreach.com
 219699.seu2.cleverreach.com
 225261.seu2.cleverreach.com
 226547.seu2.cleverreach.com
+227325.seu2.cleverreach.com
 227873.seu2.cleverreach.com
 228530.seu2.cleverreach.com
 229388.seu2.cleverreach.com
@@ -675,7 +677,6 @@ open.convertkit-mail4.com
 021ccec7.open.convertkit-mail4.com
 035df47c.open.convertkit-mail4.com
 042705c9.open.convertkit-mail4.com
-07494aa4.open.convertkit-mail4.com
 088a5f37.open.convertkit-mail4.com
 0c7d4f8e.open.convertkit-mail4.com
 104ffb11.open.convertkit-mail4.com
@@ -699,7 +700,6 @@ b54e0fd7.open.convertkit-mail4.com
 bbdc1d35.open.convertkit-mail4.com
 bc25b130.open.convertkit-mail4.com
 bfe50086.open.convertkit-mail4.com
-c4d2e6d6.open.convertkit-mail4.com
 cbc7e342.open.convertkit-mail4.com
 d41e12b1.open.convertkit-mail4.com
 d8016216.open.convertkit-mail4.com
@@ -867,6 +867,7 @@ suite34.emarsys.net
 suite36.emarsys.net
 suite38.emarsys.net
 suite4.emarsys.net
+suite4-cf.emarsys.net
 suite40.emarsys.net
 suite40-cf.emarsys.net
 suite41.emarsys.net
@@ -919,7 +920,6 @@ ew3.io
 m.exactag.com
 tp-emea.exactag.com
 s1.exacttarget.com
-inbound.s1.exacttarget.com
 pub.s1.exacttarget.com
 s10.exacttarget.com
 bounce.s10.exacttarget.com
@@ -980,7 +980,6 @@ pages.s7.exacttarget.com
 pub.s7.exacttarget.com
 view.s7.exacttarget.com
 virt.s7.exacttarget.com
-click.virt.s7.exacttarget.com
 cl.exct.net
 click.e.usa.experian.com
 cdn.exponea.com
@@ -991,6 +990,7 @@ cdn.eu1.exponea.com
 fis-royalcopenhagen-cdn.exponea.com
 cdn.ftspecialist.exponea.com
 cdn.mie.exponea.com
+neoengage-va-cdn.exponea.com
 cdn.network.exponea.com
 pan-cdn.exponea.com
 puc-cdn.exponea.com
@@ -1123,6 +1123,7 @@ sites.hscoscdn-eu1.net
 24850323.sites.hscoscdn-eu1.net
 24855079.sites.hscoscdn-eu1.net
 24880693.sites.hscoscdn-eu1.net
+24897522.sites.hscoscdn-eu1.net
 24942465.sites.hscoscdn-eu1.net
 24970030.sites.hscoscdn-eu1.net
 25042371.sites.hscoscdn-eu1.net
@@ -1143,6 +1144,7 @@ sites.hscoscdn-eu1.net
 25500997.sites.hscoscdn-eu1.net
 25579174.sites.hscoscdn-eu1.net
 25608636.sites.hscoscdn-eu1.net
+25642361.sites.hscoscdn-eu1.net
 25692048.sites.hscoscdn-eu1.net
 25696692.sites.hscoscdn-eu1.net
 25758250.sites.hscoscdn-eu1.net
@@ -1449,6 +1451,7 @@ links.mkt61.net
 mkto-a0279.com
 mkto-ab040115.com
 mkto-ab040117.com
+mkto-ab060101.com
 mkto-ab060134.com
 mkto-ab060144.com
 mkto-ab060210.com
@@ -1469,6 +1472,7 @@ mkto-ab220178.com
 mkto-ab240112.com
 mkto-ab250068.com
 mkto-ab250105.com
+mkto-ab250167.com
 mkto-ab260164.com
 mkto-ab270109.com
 mkto-ab280067.com
@@ -1482,6 +1486,7 @@ mkto-ab330047.com
 mkto-ab340022.com
 mkto-ab340093.com
 mkto-ab350042.com
+mkto-ab350123.com
 mkto-ab390033.com
 mkto-ab390137.com
 mkto-ab390196.com
@@ -1519,6 +1524,7 @@ mkto-ab560119.com
 mkto-ab570110.com
 mkto-ab570128.com
 mkto-ab580004.com
+mkto-ab600004.com
 mkto-ab610084.com
 mkto-ab620024.com
 mkto-ab620054.com
@@ -1560,6 +1566,7 @@ mkto-lon020062.com
 mkto-lon020336.com
 mkto-lon030249.com
 mkto-lon030291.com
+mkto-lon040022.com
 mkto-lon040102.com
 mkto-lon040152.com
 mkto-lon050034.com
@@ -1907,6 +1914,7 @@ t.sidekickopen42.com
 t.sidekickopen44.com
 t.sidekickopen45.com
 t.sidekickopen46.com
+t.sidekickopen48.com
 t.sidekickopen49.com
 t.sidekickopen50.com
 t.sidekickopen51.com
@@ -2030,6 +2038,7 @@ tradedoubler.com
 tradetracker.com
 tc.tradetracker.net
 ti.tradetracker.net
+tl.tradetracker.net
 tm.tradetracker.net
 ts.tradetracker.net
 track.trafficguard.ai

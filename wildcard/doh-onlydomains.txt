@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Jun 2026 01:20 UTC
-# Version: 2026.0604.0120.28
+# Last modified: 04 Jun 2026 11:31 UTC
+# Version: 2026.0604.1131.33
 # Syntax: Domains (without subdomains)
-# Number of entries: 3428
+# Number of entries: 3423
 #
 ss.0001.xyz
 ns.00dani.me
@@ -1345,9 +1345,6 @@ adguard.h22designs.com
 adg-nl.h4nt3r.com
 adg-swe.h4nt3r.com
 adguard.h4nt3r.com
-clean.hadan-dns.de
-ns1.hadan-dns.de
-ns2.hadan-dns.de
 secure.hafnova.com
 dns.hahnjo.de
 dns.haka.se
@@ -1428,7 +1425,6 @@ freemnt.hpitto.com
 doh.hshkf.com
 pub.hsuan.ink
 dnsguard.hte.vn
-dns3.hu10us22.win
 dns.huanmave.cc
 dns.huas.me
 httpdns.huaweicloud.com
@@ -3147,7 +3143,6 @@ hexxitcompany.com
 hfgx.shop
 hg8.asia
 hgrps.eu
-himedns.com
 hitian.me
 home-server.store
 home34.su

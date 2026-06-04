@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780522800 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780569240 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Jun 2026 21:40 UTC
-; Version: 2026.0603.2140.36
+; Last modified: 04 Jun 2026 10:34 UTC
+; Version: 2026.0604.1034.42
 ; Syntax: RPZ
-; Number of entries: 19720
+; Number of entries: 19712
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -4389,8 +4389,6 @@ gempixel.com CNAME .
 *.gempixel.com CNAME .
 links.geneasens.com CNAME .
 *.links.geneasens.com CNAME .
-generatemyqr.com CNAME .
-*.generatemyqr.com CNAME .
 geniuslink.com CNAME .
 *.geniuslink.com CNAME .
 genvalo.com CNAME .
@@ -4441,8 +4439,6 @@ glincker.com CNAME .
 *.glincker.com CNAME .
 glintsurvey.com CNAME .
 *.glintsurvey.com CNAME .
-globargains.com CNAME .
-*.globargains.com CNAME .
 glolin.com CNAME .
 *.glolin.com CNAME .
 go2ln.com CNAME .
@@ -17273,8 +17269,6 @@ fll.sh CNAME .
 *.fll.sh CNAME .
 gbc.sh CNAME .
 *.gbc.sh CNAME .
-grr.sh CNAME .
-*.grr.sh CNAME .
 gym.sh CNAME .
 *.gym.sh CNAME .
 hsh.sh CNAME .
@@ -17425,8 +17419,6 @@ gglink.site CNAME .
 *.gglink.site CNAME .
 hisweb.site CNAME .
 *.hisweb.site CNAME .
-hoki1dana.site CNAME .
-*.hoki1dana.site CNAME .
 islinks.site CNAME .
 *.islinks.site CNAME .
 kav.site CNAME .

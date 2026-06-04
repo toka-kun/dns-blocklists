@@ -2633,6 +2633,13 @@
       }
     },
     {
+      "PK": "hostaan.name",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "host.church",
       "action": {
         "do": 1,
@@ -2844,6 +2851,13 @@
     },
     {
       "PK": "ishortn.ink",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "isu.pub",
       "action": {
         "do": 1,
         "status": 1
@@ -5021,6 +5035,13 @@
     },
     {
       "PK": "rollenspiel.monster",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "r.parts",
       "action": {
         "do": 1,
         "status": 1

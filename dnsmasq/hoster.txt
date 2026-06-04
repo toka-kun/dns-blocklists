@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Jun 2026 22:01 UTC
-# Version: 2026.0603.2201.53
+# Last modified: 04 Jun 2026 10:55 UTC
+# Version: 2026.0604.1055.06
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 899
+# Number of entries: 903
 #
 local=/one4u.0lx.net/
 local=/free.bizhat.com/
@@ -774,6 +774,8 @@ local=/surge.sh/
 local=/sv.gp/
 local=/sviluppo.host/
 local=/sxx.in/
+local=/sylu.cc/
+local=/sylu.net/
 local=/synergize.co/
 local=/t.gp/
 local=/t35.com/
@@ -856,6 +858,7 @@ local=/webblog24.de/
 local=/webboss.site/
 local=/webcindario.com/
 local=/webgarden.com/
+local=/webn.cc/
 local=/webnode.com/
 local=/webpages.one/
 local=/webs.com/
@@ -902,6 +905,7 @@ local=/yourfreehosting.net/
 local=/yourjavascript.com/
 local=/z.gp/
 local=/za.gp/
+local=/zabc.net/
 local=/zalil.ru/
 local=/zapier.app/
 local=/zoomshare.com/

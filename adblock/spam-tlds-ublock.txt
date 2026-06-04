@@ -11,8 +11,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 03 Jun 2026 05:38 UTC
-! Version: 2026.0603.0538.08
+! Last modified: 04 Jun 2026 11:33 UTC
+! Version: 2026.0604.1133.42
 ! Syntax: uBlock
 ! Number of latin TLDs: 294 - punycode TLDs: 151
 !
@@ -191,7 +191,7 @@
 ||monster^$doc,domain=~cloudcdn.monster|~fedi.monster|~mortgage.monster|~rollenspiel.monster|~tts.monster|~yts.monster
 ||motorcycles^$doc
 ||mov^$doc,domain=~david.mov|~peerflix.mov|~pstream.mov
-||name^$doc,domain=~chris.boyle.name|~davidwalsh.name|~keenetic.name|~stefvanbuuren.name|~vlo.name
+||name^$doc,domain=~chris.boyle.name|~davidwalsh.name|~hostaan.name|~keenetic.name|~stefvanbuuren.name|~vlo.name
 ||navy^$doc
 ||new^$doc,domain=~bolt.new|~doc.new|~drawing.new|~form.new|~git.new|~lecture.new|~postgres.new|~sheet.new|~site.new|~slide.new
 ||ng^$doc,domain=~coupa.ng|~google.com.ng
@@ -203,7 +203,7 @@
 ||online^$doc,domain=~2kweb.online|~adguard-vpn.online|~argon2.online|~bebraver.online|~blink.online|~cf-equality.online|~dancewave.online|~discuss.online|~dnslookup.online|~dnsspeedtest.online|~eufh.online|~fireshinegames.online|~flexilead.online|~forceofwind.online|~geoigarape.online|~grapheneos.online|~incdn.online|~infomax.online|~instructions.online|~manuals.online|~mastodon.online|~mrprice.online|~open.online|~order.online|~owncast.online|~photostore24.online|~radarpayment.online|~randemretail.online|~ravendawn.online|~shueisha.online|~vmwesa.online|~zander.online
 ||ooo^$doc,domain=~term.ooo|~toast.ooo
 ||partners^$doc,domain=~1password.partners|~nvidia.partners|~stripe.partners|~xh.partners
-||parts^$doc
+||parts^$doc,domain=~r.parts
 ||party^$doc,domain=~ducks.party|~mstdn.party|~ntc.party|~spankbang.party|~wmars.party
 ||pet^$doc,domain=~kickthespy.pet|~kuma.pet
 ||pharmacy^$doc,domain=~safe.pharmacy
@@ -220,7 +220,7 @@
 ||post^$doc,domain=~cypruspost.post
 ||prof^$doc,domain=~casey.prof
 ||promo^$doc
-||pub^$doc,domain=~arc.pub|~bierbaum.pub|~infosec.pub|~leaflet.pub|~lunar.pub|~outpost.pub|~soapbox.pub|~static.pub|~wapo.pub
+||pub^$doc,domain=~arc.pub|~bierbaum.pub|~infosec.pub|~isu.pub|~leaflet.pub|~lunar.pub|~outpost.pub|~soapbox.pub|~static.pub|~wapo.pub
 ||pw^$doc,domain=~buttercup.pw|~core.pw|~darkcrystal.pw|~dpc.pw|~gopass.pw|~palaugov.pw|~petridish.pw|~plutonium.pw|~tabula-rasa.pw|~xor.pw|~zok.pw
 ||qpon^$doc
 ||quest^$doc,domain=~dice.quest|~epochal.quest|~mhn.quest|~mylegendary.quest|~prometheus.quest|~raccoon.quest

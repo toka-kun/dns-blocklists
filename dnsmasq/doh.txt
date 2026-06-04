@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Jun 2026 01:20 UTC
-# Version: 2026.0604.0120.28
+# Last modified: 04 Jun 2026 11:31 UTC
+# Version: 2026.0604.1131.33
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3428
+# Number of entries: 3423
 #
 local=/ss.0001.xyz/
 local=/ns.00dani.me/
@@ -1345,9 +1345,6 @@ local=/adguard.h22designs.com/
 local=/adg-nl.h4nt3r.com/
 local=/adg-swe.h4nt3r.com/
 local=/adguard.h4nt3r.com/
-local=/clean.hadan-dns.de/
-local=/ns1.hadan-dns.de/
-local=/ns2.hadan-dns.de/
 local=/secure.hafnova.com/
 local=/dns.hahnjo.de/
 local=/dns.haka.se/
@@ -1428,7 +1425,6 @@ local=/freemnt.hpitto.com/
 local=/doh.hshkf.com/
 local=/pub.hsuan.ink/
 local=/dnsguard.hte.vn/
-local=/dns3.hu10us22.win/
 local=/dns.huanmave.cc/
 local=/dns.huas.me/
 local=/httpdns.huaweicloud.com/
@@ -3147,7 +3143,6 @@ local=/hexxitcompany.com/
 local=/hfgx.shop/
 local=/hg8.asia/
 local=/hgrps.eu/
-local=/himedns.com/
 local=/hitian.me/
 local=/home-server.store/
 local=/home34.su/

@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 03 Jun 2026 21:40 UTC
-! Version: 2026.0603.2140.36
+! Last modified: 04 Jun 2026 10:34 UTC
+! Version: 2026.0604.1034.42
 ! Syntax: AdBlock
-! Number of entries: 9860
+! Number of entries: 9856
 !
 ||a.189.cn^
 ||t.2merkato.com^
@@ -3532,7 +3532,6 @@
 ||gempixel.com^
 ||gemy.link^
 ||gen.cat^
-||generatemyqr.com^
 ||geni.us^
 ||geniuslink.com^
 ||geniusqr.io^
@@ -3630,7 +3629,6 @@
 ||glo.bo^
 ||glo.wf^
 ||glob.li^
-||globargains.com^
 ||glol.in^
 ||glolin.com^
 ||glss.co^
@@ -3775,7 +3773,6 @@
 ||grnh.se^
 ||grouprai.se^
 ||groves.link^
-||grr.sh^
 ||gruntwork.io^
 ||gscc.events^
 ||gscc.pro^
@@ -3916,7 +3913,6 @@
 ||hodroffs.com^
 ||hoeg.it^
 ||hoholah.xyz^
-||hoki1dana.site^
 ||hoki22crot.com^
 ||hokidana.vip^
 ||hokie.co^

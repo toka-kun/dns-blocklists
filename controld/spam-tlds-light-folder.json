@@ -575,13 +575,6 @@
       }
     },
     {
-      "PK": "parts",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "pink",
       "action": {
         "do": 0,
