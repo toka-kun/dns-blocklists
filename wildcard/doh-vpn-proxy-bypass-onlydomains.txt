@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Jun 2026 11:32 UTC
-# Version: 2026.0604.1132.47
+# Last modified: 04 Jun 2026 19:26 UTC
+# Version: 2026.0604.1926.00
 # Syntax: Domains (without subdomains)
-# Number of entries: 17162
+# Number of entries: 17120
 #
 ss.0001.xyz
 ilovethiswebsite.001-lab.space
@@ -3904,7 +3904,6 @@ mask.icloud.com
 mask-canary.icloud.com
 mask-h2.icloud.com
 qazwsxeedc.aldis.id.lv
-waguri.berryfamily.id.au
 skill.mass.mcdonnell.id.au
 dns.pttien.id.vn
 home.realldz.id.vn
@@ -3926,7 +3925,6 @@ gitea.sukon.idv.tw
 cyliu.idv.tw
 the.url.is.true.ifuckedhellokitty.com
 conquista.bonniee.ignorelist.com
-colleageapplicaeastion.com.ignorelist.com
 justjoshin.com.ignorelist.com
 thiswebsiteispeak4life.com.ignorelist.com
 0vercl0aked.ignorelist.com
@@ -3943,7 +3941,6 @@ galaxyiscool.ignorelist.com
 gavinsblocked-test.ignorelist.com
 geographystudyguide.ignorelist.com
 learningscience.ignorelist.com
-matematicasfacilygratis.ignorelist.com
 meeeow.ignorelist.com
 phhs66.ignorelist.com
 pleaseaddto.ignorelist.com
@@ -3951,12 +3948,9 @@ salmon.ignorelist.com
 samuel-and-toes.ignorelist.com
 schoool.ignorelist.com
 sigma10192011.ignorelist.com
-subdomained.ignorelist.com
 test52139.ignorelist.com
 thecassius.ignorelist.com
-too-lazy-to-go-to-the-registry.ignorelist.com
 uhhhhhh.ignorelist.com
-unsubscribed.ignorelist.com
 voidvoidyesyes.ignorelist.com
 whodagoat.ignorelist.com
 adguard.ihatemy.live
@@ -3970,10 +3964,6 @@ forschoolonlyss.ilja.org
 2ndi38rufidhdiwu.ilogica-soluciones.cl
 english.iloveyouxav.com
 login.ilsatimisoara.ro
-boiii.iltec.cl
-mathstudy.iltec.cl
-snoopy.iltec.cl
-thatstuff.iltec.cl
 youtube.imagetemplate.net
 dns.imaicool.com
 ad.imblien.com
@@ -4058,7 +4048,6 @@ worktechsk.infotechnology.com
 workwithsktechh.infotechnology.com
 ximenaisaplayer.infotechnology.com
 data.think.infoudec.org
-history-notes.infoudec.org
 doh.infracell.net
 adguard01.dns.infrapod.nl
 adguard02.dns.infrapod.nl
@@ -4100,7 +4089,6 @@ use.edu.iownyour.org
 ns542389.ip-144-217-77.net
 ip42.ip-15-204-147.us
 114.ip-158-69-222.net
-unblocker.chesse.ip-ddns.com
 pp.hamburger.ip-ddns.com
 skibidi-rizz-gyatt-fanum-tax-sigma.hamburger.ip-ddns.com
 fleshpanopticon.agguiopz.ip-dynamic.org
@@ -4184,8 +4172,6 @@ goodfast.it.com
 powerschool.it.com
 dns.it-pa.net
 676141mango1.itafricagroup.com
-bolts.itafricagroup.com
-ggfresh.itafricagroup.com
 holy.itafricagroup.com
 khanhow-to-do-math.itafricagroup.com
 mathisinteresting.itafricagroup.com
@@ -4212,11 +4198,9 @@ adg.jabertechnologies.ch
 www.securly.com.jackietian.com
 securifi.jagalabs.net
 burkholder.jake.eu
-hello1.jake.eu
 jj.jake.eu
 satirise.jake.eu
 skibiditoilet.jake.eu
-waguri.jalcorn.net
 jamessou.jamesferrand.fr
 proxjdf.jamesferrand.fr
 dns.jamessliu.com
@@ -4227,21 +4211,16 @@ px.jarnus.xyz
 fvpn.jarvishome.ru
 hk.jason666.top
 adguard.jaydub.cloud
-google.jaygraz.net
 vocab.clever.jaytex.org
 argus1.jcconnell.com
 dns.jd.com
 anyweatherispepsiweather.1903.jdymqic.shop
-s8.amazonaws.jdymqic.shop
-ijustwanttstowork.dsylexia.jdymqic.shop
 6767alpharizzmath.jdymqic.shop
 securly.com.jedimasters.net
-charliekirky.jefferykirk.com
 doh.jeroenhd.nl
 host.jerry-lee.uk
 dns.jerryw.cn
 adguard.jfchenier.ca
-adguard.jfpii.com
 dns.jhangy.us
 dns.jichi.io
 homes.jif9.net
@@ -4268,7 +4247,6 @@ pi4.jnraptor.net
 vps1.jnraptor.net
 vps2.jnraptor.net
 home.jobytan.com
-jhgotchu.joe.dj
 labubudubaichocolatephonk.joe.dj
 skibiditoilet.joe.dj
 dns.joey01245.nl
@@ -4298,20 +4276,15 @@ ab.jsx.pm
 b.jtt.ink
 dns.juancamos.com
 addns.jujuland.net
-finney.juk.fi
 aanakwd.jumpingcrab.com
 abcmathforkids.jumpingcrab.com
-aidenwang.jumpingcrab.com
 forschoolcuzgoguardianisbad.jumpingcrab.com
 galacticfederation.jumpingcrab.com
-homeworkhelper6741.jumpingcrab.com
 howtodomaths.jumpingcrab.com
 ifyourereadingthisyourecool.jumpingcrab.com
 learnsktech.jumpingcrab.com
 mathchallenges.jumpingcrab.com
-mathisgreat.jumpingcrab.com
 metteolovesitinthebut.jumpingcrab.com
-nihaou.jumpingcrab.com
 qazwsxedcrfvtgbyhnujmikolp.jumpingcrab.com
 qusr.jumpingcrab.com
 samuel-is-your-leader.jumpingcrab.com
@@ -4414,14 +4387,9 @@ dns2.klcd.eu
 nickel.klinikfysik.dk
 kwljerds.jkwlerld.klonek.net
 adguard.kngnet.de
-advancedchemistry.knr.cl
-learnadvancedcalculus.knr.cl
-learnadvancedchemistry.knr.cl
-simplecalculus.knr.cl
 dns.knyfie.com
 dns.kobo.dev
 doh.koduarve.ee
-idk.komanda.cl
 lorc17-dns.komeho.info
 train.utopia.komshilook.net
 ad.kone.ink
@@ -11535,7 +11503,6 @@ idenitrust.com
 iditinahuipidorasidagga.net
 idleforest.com
 idmavgyx.cc
-idnifrkn.online
 idolproxy.com
 idrfkike.com
 ie5qtzarpqymn.online
@@ -11657,7 +11624,6 @@ iproxy.lol
 iproxyvpn.mom
 iproyal.com
 ipsec-vpn.help
-ipservers.xyz
 ipsharkk.com
 ipunblock.com
 ipunblocker.com
@@ -11721,7 +11687,6 @@ ixl.plus
 ixl.rocks
 ixl.works
 ixpjclmh.com
-ixqd3zy.online
 ixumequs.com
 j166.net
 j36.net
@@ -11741,8 +11706,6 @@ jaxpulse.com
 jbmcxmpx.cc
 jcbb.cc
 jcbm-mc.uk
-jcdns.fun
-jdsaaz7dplvp.online
 jego.club
 jego.pro
 jegocloud.com
@@ -11787,7 +11750,6 @@ jike0001.net
 jike4187.icu
 jike496e.icu
 jike77.net
-jikecloud.info
 jikeyunbest.net
 jilianclou.com
 jiliancloud.net
@@ -11825,7 +11787,6 @@ jms6.net
 jnhhjytt.com
 jnprd.com
 jnxhylc.cn
-jnzerpgy.com
 jobi.one
 jobjapan.com
 joczxcrdycxbhslwzu.online
@@ -11849,7 +11810,6 @@ joouddo.ru
 jooy.cc
 jordanburrow.com
 jordansmathwork.org
-jordansmathworkis.life
 jorvito.ru
 josephfamily.org
 joshberg.org
@@ -11933,7 +11893,6 @@ jzbnvihg.com
 jzlvpn.com
 jzvuagmd.com
 k-lian.com
-k0vj2kau.online
 k12biography.com
 k12biology.com
 k2vpn.io
@@ -12006,7 +11965,6 @@ keytable92.com
 kgelnljf.com
 kgkt5w6.com
 khanacademy.mom
-khanacademy.online
 khn5magu.online
 khome.site
 khpkadmig.click

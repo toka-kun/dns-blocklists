@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Jun 2026 11:24 UTC
-# Version: 2026.0604.1124.59
+# Last modified: 04 Jun 2026 19:18 UTC
+# Version: 2026.0604.1918.11
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 51791
+# Number of entries: 51765
 #
 *.web-119bet-2025-google-vip-119bet.119-hello.com
 *.web-166betcom-vip-166betcc-166betvip-2025fa-east1.166tiger.com
@@ -1161,8 +1161,6 @@
 *.dripcasino.jpn.com
 *.m.juwa2.com
 *.8jvf.katawee.net
-*.gwfd.katawee.net
-*.q7sm4r.katawee.net
 *.paris-sportifs.lefigaro.fr
 *.cdn.lfastcdn.com
 *.no.lilibet27.com
@@ -9832,6 +9830,7 @@
 *.bdmbetcasino-gr.com
 *.bdmbetcasino-hu.com
 *.bdmbetcasinos.net
+*.bdsafe.bet
 *.bdslot.co
 *.bdt2222casino.com
 *.bdtcasino.app
@@ -21693,6 +21692,7 @@
 *.cewekslot88.net
 *.cex.io
 *.cf999brvip.com
+*.cfbtrivia.com
 *.cfp.casino
 *.cg1495.com
 *.cg6.co
@@ -22672,7 +22672,6 @@
 *.csgorolltr.com
 *.cskh99.com
 *.cslotv.com
-*.csxlzh.com
 *.csyl11.com
 *.ct.com
 *.ctlottery.org
@@ -28494,7 +28493,6 @@
 *.idnpokerrr.space
 *.idnpokers.org
 *.idnpokerslot.com
-*.idnslot.blog
 *.idnslot.pro
 *.idnslotasia.com
 *.idnslotpoker.com
@@ -28544,7 +28542,6 @@
 *.igobetcasinos.org
 *.igtlottery.it
 *.ihsancasino.vip
-*.ii8.casino
 *.ii87d3.com
 *.iif.casino
 *.iiwinslots.com
@@ -28568,7 +28565,6 @@
 *.ilucky88.bet
 *.im4.casino
 *.images-crewards.com
-*.imajbets1611.com
 *.imajbets1612.com
 *.imb.casino
 *.imba96.club
@@ -28677,7 +28673,6 @@
 *.industrynightclubandcasino.com
 *.inetbet.com
 *.inetbetcasino.de
-*.infinetserver.net
 *.infingame.com
 *.infini138.vip
 *.infinitefusioncalc.com
@@ -28738,7 +28733,6 @@
 *.insidecasino.ca
 *.insider-casino.com
 *.insidercasinoreviews.com
-*.insidethekingdom.net
 *.inslots.blog
 *.insomniaediciones.com
 *.insta-casino-online.net
@@ -28798,7 +28792,6 @@
 *.instantdreamcasino.org
 *.instantpayoutcasinousa.com
 *.instantslot88.xyz
-*.instantwithdrawalcasinocanadian.com
 *.instantwithdrawcasino-au.com
 *.instasino-casino-fr.com
 *.instasino-casino-nl.com
@@ -28922,7 +28915,6 @@
 *.irmve.com
 *.irneeds.com
 *.ironhorsecasino.org
-*.ironhorsecasinos.net
 *.irtx.casino
 *.irwin.casino
 *.irwin-casino-official.com
@@ -28968,7 +28960,6 @@
 *.istanacasino.pro
 *.istanacasino.win
 *.istanacasinologin.com
-*.istanacasinos.com
 *.istanacasinoslot.com
 *.istanalaut.xyz
 *.istanaslot.app
@@ -28992,8 +28983,6 @@
 *.its.casino
 *.itsfogo.com
 *.itudomino.app
-*.iu6.casino
-*.ivancasinogames.com
 *.ivi-bettx.net
 *.ivibbet.net
 *.ivibet.com
@@ -29269,7 +29258,6 @@
 *.jamtoto.vip
 *.jamulcasinosd.com
 *.jamvsjellybets.com
-*.janboo.net
 *.janda4dajdf.xyz
 *.janda4dapk.com
 *.janda4dyes.com
@@ -29283,7 +29271,6 @@
 *.japan1xbet.org
 *.japanbetslot.com
 *.japanesecasino.com
-*.japanesecasinosnews.com
 *.jarum4d.vip
 *.jarvispoker.com
 *.jasaparlay.app
@@ -29496,7 +29483,6 @@
 *.jetxgame.com
 *.jeux-mafia-casino.com
 *.jeux-retro-casino.com
-*.jeux2casino.net
 *.jeuxdorcasino.com
 *.jg6.casino
 *.jg8.casino
@@ -29523,7 +29509,6 @@
 *.jili77.ph
 *.jiliace.online
 *.jiliapp.com
-*.jiliapp77.shop
 *.jilibay.app
 *.jilibd.biz
 *.jilibee.pro
@@ -29971,7 +29956,6 @@
 *.joy-casino-slots.club
 *.joy-online-casino.top
 *.joyacasino.onl
-*.joyacasinos.com
 *.joybetstream.com
 *.joyc726.casino
 *.joycasino.accountant
@@ -30103,7 +30087,6 @@
 *.joycasino-yyc.top
 *.joycasino-zer.top
 *.joycasino-zle.top
-*.joycasino-zot13.top
 *.joycasino-zra.top
 *.joycasino-zuv.top
 *.joycasino-zxq.top
@@ -30405,7 +30388,6 @@
 *.k8casino.io
 *.k8d.casino
 *.k8poker.net
-*.k91.casino
 *.k9m.casino
 *.k9win.homes
 *.k9wincasino.org
@@ -30578,7 +30560,6 @@
 *.katanaslot.org
 *.katanaspin-casino.fr
 *.katanaspincasino.fr
-*.katapekkia.net
 *.katran.online
 *.kats-casino.net
 *.katscasino.de
@@ -30641,7 +30622,6 @@
 *.kedai169.id
 *.kedaiprada.xyz
 *.kedaitogeljos.xyz
-*.keenkorea.com
 *.keentcasinoo.top
 *.keepitsimple88.com
 *.keetoowahenidcasino.com
@@ -30804,7 +30784,6 @@
 *.kewadincasinosaultstemarie.com
 *.kewadincasinostignace.com
 *.key-drop.com
-*.key-drop2.com
 *.keystoneuniformcap.com
 *.kfbet.com
 *.kfc-casino-official-au.com
@@ -30830,7 +30809,6 @@
 *.kickapooluckyeaglecasino.org
 *.kickr.com
 *.kidschance-md.org
-*.kiernanskindness.org
 *.kijangwinslot.com
 *.kikislotsoya.store
 *.kikoberastagi.com
@@ -30843,7 +30821,6 @@
 *.kilat289.org
 *.kilat333.org
 *.kilat777.asia
-*.kilat777.lol
 *.kilat777.online
 *.kilat77sultan.com
 *.kilat799bets.shop
@@ -30866,7 +30843,6 @@
 *.kineko.com
 *.kineko-casino.com
 *.kineko-casino.de
-*.kinesitherapie.net
 *.kineticpoker.com
 *.king.ph
 *.king-billy-casino.org
@@ -31146,7 +31122,6 @@
 *.koibatam.com
 *.koibekasi.com
 *.koijakarta.com
-*.koikeya.net
 *.koin138.bet
 *.koin4d.shop
 *.koin55.app
@@ -31254,7 +31229,6 @@
 *.kometa-casino-gouak.top
 *.kometa-casino-gouje.top
 *.kometa-casino-goulc.top
-*.kometa-casino-govti.top
 *.kometa-casino-govtv.top
 *.kometa-casino-gow2e.top
 *.kometa-casino-gow5x.top
@@ -35607,6 +35581,7 @@
 *.mxb.casino
 *.mxbonos.casino
 *.mxfun-casino-mexico.com
+*.mxtrovex.site
 *.mxwin22.com
 *.mxwin31.com
 *.my-1xbet.com
@@ -48537,7 +48512,6 @@
 *.vavada-casino-japaoprivateisland.tech
 *.vavada-casino-lu1.top
 *.vavada-casino-p2.top
-*.vavada-casino-polska7.pl
 *.vavada-casino-q1m.top
 *.vavada-casino-r1v.top
 *.vavada-casino-rk2.top

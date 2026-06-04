@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Jun 2026 11:31 UTC
-# Version: 2026.0604.1131.33
+# Last modified: 04 Jun 2026 19:25 UTC
+# Version: 2026.0604.1925.07
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3423
+# Number of entries: 3421
 #
 local=/ss.0001.xyz/
 local=/ns.00dani.me/
@@ -1567,7 +1567,6 @@ local=/doh.jeroenhd.nl/
 local=/host.jerry-lee.uk/
 local=/dns.jerryw.cn/
 local=/adguard.jfchenier.ca/
-local=/adguard.jfpii.com/
 local=/dns.jhangy.us/
 local=/dns.jichi.io/
 local=/dns.jimirobaer.be/
@@ -3172,7 +3171,6 @@ local=/ivnkn.xyz/
 local=/jabber-germany.de/
 local=/jabber-server.de/
 local=/jackyes.ovh/
-local=/jcdns.fun/
 local=/jimmyshjj.top/
 local=/jkdns.me/
 local=/jnprd.com/

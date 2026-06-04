@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Jun 2026 11:31 UTC
-# Version: 2026.0604.1131.33
+# Last modified: 04 Jun 2026 19:25 UTC
+# Version: 2026.0604.1925.07
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3882
+# Number of entries: 3880
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -2105,13 +2105,11 @@
 0.0.0.0 hk.jason666.top
 0.0.0.0 adguard.jaydub.cloud
 0.0.0.0 argus1.jcconnell.com
-0.0.0.0 jcdns.fun
 0.0.0.0 dns.jd.com
 0.0.0.0 doh.jeroenhd.nl
 0.0.0.0 host.jerry-lee.uk
 0.0.0.0 dns.jerryw.cn
 0.0.0.0 adguard.jfchenier.ca
-0.0.0.0 adguard.jfpii.com
 0.0.0.0 dns.jhangy.us
 0.0.0.0 dns.jichi.io
 0.0.0.0 dns.jimirobaer.be

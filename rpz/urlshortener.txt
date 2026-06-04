@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780569240 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780597740 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 04 Jun 2026 10:34 UTC
-; Version: 2026.0604.1034.42
+; Last modified: 04 Jun 2026 18:29 UTC
+; Version: 2026.0604.1829.32
 ; Syntax: RPZ
-; Number of entries: 19712
+; Number of entries: 19704
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1347,8 +1347,6 @@ ice.bz CNAME .
 *.ice.bz CNAME .
 iti.bz CNAME .
 *.iti.bz CNAME .
-ivg.bz CNAME .
-*.ivg.bz CNAME .
 k33.bz CNAME .
 *.k33.bz CNAME .
 lnk.bz CNAME .
@@ -2023,8 +2021,6 @@ hk6vdj4z.click CNAME .
 *.hk6vdj4z.click CNAME .
 isabi.click CNAME .
 *.isabi.click CNAME .
-isang.click CNAME .
-*.isang.click CNAME .
 klic.click CNAME .
 *.klic.click CNAME .
 linkapp.click CNAME .
@@ -12027,8 +12023,6 @@ hubs.li CNAME .
 *.hubs.li CNAME .
 ibis.li CNAME .
 *.ibis.li CNAME .
-ibizabet.li CNAME .
-*.ibizabet.li CNAME .
 ick.li CNAME .
 *.ick.li CNAME .
 iea.li CNAME .
@@ -13181,8 +13175,6 @@ chn.lk CNAME .
 *.chn.lk CNAME .
 el.lk CNAME .
 *.el.lk CNAME .
-kota.lk CNAME .
-*.kota.lk CNAME .
 mod.lk CNAME .
 *.mod.lk CNAME .
 shorturl.lk CNAME .

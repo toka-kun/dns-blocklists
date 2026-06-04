@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 04 Jun 2026 10:34 UTC
-! Version: 2026.0604.1034.42
+! Last modified: 04 Jun 2026 18:29 UTC
+! Version: 2026.0604.1829.32
 ! Syntax: AdBlock
-! Number of entries: 9856
+! Number of entries: 9852
 !
 ||a.189.cn^
 ||t.2merkato.com^
@@ -4022,7 +4022,6 @@
 ||ibis.li^
 ||ibit.ly^
 ||ibitsy.com^
-||ibizabet.li^
 ||iblgcr.com^
 ||ibm.biz^
 ||ibm.co^
@@ -4204,7 +4203,6 @@
 ||is-gd.link^
 ||is3.co^
 ||isabi.click^
-||isang.click^
 ||isc-vn.com^
 ||isc-vn.org^
 ||iscool.net^
@@ -4252,7 +4250,6 @@
 ||iurl.pk^
 ||iurl.us^
 ||iuu.ro^
-||ivg.bz^
 ||ivtshort.com^
 ||iwr.link^
 ||iwwlink.org^
@@ -4530,7 +4527,6 @@
 ||korta.nu^
 ||korta.st^
 ||kortlink.dk^
-||kota.lk^
 ||kotl.in^
 ||kp.org^
 ||kpmg.ch^

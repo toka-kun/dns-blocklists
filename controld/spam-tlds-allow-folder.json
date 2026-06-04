@@ -3578,6 +3578,13 @@
       }
     },
     {
+      "PK": "meetbot.biz",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "mein-kunden.center",
       "action": {
         "do": 1,
@@ -4930,6 +4937,13 @@
     },
     {
       "PK": "recollect.fyi",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "redbrain.shop",
       "action": {
         "do": 1,
         "status": 1

@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 04 Jun 2026 10:32 UTC
-! Version: 2026.0604.1032.45
+! Last modified: 04 Jun 2026 18:27 UTC
+! Version: 2026.0604.1827.58
 ! Syntax: AdBlock
-! Number of entries: 15843
+! Number of entries: 15823
 !
 ||trader.212group.de^
 ||eu.2bagsvalley.cn^
@@ -7169,7 +7169,6 @@
 ||idproof.de^
 ||idsaled.de^
 ||ie-audit.com^
-||ieblingskind.com^
 ||ielaf.shop^
 ||iemakluck.com^
 ||ifanze.net^
@@ -7261,7 +7260,6 @@
 ||improbuehne.de^
 ||impruneta.de^
 ||impulsa.shop^
-||imregen.de^
 ||imtisaltradersltd.com^
 ||imtrend.at^
 ||inador.com^
@@ -7316,9 +7314,7 @@
 ||inktv-hengels.com^
 ||innentapete.com^
 ||innerekraft.at^
-||innerpharmacy.org^
 ||innet24.de^
-||innomarkt.de^
 ||innomodelcar.com^
 ||innovationtrdng.com^
 ||innovativesales.org^
@@ -7335,7 +7331,6 @@
 ||insanibadshop.com^
 ||insektnotdienst.at^
 ||insiderlx.com^
-||insightberichte.de^
 ||insightfulyou.net^
 ||insolesgeeks.com^
 ||insolvenz-veit.de^
@@ -7363,7 +7358,6 @@
 ||instructionk.com^
 ||instrumentak.com^
 ||instrumentbest.com^
-||instrumentemusic.com^
 ||integisok.com^
 ||integralbroker.com^
 ||integralz.com^
@@ -7385,7 +7379,6 @@
 ||interpellet.at^
 ||interstatesavings.us^
 ||intertradesfx.com^
-||interwood-holz.com^
 ||intesa-gestion.com^
 ||intialrmost.com^
 ||intimewatches.de^
@@ -7452,7 +7445,6 @@
 ||isabel-modehaus.de^
 ||isabellazce.de^
 ||iscop.it^
-||ishibashifoodstore.com^
 ||isipisi.online^
 ||iskenderunsolarenerji.com^
 ||ism-capital.com^
@@ -7518,7 +7510,6 @@
 ||jdflmportexport.de^
 ||jdrmoveis.online^
 ||jdsportsoutlet.de^
-||je-decouvre.fr^
 ||jean-weis.com^
 ||jeans-fashion.com^
 ||jeansniedrigerpreis.com^
@@ -7568,7 +7559,6 @@
 ||jn-recruitment.at^
 ||jncojeans.de^
 ||jo-joshop.com^
-||joanoks.com^
 ||joaostoreoficial.com^
 ||jobam.shop^
 ||jobdreamonline.com^
@@ -7577,7 +7567,6 @@
 ||jobpool.ch^
 ||jobprofis24.de^
 ||jobs-consulting.de^
-||jobs-im-homeoffice.com^
 ||jobschmiede.com^
 ||jobskompass.com^
 ||joesboardandtimberonline.com^
@@ -7647,7 +7636,6 @@
 ||junge-dailyshop.com^
 ||jungle-shoes.com^
 ||jungleknnt.de^
-||juniq-tech.de^
 ||juntacomercialleiloeiros.com^
 ||juretro.com^
 ||justdance-events.nl^
@@ -7772,10 +7760,8 @@
 ||kamagrastore24.org^
 ||kamagratrade.com^
 ||kamagratrade.net^
-||kamagratrade.shop^
 ||kamagry.sk^
 ||kamalpoolconstruction.com^
-||kamashop.org^
 ||kamera89.com^
 ||kamerarabatt.de^
 ||kamerasecure.de^
@@ -7809,7 +7795,6 @@
 ||kanyecharms.store^
 ||kanziii.net^
 ||kanzlei-helmut-kuhn.de^
-||kanzlei-keller-luers.de^
 ||kanzlei-neudeck.de^
 ||kanzlei-niva.de^
 ||kanzlei-ra.net^
@@ -7903,7 +7888,6 @@
 ||kedsfactoryoutlet.com^
 ||kedsgermany.com^
 ||kedsschuhe.de^
-||kedsschuheschweiz.com^
 ||kedssuomi.com^
 ||kedssuomishop.com^
 ||keen--shoes.com^
@@ -7952,7 +7936,6 @@
 ||kibekde.com^
 ||kickarea.cn^
 ||kickcultureco.com^
-||kickersberlin.de^
 ||kickersschuhe.at^
 ||kicksdunk.com^
 ||kickswelt.at^
@@ -7974,7 +7957,6 @@
 ||kincorybeauty.com^
 ||kindduckling.com^
 ||kindergarten-supplies.com^
-||kindergartengeschenke.de^
 ||kindergartenpaedergogik.de^
 ||kinderglitzern.de^
 ||kinderlichtblicke.de^
@@ -8012,7 +7994,6 @@
 ||kitchendrop.de^
 ||kitchenmasters.net^
 ||kitchenpeace.com^
-||kitchenstar24.de^
 ||kitchenyummy.com^
 ||kiteleaf.com^
 ||kithery.com^
@@ -8025,7 +8006,6 @@
 ||kjbeautysalon.com^
 ||kjsr-radeberg.de^
 ||kjtbestov.click^
-||kjw-garten.de^
 ||kkrde-api.com^
 ||kkz-insolvenz.de^
 ||kkzon.com^
@@ -8114,7 +8094,6 @@
 ||komono-uk.com^
 ||kompens.de^
 ||kompetenzworkshops.de^
-||komplettanschlussangebote.de^
 ||komponentende.com^
 ||konditorei-mohrholz.de^
 ||konigmode.de^
@@ -8137,7 +8116,6 @@
 ||kosecikva.com^
 ||kosmetik-loxstedt.de^
 ||kostuemfest.com^
-||kostummode.com^
 ||kostumparty.com^
 ||koucy.com^
 ||koupit-kamagra-viagra.online^
@@ -8158,6 +8136,7 @@
 ||krahl-container.eu^
 ||krakenaccess.com^
 ||kraus-anwaelte.de^
+||krause-winter.com^
 ||krausmode.de^
 ||kreative-zukunft.com^
 ||kredit-finanzen.com^
@@ -14793,6 +14772,7 @@
 ||velaro-plus.com^
 ||velencia.de^
 ||velenza.de^
+||velinaboutiquewien.com^
 ||velionpartner.net^
 ||velo-nation.com^
 ||velocityh.com^

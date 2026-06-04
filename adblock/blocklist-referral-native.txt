@@ -5,10 +5,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 04 Jun 2026 10:17 UTC
-! Version: 2026.0604.1017.59
+! Last modified: 04 Jun 2026 18:11 UTC
+! Version: 2026.0604.1811.10
 ! Syntax: AdBlock
-! Number of entries: 1424
+! Number of entries: 1423
 !
 ||l.1mp.ru^
 ||links.2ns.fi^
@@ -410,7 +410,6 @@
 ||trk2.genieshopping.com^
 ||target.georiot.com^
 ||linksmail.geosolinc.com^
-||clicktracker.getblue.io^
 ||tag.getdrip.com^
 ||app.getresponse.com^
 ||tracker.glopss.com^

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780572720 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780601160 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 04 Jun 2026 11:32 UTC
-; Version: 2026.0604.1132.47
+; Last modified: 04 Jun 2026 19:26 UTC
+; Version: 2026.0604.1926.00
 ; Syntax: RPZ
-; Number of entries: 34324
+; Number of entries: 34240
 ;
 bebra.ac CNAME .
 *.bebra.ac CNAME .
@@ -795,8 +795,6 @@ help.vantagestrategy.com.au CNAME .
 *.help.vantagestrategy.com.au CNAME .
 wandana.franklinfamily.au CNAME .
 *.wandana.franklinfamily.au CNAME .
-waguri.berryfamily.id.au CNAME .
-*.waguri.berryfamily.id.au CNAME .
 skill.mass.mcdonnell.id.au CNAME .
 *.skill.mass.mcdonnell.id.au CNAME .
 securely.abbotsfordhallforhire.org.au CNAME .
@@ -2507,14 +2505,6 @@ weloveyounoah.hosteriafutaleufu.cl CNAME .
 *.weloveyounoah.hosteriafutaleufu.cl CNAME .
 2ndi38rufidhdiwu.ilogica-soluciones.cl CNAME .
 *.2ndi38rufidhdiwu.ilogica-soluciones.cl CNAME .
-boiii.iltec.cl CNAME .
-*.boiii.iltec.cl CNAME .
-mathstudy.iltec.cl CNAME .
-*.mathstudy.iltec.cl CNAME .
-snoopy.iltec.cl CNAME .
-*.snoopy.iltec.cl CNAME .
-thatstuff.iltec.cl CNAME .
-*.thatstuff.iltec.cl CNAME .
 us-east-production-36887.jpleventos.cl CNAME .
 *.us-east-production-36887.jpleventos.cl CNAME .
 us-west-production-7892.jpleventos.cl CNAME .
@@ -2525,16 +2515,6 @@ imbored.kinemasot.cl CNAME .
 *.imbored.kinemasot.cl CNAME .
 what.kinemasot.cl CNAME .
 *.what.kinemasot.cl CNAME .
-advancedchemistry.knr.cl CNAME .
-*.advancedchemistry.knr.cl CNAME .
-learnadvancedcalculus.knr.cl CNAME .
-*.learnadvancedcalculus.knr.cl CNAME .
-learnadvancedchemistry.knr.cl CNAME .
-*.learnadvancedchemistry.knr.cl CNAME .
-simplecalculus.knr.cl CNAME .
-*.simplecalculus.knr.cl CNAME .
-idk.komanda.cl CNAME .
-*.idk.komanda.cl CNAME .
 orxwaicjss.laboratoriosdavis.cl CNAME .
 *.orxwaicjss.laboratoriosdavis.cl CNAME .
 waguri.lastarria.cl CNAME .
@@ -9409,8 +9389,6 @@ canvastuhsd.ignorelist.com CNAME .
 *.canvastuhsd.ignorelist.com CNAME .
 cleverp0rtal.ignorelist.com CNAME .
 *.cleverp0rtal.ignorelist.com CNAME .
-colleageapplicaeastion.com.ignorelist.com CNAME .
-*.colleageapplicaeastion.com.ignorelist.com CNAME .
 justjoshin.com.ignorelist.com CNAME .
 *.justjoshin.com.ignorelist.com CNAME .
 thiswebsiteispeak4life.com.ignorelist.com CNAME .
@@ -9433,8 +9411,6 @@ geographystudyguide.ignorelist.com CNAME .
 *.geographystudyguide.ignorelist.com CNAME .
 learningscience.ignorelist.com CNAME .
 *.learningscience.ignorelist.com CNAME .
-matematicasfacilygratis.ignorelist.com CNAME .
-*.matematicasfacilygratis.ignorelist.com CNAME .
 meeeow.ignorelist.com CNAME .
 *.meeeow.ignorelist.com CNAME .
 phhs66.ignorelist.com CNAME .
@@ -9449,18 +9425,12 @@ schoool.ignorelist.com CNAME .
 *.schoool.ignorelist.com CNAME .
 sigma10192011.ignorelist.com CNAME .
 *.sigma10192011.ignorelist.com CNAME .
-subdomained.ignorelist.com CNAME .
-*.subdomained.ignorelist.com CNAME .
 test52139.ignorelist.com CNAME .
 *.test52139.ignorelist.com CNAME .
 thecassius.ignorelist.com CNAME .
 *.thecassius.ignorelist.com CNAME .
-too-lazy-to-go-to-the-registry.ignorelist.com CNAME .
-*.too-lazy-to-go-to-the-registry.ignorelist.com CNAME .
 uhhhhhh.ignorelist.com CNAME .
 *.uhhhhhh.ignorelist.com CNAME .
-unsubscribed.ignorelist.com CNAME .
-*.unsubscribed.ignorelist.com CNAME .
 voidvoidyesyes.ignorelist.com CNAME .
 *.voidvoidyesyes.ignorelist.com CNAME .
 whodagoat.ignorelist.com CNAME .
@@ -9719,8 +9689,6 @@ iossync.com CNAME .
 *.iossync.com CNAME .
 ioyayxdb.com CNAME .
 *.ioyayxdb.com CNAME .
-unblocker.chesse.ip-ddns.com CNAME .
-*.unblocker.chesse.ip-ddns.com CNAME .
 pp.hamburger.ip-ddns.com CNAME .
 *.pp.hamburger.ip-ddns.com CNAME .
 skibidi-rizz-gyatt-fanum-tax-sigma.hamburger.ip-ddns.com CNAME .
@@ -9795,10 +9763,6 @@ it-works4u.com CNAME .
 *.it-works4u.com CNAME .
 676141mango1.itafricagroup.com CNAME .
 *.676141mango1.itafricagroup.com CNAME .
-bolts.itafricagroup.com CNAME .
-*.bolts.itafricagroup.com CNAME .
-ggfresh.itafricagroup.com CNAME .
-*.ggfresh.itafricagroup.com CNAME .
 holy.itafricagroup.com CNAME .
 *.holy.itafricagroup.com CNAME .
 khanhow-to-do-math.itafricagroup.com CNAME .
@@ -9885,8 +9849,6 @@ argus1.jcconnell.com CNAME .
 *.argus1.jcconnell.com CNAME .
 dns.jd.com CNAME .
 *.dns.jd.com CNAME .
-charliekirky.jefferykirk.com CNAME .
-*.charliekirky.jefferykirk.com CNAME .
 jegocloud.com CNAME .
 *.jegocloud.com CNAME .
 jegovpn.com CNAME .
@@ -9901,8 +9863,6 @@ jetssh.com CNAME .
 *.jetssh.com CNAME .
 jfalling.com CNAME .
 *.jfalling.com CNAME .
-adguard.jfpii.com CNAME .
-*.adguard.jfpii.com CNAME .
 jhsdeuqk.com CNAME .
 *.jhsdeuqk.com CNAME .
 jhyrbbzo.com CNAME .
@@ -9955,8 +9915,6 @@ jnhhjytt.com CNAME .
 *.jnhhjytt.com CNAME .
 jnprd.com CNAME .
 *.jnprd.com CNAME .
-jnzerpgy.com CNAME .
-*.jnzerpgy.com CNAME .
 jobjapan.com CNAME .
 *.jobjapan.com CNAME .
 home.jobytan.com CNAME .
@@ -10007,14 +9965,10 @@ aanakwd.jumpingcrab.com CNAME .
 *.aanakwd.jumpingcrab.com CNAME .
 abcmathforkids.jumpingcrab.com CNAME .
 *.abcmathforkids.jumpingcrab.com CNAME .
-aidenwang.jumpingcrab.com CNAME .
-*.aidenwang.jumpingcrab.com CNAME .
 forschoolcuzgoguardianisbad.jumpingcrab.com CNAME .
 *.forschoolcuzgoguardianisbad.jumpingcrab.com CNAME .
 galacticfederation.jumpingcrab.com CNAME .
 *.galacticfederation.jumpingcrab.com CNAME .
-homeworkhelper6741.jumpingcrab.com CNAME .
-*.homeworkhelper6741.jumpingcrab.com CNAME .
 howtodomaths.jumpingcrab.com CNAME .
 *.howtodomaths.jumpingcrab.com CNAME .
 ifyourereadingthisyourecool.jumpingcrab.com CNAME .
@@ -10023,12 +9977,8 @@ learnsktech.jumpingcrab.com CNAME .
 *.learnsktech.jumpingcrab.com CNAME .
 mathchallenges.jumpingcrab.com CNAME .
 *.mathchallenges.jumpingcrab.com CNAME .
-mathisgreat.jumpingcrab.com CNAME .
-*.mathisgreat.jumpingcrab.com CNAME .
 metteolovesitinthebut.jumpingcrab.com CNAME .
 *.metteolovesitinthebut.jumpingcrab.com CNAME .
-nihaou.jumpingcrab.com CNAME .
-*.nihaou.jumpingcrab.com CNAME .
 qazwsxedcrfvtgbyhnujmikolp.jumpingcrab.com CNAME .
 *.qazwsxedcrfvtgbyhnujmikolp.jumpingcrab.com CNAME .
 qusr.jumpingcrab.com CNAME .
@@ -16821,8 +16771,6 @@ dns.goertz.digital CNAME .
 *.dns.goertz.digital CNAME .
 onion.direct CNAME .
 *.onion.direct CNAME .
-jhgotchu.joe.dj CNAME .
-*.jhgotchu.joe.dj CNAME .
 labubudubaichocolatephonk.joe.dj CNAME .
 *.labubudubaichocolatephonk.joe.dj CNAME .
 skibiditoilet.joe.dj CNAME .
@@ -17075,8 +17023,6 @@ homevpn.eu CNAME .
 *.homevpn.eu CNAME .
 burkholder.jake.eu CNAME .
 *.burkholder.jake.eu CNAME .
-hello1.jake.eu CNAME .
-*.hello1.jake.eu CNAME .
 jj.jake.eu CNAME .
 *.jj.jake.eu CNAME .
 satirise.jake.eu CNAME .
@@ -17219,8 +17165,6 @@ dns.christerwaren.fi CNAME .
 *.dns.christerwaren.fi CNAME .
 nf-is-a-good-artist-you-should-listen-to-his-music.finxstudio.fi CNAME .
 *.nf-is-a-good-artist-you-should-listen-to-his-music.finxstudio.fi CNAME .
-finney.juk.fi CNAME .
-*.finney.juk.fi CNAME .
 lastentarvike.fi CNAME .
 *.lastentarvike.fi CNAME .
 lelux.fi CNAME .
@@ -17491,8 +17435,6 @@ hidethis.fun CNAME .
 *.hidethis.fun CNAME .
 hideyour.fun CNAME .
 *.hideyour.fun CNAME .
-jcdns.fun CNAME .
-*.jcdns.fun CNAME .
 kekv.fun CNAME .
 *.kekv.fun CNAME .
 x.laoban.fun CNAME .
@@ -18805,8 +18747,6 @@ ivpn.info CNAME .
 *.ivpn.info CNAME .
 jifengcloud.info CNAME .
 *.jifengcloud.info CNAME .
-jikecloud.info CNAME .
-*.jikecloud.info CNAME .
 jisuvip.info CNAME .
 *.jisuvip.info CNAME .
 juzicloud.info CNAME .
@@ -20135,8 +20075,6 @@ heysocks.life CNAME .
 *.heysocks.life CNAME .
 hidemy.life CNAME .
 *.hidemy.life CNAME .
-jordansmathworkis.life CNAME .
-*.jordansmathworkis.life CNAME .
 maxservice.life CNAME .
 *.maxservice.life CNAME .
 pure22tj.life CNAME .
@@ -24173,12 +24111,8 @@ securifi.jagalabs.net CNAME .
 *.securifi.jagalabs.net CNAME .
 jailbreaked.net CNAME .
 *.jailbreaked.net CNAME .
-waguri.jalcorn.net CNAME .
-*.waguri.jalcorn.net CNAME .
 clever.jansenmedical.net CNAME .
 *.clever.jansenmedical.net CNAME .
-google.jaygraz.net CNAME .
-*.google.jaygraz.net CNAME .
 securly.com.jedimasters.net CNAME .
 *.securly.com.jedimasters.net CNAME .
 jf16.net CNAME .
@@ -26131,8 +26065,6 @@ i5d2kcibzp.online CNAME .
 *.i5d2kcibzp.online CNAME .
 ibdwcewgnkujqnzfsxxa.online CNAME .
 *.ibdwcewgnkujqnzfsxxa.online CNAME .
-idnifrkn.online CNAME .
-*.idnifrkn.online CNAME .
 ie5qtzarpqymn.online CNAME .
 *.ie5qtzarpqymn.online CNAME .
 infinitecampus.online CNAME .
@@ -26145,20 +26077,12 @@ iq4nrowd.online CNAME .
 *.iq4nrowd.online CNAME .
 itbsd4wg.online CNAME .
 *.itbsd4wg.online CNAME .
-ixqd3zy.online CNAME .
-*.ixqd3zy.online CNAME .
-jdsaaz7dplvp.online CNAME .
-*.jdsaaz7dplvp.online CNAME .
 joczxcrdycxbhslwzu.online CNAME .
 *.joczxcrdycxbhslwzu.online CNAME .
 jry7aalgvrp.online CNAME .
 *.jry7aalgvrp.online CNAME .
 js72dh.online CNAME .
 *.js72dh.online CNAME .
-k0vj2kau.online CNAME .
-*.k0vj2kau.online CNAME .
-khanacademy.online CNAME .
-*.khanacademy.online CNAME .
 khn5magu.online CNAME .
 *.khn5magu.online CNAME .
 khvot2odef.online CNAME .
@@ -27455,8 +27379,6 @@ forschoolonlyss.ilja.org CNAME .
 *.forschoolonlyss.ilja.org CNAME .
 imagetrove.org CNAME .
 *.imagetrove.org CNAME .
-history-notes.infoudec.org CNAME .
-*.history-notes.infoudec.org CNAME .
 data.think.infoudec.org CNAME .
 *.data.think.infoudec.org CNAME .
 ininja.org CNAME .
@@ -30555,10 +30477,6 @@ anyweatherispepsiweather.1903.jdymqic.shop CNAME .
 *.anyweatherispepsiweather.1903.jdymqic.shop CNAME .
 6767alpharizzmath.jdymqic.shop CNAME .
 *.6767alpharizzmath.jdymqic.shop CNAME .
-s8.amazonaws.jdymqic.shop CNAME .
-*.s8.amazonaws.jdymqic.shop CNAME .
-ijustwanttstowork.dsylexia.jdymqic.shop CNAME .
-*.ijustwanttstowork.dsylexia.jdymqic.shop CNAME .
 jichangtuijian.shop CNAME .
 *.jichangtuijian.shop CNAME .
 ktmcloud.shop CNAME .
@@ -33587,8 +33505,6 @@ dns.infosec.xyz CNAME .
 *.dns.infosec.xyz CNAME .
 iopl.xyz CNAME .
 *.iopl.xyz CNAME .
-ipservers.xyz CNAME .
-*.ipservers.xyz CNAME .
 dns.itya.xyz CNAME .
 *.dns.itya.xyz CNAME .
 ivnkn.xyz CNAME .
